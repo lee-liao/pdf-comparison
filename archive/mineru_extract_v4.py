@@ -21,7 +21,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Read API key from environment or use default
-MINERU_API_KEY = os.environ.get("MINERU_API_KEY", "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI0OTYwMzA0NyIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc3Mjk0NTMyOCwiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiIiwib3BlbklkIjpudWxsLCJ1dWlkIjoiMGQ2NjFjYmItYjQ2Zi00YWU0LTlhMGYtYmVjYzdkYTIwYjg2IiwiZW1haWwiOiIiLCJleHAiOjE3ODA3MjEzMjh9.ZM0LghV2wfgA9YuiTq8TBETzqDK1FXPx4PznRGPXbgF_f4AE1Be6AEwqE32WT1YjNSSua9f3P0iUY2xTbYU21w")
+MINERU_API_KEY = os.environ.get("MINERU_API_KEY", "")
 
 # MinerU API v4 endpoints
 MINERU_BATCH_URL = "https://mineru.net/api/v4/file-urls/batch"
