@@ -151,3 +151,4 @@ A: 在 `archive/` 目录（`auto_crop_correct_logic.py`、`compare_integration.p
 
 - [MinerU API 文档](https://mineru.net/doc/docs/)
 - [MinerU vs PyMuPDF 对比](mineru_vs_pymupdf_comparison.md)
+- [PDF 提取 API 选型建议](pdf_extraction_api_recommendations.md) - 各提取方案对比与实测结论
