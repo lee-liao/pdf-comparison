@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobCard xmlns:xlink="http://www.w3.org/1999/xlink">
+	<jcId>2003284844941217794</jcId>
+	<jcNumber>C19M7324501-1-1</jcNumber>
+	<fleet>CSN</fleet>
+	<jcAcType>C919</jcAcType>
+	<jcVersion>R1</jcVersion>
+	<revDate>2025-11-25 00:00:00.000</revDate>
+	<jcType>RT</jcType>
+	<skill>MINP</skill>
+	<threshold>0</threshold>
+	<interval>0</interval>
+	<mhrs>1</mhrs>
+	<labor/>
+	<elapsed/>
+	<mrsNo>73-21-501</mrsNo>
+	<reference>AMM C919-A-73-21-45-01A-25BA-A 2025-11-25</reference>
+	<relaCard/>
+	<zone>411</zone>
+	<access/>
+	<titleCh>恢复 - 发动机EEC PSS系统除水 - 左发</titleCh>
+	<titleEn>RESTORE - EEC PSS SYSTEM WATER REMOVAL - LEFT ENGINE</titleEn>
+	<workAreaCh>左发动机</workAreaCh>
+	<workAreaEn>LEFT ENGINE</workAreaEn>
+	<effExp>ALL</effExp>
+	<effRemark/>
+	<acType/>
+	<acReg/>
+	<lineNo/>
+	<mtStation/>
+	<station/>
+	<stringer/>
+	<workOrder/>
+	<workOrderDate/>
+	<printDate/>
+	<seqNo/>
+	<editor>丁立彬</editor>
+	<editDate>2025-12-23 12:01:09.000</editDate>
+	<checker>王书荣</checker>
+	<checkDate>2026-01-06 15:24:39.000</checkDate>
+	<flightNo/>
+	<finishDate/>
+	<regReq/>
+	<mhrsAct/>
+	<startDate/>
+	<adRela/>
+	<criticalTask/>
+	<signType>Tree</signType>
+	<itemLevel>C</itemLevel>
+	<approver>陈世华</approver>
+	<approveDate>2026-01-07 13:40:01.000</approveDate>
+	<accList/>
+	<refList>
+		<refItem>
+			<refType>AMM</refType>
+			<itemNo>C919-A-73-21-45-01A-25BA-A</itemNo>
+			<subNo/>
+			<version/>
+			<revDate>2025-11-25 00:00:00.000</revDate>
+		</refItem>
+		<refItem>
+			<refType>MRS</refType>
+			<itemNo>73-21-501</itemNo>
+			<subNo/>
+			<version/>
+			<revDate>2024-04-10 00:00:00.000</revDate>
+		</refItem>
+	</refList>
+	<toolList>
+		<toolItem>
+			<orders>1</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>移液器</partNameCh>
+			<partNameEn>Pipette</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>Material is polyethylene or equivalent, minimum capacity of 3 ml, maximum diameter of 5 mm, and minimum length of 50 mm.</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>2</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>80-260℃ (180-500 ℉)热风枪</partNameCh>
+			<partNameEn>Gun - Heat, 80-260℃ (180-500℉)</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>Refer to Table 4 Heat gun details.</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-73-21-45-01A-25BA-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>3</orders>
+			<partNo>RC331931</partNo>
+			<partNameCh>真空泵套装</partNameCh>
+			<partNameEn>Vacuum pump kit</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>The vacuum pump kit is supplied by Rhinestahl or equivalent as specified in Table 3 Vacuum pump kit details. Follow the instructions of the manufacturer for the operation of the vacuum pump.</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>4</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>100psi压缩空气源</partNameCh>
+			<partNameEn>Air Source - Compressed，Regulated, 100psi</partNameEn>
+			<qty>As Req/按需</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>5</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>100psi氮气源</partNameCh>
+			<partNameEn>Air Source - Nitrogen, Regulated, 100psi</partNameEn>
+			<qty>As Req/按需</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>6</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>注射器</partNameCh>
+			<partNameEn>Syringe</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>Material is polyethylene or equivalent, minimum capacity of 3 ml, maximum diameter of 5 mm, and minimum length of 50 mm.</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>7</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>力矩扳手</partNameCh>
+			<partNameEn>Torque wrench</partNameEn>
+			<qty>As Req/按需</qty>
+			<unit/>
+			<remark>range to 30.5 N.m~33.8 N.m(270 lbf.in~300 lbf.in)
+范围30.5 N.m~33.8 N.m(270 lbf.in~300 lbf.in)</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom/>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+	</toolList>
+	<matList/>
+	<picList>
+		<picItem>
+			<blobId>1962356288739471361</blobId>
+			<picNoteFlag>1</picNoteFlag>
+			<svgOssId>1958079615696220161</svgOssId>
+			<orders>1</orders>
+			<picNameCh>图1 PSS、PS3传感管和P3B传感管(共2张第1张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07000-A-002-01 (1/2) PSS , PS3 sense line, and P3B sense line</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>1</sheetNo>
+			<isSelf/>
+		</picItem>
+		<picItem>
+			<blobId>1962356292580298753</blobId>
+			<picNoteFlag>1</picNoteFlag>
+			<svgOssId>1958079628502437889</svgOssId>
+			<orders>2</orders>
+			<picNameCh>图1 PSS、PS3传感管和P3B传感管(共2张第2张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07012-A-001-01 (2/2) PSS , PS3 sense line, and P3B sense line</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>2</sheetNo>
+			<isSelf/>
+		</picItem>
+		<picItem>
+			<blobId>1962356294313701378</blobId>
+			<picNoteFlag>1</picNoteFlag>
+			<svgOssId>1958079629832032257</svgOssId>
+			<orders>3</orders>
+			<picNameCh>图2 真空泵工具的连接(共2张第1张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07002-A-002-01 (1/2) Connection of vacuum pump tool</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>1</sheetNo>
+			<isSelf/>
+		</picItem>
+		<picItem>
+			<blobId>1962356296455835650</blobId>
+			<picNoteFlag>1</picNoteFlag>
+			<svgOssId>1958079631337787393</svgOssId>
+			<orders>4</orders>
+			<picNameCh>图2 真空泵工具的连接(共2张第2张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07003-A-002-01 (2/2) Connection of vacuum pump tool</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>2</sheetNo>
+			<isSelf/>
+		</picItem>
+		<picItem>
+			<blobId>1958079631706886145</blobId>
+			<picNoteFlag>0</picNoteFlag>
+			<svgOssId>1958079631706886145</svgOssId>
+			<orders>5</orders>
+			<picNameCh>图3 真空表海拔高度修正(共1张第1张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07004-A-002-01 (1/1) Vacuum gauge corrections for altitude</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>1</sheetNo>
+			<isSelf/>
+		</picItem>
+		<picItem>
+			<blobId>1962356305448423425</blobId>
+			<picNoteFlag>1</picNoteFlag>
+			<svgOssId>1958079212532338690</svgOssId>
+			<orders>6</orders>
+			<picNameCh>图4 传感管渗水孔位置(共1张第1张)</picNameCh>
+			<picNameEn>ICN-C919-A-732145-B-58828-07013-A-001-01 (1/1) Location of Sense Line Weep Holes</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>1</sheetNo>
+			<isSelf/>
+		</picItem>
+	</picList>
+	<posDesc DBID="2003284845150932994">
+		<dmodule name="DMODULE C919-A-73-21-45-01A-25BA-A" xyid="da5ce84e-e3fd-4ccb-aae5-abfd275d0044" effexp="ON A/C MSN 00001-99999" efftext="ALL" xmlns:dc="http://www.purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-1/xml_schema_flat/proced.xsd">
+			<identAndStatusSection name="tr_identAndStatusSection" xyid="49124e2b-39c2-4e55-8f6f-7e94f009c1b2">
+				<dmAddress xyid="af76139e-6960-47ee-ad5f-5838c8066a96">
+					<dmIdent name="tr_taskno" xyid="cfd1c9f1-f09c-4b4e-89b5-26654b87b009">
+						<dmCode name="para_taskno" xyid="ba2370a8-fb81-49ed-b5e3-c4874d1530c1" modelIdentCode="C919" systemDiffCode="A" systemCode="73" subSystemCode="2" subSubSystemCode="1" assyCode="45" disassyCode="01" disassyCodeVariant="A" infoCode="25B" infoCodeVariant="A" itemLocationCode="A">TASK C919-A-73-21-45-01A-25BA-A</dmCode>
+					</dmIdent>
+					<dmAddressItems name="tr_tasktitle" xyid="7499f359-31ea-4f7f-b0b2-32a480b4383b">
+						<dmTitle xyid="415f5006-38ad-40b7-af3e-339a02d7ed36">
+							<techName name="para_techname" xyid="35b68501-253d-47cc-ae13-00008618f444">
+								<en>Pressure sub-system (and sense line dry out items)</en>
+								<ch>压力子系统(和传感管干燥项目)</ch>
+							</techName>
+							<infoName name="para_infoname" xyid="3ed3930c-a908-451e-84a1-792a98fe7b6b">
+								<en>Cleaning</en>
+								<ch>清洁</ch>
+							</infoName>
+						</dmTitle>
+					</dmAddressItems>
+				</dmAddress>
+			</identAndStatusSection>
+			<content name="CONTENTC919-A-73-21-45-01A-25BA-A" xyid="eec4c197-331f-4828-93f4-c3f00053d4c0" id="">
+				<procedure name="procedure" xyid="da596cd1-b3ff-4793-8805-bd650faeb9d1">
+					<preliminaryRqmts name="tr_taskwarning" xyid="1c9ae5cc-0900-4d81-8004-bfeb9a5f654e">
+						<reqSafety name="td_taskwarning" xyid="8dea8155-dfbe-4df7-9179-34e46a166778">
+							<warning name="WARNING 00001" xyid="f4d11aec-62b5-4b28-8772-1c4978ab3147" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="4bdfb125-afa0-4f2e-a568-986c3d3fe67c">
+									<en>BE CAREFUL WHEN YOU DO WORK ON THE ENGINE PARTS AFTER THE ENGINE SHUTDOWN. USE APPLICABLE THERMAL GLOVES. THE ENGINE PARTS CAN STAY HOT FOR ONE HOUR AFTER SHUTDOWN AND CAN BURN YOU.</en>
+									<ch>当发动机停止运转后对发动机部件进行工作时要小心。使用合适的隔热手套。发动机部件会在关车后保持高温一小时并可能会烫伤工作者。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00002" xyid="ca763452-082f-4c8c-84ed-644345668f34" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="02ce8618-b7b1-493a-91f6-06c9f5e0e2ac">
+									<en>PUT A WARNING NOTICE(S) TO TELL PERSONS NOT TO START THE ENGINE. IF YOU DO NOT OBEY THIS INSTRUCTION, YOU CAN CAUSE INJURIES TO PERSONNEL AND DAMAGE TO THE ENGINE OR EQUIPMENT.</en>
+									<ch>放置一个警告牌，告知他人不要起动发动机。如果不遵守此指引，会造成人员受伤和发动机或设备损坏。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00003" xyid="11434d4a-97fa-4f8a-8925-fd525880d88b" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="888ff45f-bece-4658-b064-b415edd8bf4d">
+									<en>REFER TO THE PRODUCT LABEL AND THE MANUFACTURER'S (MATERIAL) SAFETY DATA SHEET (SDS) FOR INSTRUCTIONS ON THE HAZARDS, STORAGE, SAFE HANDLING AND PROPER USE OF CONSUMABLE PRODUCTS.</en>
+									<ch>在危险、存储、安全处理和正常使用消耗产品时参考产品标签和厂家安全数据单SDS的指导。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00004" xyid="e72a7fb4-937e-462f-ae36-02c1e05d556e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="ed68a827-2e7a-4ffb-936c-ad78b0e31146">
+									<en>YOU MUST DEACTIVATE THE THRUST REVERSER BEFORE YOU DO WORK ON OR AROUND IT. IF YOU DO NOT, THE THRUST REVERSER CAN OPERATE ACCIDENTALLY AND CAUSE AN INJURY AND/OR DAMAGE.</en>
+									<ch>在反推上或者在反推附件执行工作之前，必须限动反推。否则，反推可能突然作动并造成受伤或破坏。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00005" xyid="0fe39857-3db9-49ab-ab09-2ae80ddc9311" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="626d5245-65ac-4a4b-86f9-cc7b61b3f821">
+									<en>PUT A WARNING NOTICE(S) TO TELL PERSONS NOT TO ENERGIZE THE FADEC L(R). IF YOU DO NOT OBEY THIS INSTRUCTION, YOU CAN CAUSE INJURIES TO PERSONNEL.</en>
+									<ch>放置一个警告牌，告知他人不要给FADEC L(R)通电。如果不遵守此指引，可能会造成人员受伤。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00006" xyid="767d9273-6965-48cb-813a-1817bc7bc69e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="1a41fa53-2c78-45b6-aa2d-ce435602c02e">
+									<en>USE PROTECTIVE GOGGLES AND GLOVES WHEN YOU REMOVE OR INSTALL LOCKWIRE. EACH TIME YOU CUT LOCKWIRE, REMOVE AND DISCARD IT IMMEDIATELY. LOOSE LOCKWIRE CAN CUT YOU OR MAKE YOU BLIND, AND/OR CAN CAUSE DAMAGE.</en>
+									<ch>拆下或安装保险丝时，佩戴护目镜和手套。每次剪断保险丝后，立即拆下并报废它。松动的保险丝会划伤或使人失明，并/或可能造成损伤。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<warning name="WARNING 00007" xyid="a8e18cd0-c321-4127-a30d-0bcbcac56665" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="814b32f1-5a15-4908-81c6-3a84911d6d02">
+									<en>BE CAREFUL WHEN YOU USE CONSUMABLE MATERIALS. OBEY THE MATERIAL MANUFACTURER'S INSTRUCTIONS AND LOCAL REGULATIONS.</en>
+									<ch>使用消耗材料时要小心。遵守材料供应商的说明指示和当地规章要求。</ch>
+								</warningAndCautionPara>
+							</warning>
+							<caution name="CAUTION 00001" xyid="7ebcddfa-c7cd-4052-945a-cc448541257f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="a44d9cf6-9e57-481f-aa22-47db2c64dc46">
+									<en>DO NOT APPLY MORE HEAT THAN NECESSARY TO THE COMPONENT. TOO MUCH HEAT WILL CAUSE DAMAGE TO THE COMPONENT.</en>
+									<ch>不要对部件过度加热。过度加热会损伤部件。</ch>
+								</warningAndCautionPara>
+							</caution>
+							<caution name="CAUTION 00002" xyid="bd8a0e0c-be26-4cec-aa69-d6aac07b4aba" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="b01fc8b3-dca1-47d2-ac14-96b060a4a1b8">
+									<en>INSTALL PROTECTIVE COVERS AND PROTECTIVE CAPS ON ALL OPEN PORTS, OPEN TUBES, OPEN HOSES AND CONNECTORS AS YOU DISCONNECT THEM TO AVOID DAMAGE TO THE EQUIPMENT.</en>
+									<ch>当断开时，在所有开口、管开口、软管开口和连接器开口安装保护盖和保护帽，以避免损伤设备。</ch>
+								</warningAndCautionPara>
+							</caution>
+							<caution name="CAUTION 00003" xyid="39ceae4b-0418-4b46-95a7-2df262ee3e1c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="1533a16f-bdc5-420e-bd72-0285e5c29318">
+									<en>BEFORE INSTALLATION, MAKE SURE THAT ALL MATING FACES ARE CLEAN AND HAVE NO CONTAMINANTS. IF YOU DO NOT OBEY THIS INSTRUCTION, YOU CAN CAUSE DAMAGE TO THE ENGINE OR EQUIPMENT.</en>
+									<ch>安装前，确保所有配合面清洁且没有污染物。如果不遵循此指引，可能会造成发动机或设备受损。</ch>
+								</warningAndCautionPara>
+							</caution>
+							<caution name="CAUTION 00004" xyid="21aea3e1-4468-49af-840f-018001e6bde0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="3b0a83d3-89fd-453f-9ca2-73b207c77679">
+									<en>ALWAYS OBEY MANUFACTURER’S INSTRUCTIONS WHEN YOU OPERATE EQUIPMENT. DAMAGE TO EQUIPMENT CAN OCCUR.</en>
+									<ch>操作设备时，全程遵守制造商的指引。可能会损坏设备。</ch>
+								</warningAndCautionPara>
+							</caution>
+							<caution name="CAUTION 00005" xyid="1d1da8f0-256a-43c5-974c-e15b7391a77f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="94c8a8e2-8710-48f6-a4bf-19eb6700a94f">
+									<en>FOR PRE SB 73-0006 PSS, USE TWO WRENCHES TO LOOSEN OR TIGHTEN THE COUPLING NUT. USE ONE WRENCH TO HOLD THE FITTING AND THE OTHER TO LOOSEN OR TIGHTEN THE COUPLING NUT. IF YOU DO NOT USE TWO WRENCHES, DAMAGE TO THE EQUIPMENT CAN OCCUR.</en>
+									<ch>对于未执行SB 73-0006的PSS，使用两个扳手松开或拧紧连接螺帽。使用其中的一个扳手来固定接头，另一个松开或拧紧连接螺帽。否则，会导致设备损坏。</ch>
+								</warningAndCautionPara>
+							</caution>
+							<note name="NOTE 88876" xyid="43623ba5-ad09-4f53-aa01-a9863152e5bc" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<notePara name="para_descen" xyid="87bed59c-0ce3-4a98-b01f-9980c67ebb4b">
+									<en>For POST SB 73-0006 PSS, two wrenches are not necessary. Only one wrench must be used to loosen or tighten the coupling nut.</en>
+									<ch>对于执行了SB 73-0006的PSS，无需使用两个扳手。仅需使用一个扳手来松开或拧紧连接螺帽。</ch>
+								</notePara>
+							</note>
+						</reqSafety>
+					</preliminaryRqmts>
+					<mainProcedure name="mainProcedure" xyid="9f520233-51b2-47a2-976d-0f14215e5e89">
+						<proceduralStep name="SUBTASK 45284" xyid="12ccd933-58c4-4c39-ad75-a0a863bc3eb0" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="6f4ea0df-6338-4077-98bc-45ed8738a174" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Job Set-up</en>
+								<ch>工作准备</ch>
+							</title>
+							<sign name="SIGN 41624" xyid="4bfd6744-f126-49d6-a39e-18efcc75f4c8" TYPE="_|X" SKILL="AIRP" QUALI="" MHR="" isNa="" naCode="" naReasonEn="" naReasonCh="" notAllow="">
+								<workName name="td_work" xyid="4135f0a3-c147-45d1-83f4-e31875e5ed6e">
+              </workName>
+								<checkName name="td_check" xyid="8be651fe-94c4-4dd2-85f9-1c7ad8f999cf">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="93e7ad37-3692-40a3-a77e-cafedb5c6632" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="da06a72b-a094-4346-8754-0132806653fb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>On the center pedestal:</en>
+									<ch>在中央操纵台：</ch>
+								</para>
+								<proceduralStep xyid="75268f3e-d9b4-44f3-8199-d7695ea5ee2c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="4d3c7567-e660-44e6-8bb8-ac4eeb309ed6" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that L(R) FUEL CONTROL switch was in OFF position not less than ten minutes before you do this procedure.</en>
+										<ch>执行本程序前，确保L(R) FUEL CONTROL电门在OFF位置不小于十分钟。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a7d7567c-f5e7-4981-becf-6fd8ae62ae22" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="41493fa3-568d-4273-a114-58e7f56af05a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that L(R) START/IGNITION switch was in NORM position not less than ten minutes before you do this procedure.</en>
+										<ch>执行本程序前，确保L(R) START/IGNITION 电门在NORM位置不小于十分钟。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="1a82cbcb-1f51-4b99-b717-ba33b9ee2e6f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="1e34c53c-a66a-49d9-947a-0ab3b39581d0" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put the WARNING NOTICE(S) in position to tell personnel not to operate:</en>
+										<ch>将警告牌放置就位以告知其他人不要操作：</ch>
+									</para>
+									<para>
+										<randomList bulltype="BULLET">
+											<listItem>
+												<para xyid="b3790e07-d1d9-4c6b-9bbe-33b16b9e7592" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>The L(R) FUEL CONTROL switch.</en>
+													<ch>L(R) FUEL CONTROL电门</ch>
+												</para>
+											</listItem>
+											<listItem>
+												<para xyid="695e077a-6ab9-42f6-8179-cb13cedf0833" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>The L(R) START/IGNITION switch.</en>
+													<ch>L(R) START/IGNITION 电门</ch>
+												</para>
+											</listItem>
+										</randomList>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="b01e2900-b97f-418e-98de-73ecf9dd8638" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="ef83cd56-6f7e-4858-95ed-9c42743e6814" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>On the overhead panel:</en>
+									<ch>在头顶面板上：</ch>
+								</para>
+								<proceduralStep xyid="45e79d0d-d6e0-4de5-b3aa-3e525da5ef1b" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="262c0cec-8e0e-4f46-a357-b868cc92b4c4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the ON legend of the L(R) FADEC MAINT POWER switch is released (ON legend is off).</en>
+										<ch>确保L(R) FADEC MAINT POWER 电门松开（ON灯熄灭）。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="36fbd5d6-b257-4301-8305-7d85d52fdd1a" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="075a6e4b-5fa6-4d2f-94be-48fbafed110a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put a WARNING NOTICE on the FADEC Maintenance Control panel to tell personnel not to operate the L(R) FADEC MAINT POWER switch.</en>
+										<ch>把警告标牌放置到FADEC维护面板上以告知他人不要操作L(R) FADEC MAINT POWER 电门。</ch>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="7c04629b-9479-4fd0-8323-8aea14741b3a" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="66f3f443-18b8-4018-9de1-cfbf7b9600a3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>
+										<rev>Get access to fan area.  Refer to </rev>
+										<rev>
+											<rev>
+												<dmRef xlink:title="MPP" showText="Power plant (Fan area)-Open for access procedure, MPP C919-A-71-00-00-03A-540A-A">
+													<dmRefIdent>
+														<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="71" subSubSystemCode="0" subSystemCode="0" infoCode="540" modelIdentCode="C919" disassyCode="03" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-71-00-00-03A-540A-A">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>Power plant (Fan area)</techName>
+															<infoName>Open for access procedure</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev>.</rev>
+									</en>
+									<ch>
+										<rev>接近风扇区域。参考：动力装置（风扇区域） - 为接近打开程序,MPP C919-A-71-00-00-03A-540A-A。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+						</proceduralStep>
+						<proceduralStep name="SUBTASK 51505" xyid="625472a6-fb39-47d7-8678-be49cb6c963f" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="4a122daa-eac0-49c5-8e01-6bdba3d14bd4" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Procedure</en>
+								<ch>步骤</ch>
+							</title>
+							<sign name="SIGN 74072" xyid="fa012b80-1083-48d6-9335-20a29fcfba0b" TYPE="_|C_" SKILL="MINP" QUALI="" MHR="" isNa="" naCode="" naReasonEn="" naReasonCh="" notAllow="">
+								<workName name="td_work" xyid="dcace7f8-882c-4cb9-be6a-d142d657b55b">
+              </workName>
+								<checkName name="td_check" xyid="ce65da10-c7c7-4bdc-a5d2-b31f7579a2d4">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="30bfaeed-a338-42ee-9d7c-f5e9e3774d35" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="f7168d52-593b-4e95-ade0-ee4058dc5780" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>For the procedure without the optional parts given in<internalRef xyid="7099cb36-2008-49cb-861b-9146c080bf26" internalRefTargetType="irtt02" internalRefId="tab-3cq91xrq">Table1 Optional parts</internalRef>, do<internalRef xyid="197d2877-dbdf-4992-aec0-9d9521cd1001" internalRefTargetType="irtt08" internalRefId="proStp-42ue0vo0"> Step B.(3). </internalRef>thru<internalRef xyid="ab01b064-16ee-40c5-8326-683324159eb7" internalRefTargetType="irtt08" internalRefId="proStp-3cq91xlp"> Step B.(8). </internalRef>,<internalRef xyid="145c227a-6613-4343-8c4b-bf242ea04201" internalRefTargetType="irtt08" internalRefId="proStp-3cq91xnw"> Step B.(11). </internalRef>and<internalRef xyid="cc7137d1-2c1d-4e5c-8405-109ce78ffb52" internalRefTargetType="irtt08" internalRefId="proStp-3cq91zw1"> Step B.(13). </internalRef>.</en>
+									<ch>对于没有在表1中给出的可选部件的程序，执行步骤<rev>B.(3)至步骤B.(8)，步骤B.(11)和步骤B.(13)</rev>。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="dc04f88b-239a-4107-94dd-58ae2e2e3388" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="08dae9e6-59f2-4987-9bc5-18430cd9b49e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>For the procedure with the optional parts given in<internalRef xyid="8db39e5a-aa6b-40ee-98ac-858ce6772ce3" internalRefTargetType="irtt02" internalRefId="tab-3cq91xrq">Table1 Optional parts</internalRef>, do<internalRef xyid="7e0c68e4-d5a6-4d43-a5c1-02a2aa561c82" internalRefTargetType="irtt08" internalRefId="proStp-42ue0vo0"> Step B.(3). </internalRef>thru<internalRef xyid="05c3984c-283b-433d-b143-6a6f27c181a2" internalRefTargetType="irtt08" internalRefId="proStp-3cq91xjd"> Step B.(4). </internalRef>and<internalRef xyid="49415f26-b7a5-4559-ac63-d3656aa16465" internalRefTargetType="irtt08" internalRefId="proStp-3cq91xmi"> Step B.(9). </internalRef>thru<internalRef xyid="fc5e7a5e-4867-49ef-8991-2b91f53f5d8e" internalRefTargetType="irtt08" internalRefId="proStp-3cq91zw1"> Step B.(13). </internalRef>.</en>
+									<ch>对于有表1中给出的可选部件的程序，执行步骤<rev>B.(3)至步骤B.(4)，步骤B.(9)至步骤B.(13)</rev>。</ch>
+								</para>
+								<note xyid="755e3cd8-c92d-4de4-9292-66dd63826d3b" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<notePara xyid="a702a456-8631-48de-861b-421d7c8744e8">
+										<en>If you use the optional parts, the<acronymTerm xyid="128edb2b-d8d9-4abe-89b1-4bae51f0f05f"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="9b36e335-2d1a-446b-a271-e85cd41b8933" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="3ed83c54-fa10-42d6-9e95-45257e0eab58"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="440a19c0-e1aa-4f29-a05b-b21a778a4177" significantParaDataType="psd58">14</inlineSignificantData>] on the<acronymTerm xyid="3b5be000-24a3-4b1b-96ae-c35daff0ddc3"> PSS </acronymTerm>[<inlineSignificantData xyid="c4ac46b3-e0fd-4cae-87a3-ea657d144642" significantParaDataType="psd58">1</inlineSignificantData>] can be vacuumed together and the heat source must be applied to the<acronymTerm xyid="3e68bd5a-5408-4ac4-9b74-cea240cd4e12"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="4b9d7fde-48b3-4fda-8923-9fb87e0d47b5" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="9c80bc24-8f0f-4886-8a2e-d2290941c3a6"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="9974868f-260d-443e-b0b6-1344fd160fa5" significantParaDataType="psd58">14</inlineSignificantData>].</en>
+										<ch>如果使用可选部件， PSS [1]上的 PS3 压力端口[13]和 P3B 软管压力端口[14]可以一起抽真空，并且热源必须应用于 PS3 压力口[13]和 P3B 软管压力口[14]。</ch>
+									</notePara>
+								</note>
+								<table xyid="44958d49-56a7-462a-abe2-8cc91f661608" id="tab-3cq91xrq" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<title xyid="5becc462-4d27-4460-a8cd-653c5cbef49b">
+										<en>Table 1 Optional parts</en>
+										<ch>表1 可选部件</ch>
+									</title>
+									<tgroup cols="3">
+										<colspec colname="col1" colwidth="21.4425%"/>
+										<colspec colname="col2" colwidth="56.53021%"/>
+										<colspec colname="col3" colwidth="22.02729%"/>
+										<tbody>
+											<row xyid="2b7ee3b3-81ae-4334-9a3f-2c062f357c78" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="5b334a53-9f94-49fc-b834-98da3dd2979d">
+													<para xyid="e99f0bd2-97ac-417e-a6f6-8ce233673970" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>PART NUMBER</en>
+														<ch>件号</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="81d08f89-b834-48d7-b3dd-0a9016661968">
+													<para xyid="303ab716-f509-4bb1-bde7-8eb2c39c9bdd" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>NOMENCLATURE</en>
+														<ch>名称</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="981bdfca-472f-42b7-a27c-02a28a09c641">
+													<para xyid="b21be7f0-c9fe-4a37-8f42-d0f802b52d7c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>QUANTITY</en>
+														<ch>数量</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="ab565c9d-a9b8-4215-8622-85146f874c5e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="47552bbc-d040-4716-9206-064048ce0b50">
+													<para xyid="63615fc0-94e1-4162-a3db-1ed918c07033" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>RC331931P21</en>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="85362836-82ef-495a-8196-8f087b95696f">
+													<para xyid="6a24fd89-6616-4aa1-8eb8-69cf0273d182" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Teflon-6 SST Braided Teflon Hose Assembly (18 inches W/FJIC E/E)</en>
+														<ch>特氟龙-6 SST编织特氟龙软管组件(18英寸W/FJIC E/E)</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="8fb9d10a-13e0-4355-9d65-8bc28b1e09ec">
+													<para xyid="9810d81d-afea-4d77-8583-8355531497a9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>2</en>
+													</para>
+												</entry>
+											</row>
+											<row xyid="f4620761-c584-404d-afc1-1ce08ce5a7f1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="48b17718-6585-4e59-93ba-200a4e053534">
+													<para xyid="018c097c-d3e8-4901-a9c0-dc0b5d00f018" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>RC331931P22</en>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="9cb8921c-cef5-4257-805c-ba044b1f5c3a">
+													<para xyid="5b5439d9-4d8b-4bc7-ba15-e59ba7ea6278" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>J6T Union Tee SS Fitting</en>
+														<ch>J6T管接头三通SS接头</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="631ff280-eccc-453a-9319-fde955f1df29">
+													<para xyid="e3e6dd3a-22cc-42d9-92b7-265791dc1d01" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+											</row>
+										</tbody>
+									</tgroup>
+								</table>
+							</proceduralStep>
+							<proceduralStep xyid="86b5aa65-c600-4dd1-88bb-7b87c729f497" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<caution name="CAUTION 00008" xyid="31e4f1f5-d7b9-47dd-b467-f59d51774310" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<warningAndCautionPara name="para_desc" xyid="406aa63e-8e9f-4c1a-8ce7-a04993d5549e">
+										<en>
+											<rev>DO NOT OVERLOAD THE PS3 SENSE LINE.</rev>
+										</en>
+										<ch>
+											<rev>不要使PS3感应管过载。</rev>
+										</ch>
+									</warningAndCautionPara>
+								</caution>
+								<para xyid="32310096-46ee-4017-9dff-3151f8b336b1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<en>
+										<rev>Disconnect the PS3 sense line [ 2 ] from the PSS [ 1 ], loose clamp(s) and/or bracket(s) as necessary. Refer to </rev>
+										<rev>
+											<rev>
+												<dmRef showText=" PS3 line- Removal，MPP C919-A-73-21-70-01A-520A-A ">
+													<dmRefIdent>
+														<dmCode codeType="C919" assyCode="" disassyCode="" disassyCodeVariant="" infoCode="" infoCodeVariant="" itemLocationCode="" modelIdentCode="C919" subSubSystemCode="" subSystemCode="" systemCode="" systemDiffCode="" codeNumber="C919-------">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>PS3 line</techName>
+															<infoName> Removal</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev>.</rev>
+									</en>
+									<ch>
+										<rev>从PSS[</rev>
+										<inlineSignificantData xyid="ae394919-4713-41c1-885e-84706a11a54d" significantParaDataType="psd58">
+											<rev>
+												<rev>1</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]上断开PS3传感管[</rev>
+										<inlineSignificantData xyid="49fc7ca5-a896-4bec-9774-b32a548aa947" significantParaDataType="psd58">
+											<rev>
+												<rev>2</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]，按需松开卡箍和/或支架。参考PS3管 - 拆下, MPP C919-A-73-21-70-01A-520A-A,。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="35274817-a8cc-49db-8ee6-cd60f85a6d76" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<caution name="CAUTION 00008" xyid="1c0bd0e2-486f-45aa-8e77-c0d62a251124" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<warningAndCautionPara name="para_desc" xyid="65296866-31af-4c41-a658-a7d26771a858">
+										<en>
+											<rev>DO NOT OVERLOAD THE P3B SENSE LINE.</rev>
+										</en>
+										<ch>
+											<rev>不要使P3B感应管过载。</rev>
+										</ch>
+									</warningAndCautionPara>
+								</caution>
+								<para xyid="a14dc063-ac27-4ef9-94b2-e60b01945d64" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<en>
+										<rev>Disconnect the P3B sense line [ 3 ] from the PSS [1], loose clamp(s) and/or bracket(s) as necessary. Refer to </rev>
+										<rev>
+											<rev>
+												<dmRef showText="P3B line- Removal, MPP C919-A-73-21-75-01A-520A-A">
+													<dmRefIdent>
+														<dmCode codeType="C919" assyCode="75" disassyCode="01" disassyCodeVariant="A" infoCode="520" infoCodeVariant="A" itemLocationCode="A" modelIdentCode="C919" subSubSystemCode="1" subSystemCode="2" systemCode="73" systemDiffCode="A" codeNumber="C919-A-73-21-75-01A-520A-A">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>P3B line</techName>
+															<infoName> Removal</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev>.</rev>
+									</en>
+									<ch>
+										<rev>从PSS[</rev>
+										<inlineSignificantData xyid="41c0622f-6b1e-456b-8047-64778d388dba" significantParaDataType="psd58">
+											<rev>
+												<rev>1</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]上断开P3B传感管[</rev>
+										<inlineSignificantData xyid="a7a93178-09b1-480f-94c3-275b4c186600" significantParaDataType="psd58">
+											<rev>
+												<rev>3</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]，按需松开卡箍和/或支架。参考P3B管 - 拆下, MPP C919-A-73-21-75-01A-520A-A。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="62cc3d7a-6762-421a-84b5-16a6383331e2" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="dee3d18f-948e-43ac-9ce0-3d2adcdf5cab" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the preparation for the removal of the moisture from the<acronymTerm xyid="ac3bb136-fae2-4318-a03f-2cebde11507a"> PS3 </acronymTerm>[<inlineSignificantData xyid="bb5ff2ce-fb7c-4db5-8a5d-437c5b782327" significantParaDataType="psd58">4</inlineSignificantData>] (without optional parts) as follows:</en>
+									<ch>按以下步骤，执行PS3[<inlineSignificantData xyid="dd6eb399-5431-4b19-9056-7a6b745247cb" significantParaDataType="psd58">4</inlineSignificantData>](无选装部件)除水的准备工作：</ch>
+								</para>
+								<proceduralStep xyid="3fdccc0c-8569-4452-be70-59f35f541874" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="cfcf441a-9fd5-4464-9397-8aebf9f9f9a2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="0c2f7fd7-3910-49e0-a059-6d01fd69937a">
+											<en>REMOVE AS MUCH STANDING WATER FROM THE PS3 PRESSURE PORT AS POSSIBLE BEFORE YOU BEGIN THE VACUUM DRYING PROCEDURE. IF YOU DO NOT REMOVE THE STANDING WATER, IT WILL DEGRADE THE CAPABILITY OF THE VACUUM PUMP AND CAN DAMAGE EQUIPMENT.</en>
+											<ch>在开始真空干燥程序之前，尽可能多地从PS3压力口中去除积水。如果不清除积水，会降低真空泵的性能，并可能损坏设备。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="4e8a969d-f0ea-4afe-a627-4f488d53f08c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After you get access to the<acronymTerm xyid="b5407edf-2048-4b15-98ee-c723309ef3fa"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="bbf74b0c-6cb1-49c0-9d67-cbbc86e22809" significantParaDataType="psd58">13</inlineSignificantData>], put a<internalRef xyid="59d05f7f-67d2-40bf-af7b-1c8f55dfcd1a" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Pipette "> Pipette </internalRef>or<internalRef xyid="1246e1ce-18d1-4935-98fa-f273d1b01b20" internalRefTargetType="irtt05" internalRefId="seq-0006" xlink:title=" Syringe "> Syringe </internalRef>into the opening of the<acronymTerm xyid="fed8f031-0613-4f65-9550-7b855a3e22cd"> PS3 </acronymTerm>[<inlineSignificantData xyid="43be0d23-626b-49b3-bc3b-2fc0c543c1bd" significantParaDataType="psd58">4</inlineSignificantData>] transducer and remove the visual standing water that you can see. Continue the water extraction until you cannot extract more water. Refer to<internalRef xyid="1278d889-f951-4ebf-8242-40f5ec111306" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>接近PS3压力口[<inlineSignificantData xyid="ad0f96c9-f252-4025-986a-e35cb4290d95" significantParaDataType="psd58">13</inlineSignificantData>]后，将移液器或注射器放入PS3[<inlineSignificantData xyid="16de9a96-e374-40a3-851d-b1c0106874d3" significantParaDataType="psd58">4</inlineSignificantData>]传感器的开口中，并清除可见的积水。持续吸水，直到无法吸出更多的水为止。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="4bc761af-e1be-4222-9f7a-96dfdfadde1e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="52ca1f95-f0bc-4416-972c-c213315046bb" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="dc18d372-7636-4abc-a85a-040236241f74">
+											<en>MAKE SURE THAT YOU CHANGE THE OIL IN THE VACUUM PUMP AFTER 50 USES OR THE VACUUM PUMP EFFECTIVENESS CAN BE COMPROMISED.</en>
+											<ch>确保在使用50次后更换真空泵中的滑油，否则可能会影响真空泵的效率。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="0f031808-0b4f-487f-a410-de8c34cc5253" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the vacuum hose [<inlineSignificantData xyid="b1c677a6-ffcd-4850-8353-b562b4df39ba" significantParaDataType="psd58">12</inlineSignificantData>] end adapter of the vacuum pump [<inlineSignificantData xyid="9f7c8c93-5e52-4659-954c-544c03c25d91" significantParaDataType="psd58">11</inlineSignificantData>] to the<acronymTerm xyid="d2e5e595-850c-4b52-8cd3-0aacff766691"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="b21061bc-e525-4290-8f15-5528a1f2ebe7" significantParaDataType="psd58">13</inlineSignificantData>] on the<acronymTerm xyid="c233b9fd-d7b5-41f3-999f-a76eff976d24"> PSS </acronymTerm>[<inlineSignificantData xyid="74928ad1-2567-4279-b0eb-6427b1c023f8" significantParaDataType="psd58">1</inlineSignificantData>]. TORQUE the fitting to<quantity xyid="86cceead-9f6f-4a53-a3c5-4129b476318f" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="minimum">
+													<quantityValue>30.5</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="maximum">
+													<quantityValue>33.8</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity xyid="1a46e557-e41d-4387-9f5c-cd077196ac41" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="minimum">
+													<quantityValue>270</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="maximum">
+													<quantityValue>300</quantityValue>
+												</quantityGroup>
+											</quantity>).</en>
+										<ch>将真空泵[<inlineSignificantData xyid="d51419a8-73aa-4aef-bc44-deff0bbe91cb" significantParaDataType="psd58">11</inlineSignificantData>]的真空软管[<inlineSignificantData xyid="1ed8b9e1-35b5-4473-b2a1-9199265c6b15" significantParaDataType="psd58">12</inlineSignificantData>]转接头连接到PSS[<inlineSignificantData xyid="a113f6b4-2e4d-4dba-b3f0-827109679180" significantParaDataType="psd58">1</inlineSignificantData>]上的PS3压力端[<inlineSignificantData xyid="9e2182f9-9c55-4456-b9b2-da7683a334a6" significantParaDataType="psd58">13</inlineSignificantData>]。磅紧接头 到 30.5 N.m ～ 33.8 N.m ( 270 lbf.in ～ 300 lbf.in )。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a958b839-a085-4c89-9400-217df33b2746" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="a71d0b54-299d-414f-898c-22a2a2cf8369" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="b6156f15-2ecf-41c7-9a48-fc492745a0bf">
+											<en>IF A NON-VARIABLE HEAT GUN IS USED WHEN AMBIENT TEMPERATURE IS BELOW 65 DEGF (18.3 DEGC), IT CAN RESULT IN AN INCOMPLETE DRYOUT.</en>
+											<ch>如果在环境温度低于65华氏度（18.3摄氏度）时使用不可调热风枪，可能会导致干燥不彻底。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="6a6b1b64-19b9-43a2-973c-f0fff53c9cf1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>If the ambient temperature is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="degF">
+													<quantityValue>65</quantityValue>
+												</quantityGroup>
+											</quantity>
+											<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+													<quantityValue>18.3</quantityValue>
+												</quantityGroup>
+											</quantity>), use a<internalRef xyid="c18104e3-1a57-4770-bed3-8dc31b6093d0" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>to heat the<acronymTerm xyid="b030761e-a16f-495c-80b4-19177428d8af"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="f5aff92d-99db-4a2f-9552-498d3ae11238" significantParaDataType="psd58">13</inlineSignificantData>].</en>
+										<ch>如果环境温度低于 65 ℉  18.3 ℃ )，使用80-260℃(180-500℉)热风枪来加热PS3压力口[<inlineSignificantData xyid="1c07b91e-6c06-4e2c-91b7-0a2c1af18bd5" significantParaDataType="psd58">13</inlineSignificantData>]。</ch>
+									</para>
+									<para>
+										<randomList bulltype="BULLET">
+											<listItem>
+												<para xyid="07e8faf7-b1e6-4b8c-9c8d-034c72ec60aa" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Refer to<internalRef xyid="99e7b252-5267-49b1-bf16-6b5f7d8f8191" internalRefTargetType="irtt02" internalRefId="tab-3cq91y1o">  </internalRef>to set the<internalRef xyid="93e0b05c-7a47-4174-9a4e-6d384cab0a37" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>temperature.</en>
+													<ch>参考表2热风枪温度表来设置80-260℃(180-500℉)热风枪的温度。</ch>
+												</para>
+											</listItem>
+											<listItem>
+												<para xyid="1aca9359-5043-4df9-afb8-5088a606d5c6" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Apply heat to the<acronymTerm xyid="0c6e4d85-4e8e-4321-9ddc-6ba1cf007cfb"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="40d015aa-b3e6-4b73-a371-320da966164b" significantParaDataType="psd58">13</inlineSignificantData>] with the<internalRef xyid="e9bf3398-80b1-4f5a-8181-988b21ce2484" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>for 4 minutes before you start the vacuum dry-out procedure and apply the<internalRef xyid="3fe6987f-0e9b-419c-838b-afbff2b343c9" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>until the procedure is completed. Refer to<internalRef xyid="72f6ac25-76b1-4e8a-a880-11867f7416a3" internalRefTargetType="irtt01" internalRefId="fig-0001"> Refer to Fig.1 PSS , PS3 sense line, and P3B sense line  </internalRef>.</en>
+													<ch>开始真空干燥程序前使用80-260℃(180-500℉)热风枪给PS3压力口[<inlineSignificantData xyid="3eca2cb8-9ce2-416f-b24f-5b1511717a95" significantParaDataType="psd58">13</inlineSignificantData>]加热4分钟，并用80-260℃(180-500℉)热风枪加热直到程序结束。参考图1.PSS、PS3传感管和P3B传感管。</ch>
+												</para>
+											</listItem>
+										</randomList>
+									</para>
+									<table xyid="dec8b5a2-03bb-439c-b5fa-746de02c3ee5" id="tab-3cq91y1o" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<title xyid="167e6ed2-3d1a-4c8c-8a9a-199e3fb6bd73">
+											<en>Table 2  Heat gun temperature</en>
+											<ch>表2  热风枪温度</ch>
+										</title>
+										<tgroup cols="2">
+											<colspec colname="col1" colwidth="49.89858%"/>
+											<colspec colname="col2" colwidth="50.10142%"/>
+											<tbody>
+												<row xyid="62bba0dd-1050-4db0-acba-44517f881b29" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="b6a7ac6f-366f-403b-b08a-5fb7ce3f89da">
+														<para xyid="0222cc3a-ab68-4915-b5c1-b53e405985b1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>AMBIENT TEMPERATURE</en>
+															<ch>环境温度</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="74917c00-6fbd-4084-8733-76540e403f48">
+														<para xyid="be60c501-c555-4244-b7d7-01f58aa12c42" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>MAXIMUM HEAT GUN SETTING</en>
+															<ch>最大热风枪温度设置</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="a5a412a2-7a79-4de5-b9fa-fd5b0a738e96" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="2df9cff8-8d98-4c55-994e-b2bca0d80f48">
+														<para xyid="6636db65-927c-4213-9385-ac437748a3da" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>65</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>18.3</quantityValue>
+																	</quantityGroup>
+																</quantity>) to<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>50</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>10.0</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+															<ch> 65℉(18.3℃)至50℉(10.0℃).</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="96534b8f-5313-478e-a9f9-b43193e362f6">
+														<para xyid="d7602f9f-5e12-4bf1-8354-99ee21ea0568" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>250</quantityValue>
+																	</quantityGroup>
+																</quantity> (<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>121.1</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+														</para>
+													</entry>
+												</row>
+												<row xyid="67ca427a-139e-4067-8ca9-4a7077489421" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="2c3cbdf2-e405-4ce6-99cc-ad28caba19ce">
+														<para xyid="83ed5e58-37a5-4ea1-8cc7-c3a2b8ff396a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>49</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>9.4</quantityValue>
+																	</quantityGroup>
+																</quantity>) to<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>32</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>0.0</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+															<ch> 49℉(9.4 ℃)至32 ℉(0.0 ℃ ).</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="86e9eb23-3035-4a70-bea3-3f25b9016f7f">
+														<para xyid="f448f786-6ed4-4158-adaa-1994c2560ed6" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>300</quantityValue>
+																	</quantityGroup>
+																</quantity> (<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>148.9</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+														</para>
+													</entry>
+												</row>
+												<row xyid="8ee755d4-dfca-4c4e-bf29-0ffd93f2dcd3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="24c89634-5819-4128-8f36-5550dd089d00">
+														<para xyid="93e9737d-b7a0-4575-b96c-560e4dccea4f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>31</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> (- <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>0.5</quantityValue>
+																	</quantityGroup>
+																</quantity>) to<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>14</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> (- <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>10.0</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+															<ch> 31 ℉(-0.5 ℃)至 14 ℉(-10.0 ℃ ).</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="edc3376a-af89-4e72-8bde-1a4958b977e4">
+														<para xyid="4175063d-85e8-444a-9806-d608df6ad826" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>400</quantityValue>
+																	</quantityGroup>
+																</quantity> (<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>204.4</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+														</para>
+													</entry>
+												</row>
+												<row xyid="01b208d7-3dfe-4472-920e-95980b6623e1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="fc27042c-1fa4-4605-9d81-f412bf098199">
+														<para xyid="bdd82c9c-8f0f-4ad7-a467-30daa95ad117" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>Below<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>13</quantityValue>
+																	</quantityGroup>
+																</quantity>
+																<quantity> (- <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>10.5</quantityValue>
+																	</quantityGroup> ) </quantity>.</en>
+															<ch>低于 13 ℉(-10.5 ℃) .</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="cd73e7f1-131f-4e4b-85dc-539b8f34cdee">
+														<para xyid="3777d95b-3a1f-45c7-96bf-6f41c3e891f5" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<en>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="degF">
+																		<quantityValue>500</quantityValue>
+																	</quantityGroup>
+																</quantity> (<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+																		<quantityValue>260.0</quantityValue>
+																	</quantityGroup>
+																</quantity>).</en>
+														</para>
+													</entry>
+												</row>
+											</tbody>
+										</tgroup>
+									</table>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="3091f6f6-67d5-4c17-92a9-a2344193e5e5" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="efb5853e-16d3-46d2-9a2b-5fc39031714a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the moisture from the<acronymTerm xyid="b8de07f5-7955-425d-83e0-51d3573dff7d"> PS3 </acronymTerm>[<inlineSignificantData xyid="9829ace3-91ec-4d65-bdda-8e287e0e49e7" significantParaDataType="psd58">4</inlineSignificantData>] (without optional parts) as follows:</en>
+									<ch>按以下步骤，执行PS3[<inlineSignificantData xyid="c8d51abe-7be6-41e2-87d0-2e72d90bade1" significantParaDataType="psd58">4</inlineSignificantData>](无选装部件)除水：</ch>
+								</para>
+								<proceduralStep xyid="59f39965-1723-44fc-94ec-3eaf17fb1f7d" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="6dc2a5c3-bcae-4af9-ae21-7b2c6d347178" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the vacuum relief valve [<inlineSignificantData xyid="f24bed80-5a10-4873-a130-5305c2afa824" significantParaDataType="psd58">9</inlineSignificantData>] and blank-off valve [<inlineSignificantData xyid="ac91ac60-e336-4776-8c37-63985c143b90" significantParaDataType="psd58">10</inlineSignificantData>] handles to the open position.</en>
+										<ch>将真空释压活门[<inlineSignificantData xyid="e323fb43-33a4-42fa-aeba-6fa4b4046fe5" significantParaDataType="psd58">9</inlineSignificantData>]和断开活门[<inlineSignificantData xyid="df3f2cad-01d1-45b9-9f04-6b20b06492a0" significantParaDataType="psd58">10</inlineSignificantData>]手柄转动到打开位。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="4324ef3b-107a-42c7-8ea9-5b5e2b4099ae" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="3a62091d-0b1a-4013-92c6-1f51ecb062a2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="dcf29303-81e0-4601-be8b-5f65da2661c1">
+											<en>DO NOT LET CONTAMINATION BE INGESTED INTO THE VACUUM PUMP RELIEF PORT. IF THE PRESSURE READING IS NOT BELOW THE SPECIFIED THRESHOLD, THE PROCEDURE COULD NOT BE EFFECTIVE.</en>
+											<ch>不要让污染物被吸入到真空泵释压口。如果压力读数不低于规定的阈值，该程序可能无效。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="0b0d2316-ff2f-43d0-8d32-85a5c7a31e70" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Start the vacuum pump [<inlineSignificantData xyid="b1010fb0-29dc-48e4-9d9b-cb2f95b90517" significantParaDataType="psd58">11</inlineSignificantData>] and let the pump motor get to the operating speed.</en>
+										<ch>启动真空泵[<inlineSignificantData xyid="0e04fe28-10a1-4305-825d-0cb02144d714" significantParaDataType="psd58">11</inlineSignificantData>]并让泵马达达到工作速度。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="321a305c-1d79-4f6d-ac0f-cd05968004b2" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="e5a29c38-2271-4f47-aef7-3ae02c0abce8" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="781d90b7-1671-453f-8663-4c4814ed85e5">
+											<en>DO NOT CLOSE THE BLANK-OFF VALVE WHILE YOU REMOVE MOISTURE FROM THE PSS. IF THE BLANK-OFF VALVE IS CLOSED, MOISTURE WILL NOT BE REMOVED.</en>
+											<ch>当从PSS去除水分时不要关闭断开活门。否则，水分将不会被去除。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="674c1a9c-1f90-48de-a64e-fe89646dc18b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the valve handle of the vacuum relief valve [<inlineSignificantData xyid="cf01492b-4e24-47b4-befc-26caf5d6691e" significantParaDataType="psd58">9</inlineSignificantData>] to the horizontal position to close it.</en>
+										<ch>转动真空释压活门[<inlineSignificantData xyid="a12990ce-2f3b-4abb-8db8-61dc33c6072a" significantParaDataType="psd58">9</inlineSignificantData>]的手柄到水平位置以关闭它。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="e0e99af0-b6ca-4a7b-a645-7873a4b0343b" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="21bff248-6a8a-4b4f-9c7d-0ac513d1bad4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that sufficient vacuum is pulled on the<acronymTerm xyid="5a0ba83b-8f5a-42fe-a784-8f4e28664cc1"> PS3 </acronymTerm>[<inlineSignificantData xyid="f3454512-9c10-4210-b51d-602176828b7f" significantParaDataType="psd58">4</inlineSignificantData>] manifold by the vacuum pump [<inlineSignificantData xyid="eb270017-8ed4-4118-bed6-95eefde82a04" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>确保真空泵[<inlineSignificantData xyid="55a16083-01f1-4d06-8614-978cc15569c2" significantParaDataType="psd58">11</inlineSignificantData>]在PS3[<inlineSignificantData xyid="79d26301-167d-452b-ad40-7df77cd2fa87" significantParaDataType="psd58">4</inlineSignificantData>]总管上抽到足够的真空。</ch>
+									</para>
+									<note xyid="91d35504-0cc6-45e5-9bc8-59ed1db2109b" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="4b320fdb-fd7d-4879-b21c-cd996e0cfa68">
+											<en>The vacuum read needs to be corrected based on the pressure altitude at which the pump is used. Refer to<internalRef xyid="37515b19-b022-41ea-b6fa-e8b1f3a1869d" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>.</en>
+											<ch>真空读数需要基于泵在使用的压力海拔高度进行修正。参考图3.真空表海拔高度修正。</ch>
+										</notePara>
+									</note>
+									<para xyid="67f9cc85-3efa-42f8-9897-3e8ff7859bdb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), make sure that the vacuum measurement is in the green-colored region on the vacuum pressure indicator.</en>
+										<ch>如果机场海拔低于 5000 ft ( 1524 m )，确保真空测量值在真空压力指示器的绿色区域内。</ch>
+									</para>
+									<para xyid="3fd9bad2-1a2d-49b0-93f8-0a1aea090622" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is above<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), refer to<internalRef xyid="0b7b18ac-6e30-494c-8c02-659ce9399c9d" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>to find the correct vacuum pressure measurement.</en>
+										<ch>-如果机场海拔高于 5000 ft ( 1524 m )，参考图3.真空表海拔高度修正，以找到正确的真空压力测量值。</ch>
+									</para>
+									<para xyid="677edcec-71e4-4ea3-a205-6724886ec4d9" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the vacuum measurement is not correct, examine for leaks in the vacuum hose, connections, and make sure the pump valves are in the correct position.</en>
+										<ch>-如果真空测量值不正确，检查真空软管、连接是否渗漏，并确保泵活门处于正确位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="119bc836-84d1-4ecb-b7d3-737d47e0d189" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="ac921f5d-f6ee-4574-a38c-639253f9491a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Operate the vacuum pump [<inlineSignificantData xyid="479ac97c-e7f7-43b4-8fcc-aebd20c7f9f1" significantParaDataType="psd58">11</inlineSignificantData>] for a minimum of 20 minutes.</en>
+										<ch>真空泵[<inlineSignificantData xyid="ccfa19f1-fc22-4c59-840b-d8eaeae4def4" significantParaDataType="psd58">11</inlineSignificantData>]运行至少20分钟。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="5b94db60-9112-461f-a8c1-5ce49bd8c3ac" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="6d0bc14e-97d6-4a32-b7d3-51d1d5bedb6b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After 20 minutes of operation, open the vacuum relief valve [<inlineSignificantData xyid="22af01ba-b63d-47f1-94ae-3f21cd839d37" significantParaDataType="psd58">9</inlineSignificantData>] to release the pressure.</en>
+										<ch>运行20分钟后，打开真空释压活门[<inlineSignificantData xyid="f8716f84-6dcb-40a4-b391-d6f70a2d26b3" significantParaDataType="psd58">9</inlineSignificantData>]以释放压力。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="604a3e4f-f9bd-4bed-bef6-6eebd3ec673e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="09b473e8-165d-4386-bcb4-32101a40cc6d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn OFF the vacuum pump [<inlineSignificantData xyid="b9a353f2-6d7c-473f-a311-7a3c7c7d14dd" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>关闭真空泵[<inlineSignificantData xyid="e0c60681-34ac-4158-9808-5ac65b060376" significantParaDataType="psd58">11</inlineSignificantData>]。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="1b97ad7c-1388-42b0-9240-8a8a34150bd6" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="91b6b3e2-e427-4a5f-917d-763ee47340b9" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the vacuum hose [<inlineSignificantData xyid="3b933b44-7805-42d8-bc1f-5a54857fc198" significantParaDataType="psd58">12</inlineSignificantData>] end adapter from the<acronymTerm xyid="c297c3df-57f2-4a7d-bb23-1d734eb6546a"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="9562e9a3-4933-4199-8993-6d0d97cbfad5" significantParaDataType="psd58">13</inlineSignificantData>].</en>
+										<ch>从PS3压力口[<inlineSignificantData xyid="aab14cbf-8c86-4de4-b152-a4bb9f06023e" significantParaDataType="psd58">13</inlineSignificantData>]拆下真空管[<inlineSignificantData xyid="b45e523f-db04-4200-b673-2142b8644625" significantParaDataType="psd58">12</inlineSignificantData>]端转接头。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a6678edc-48b1-44f8-8c28-d7915b2b6ffc" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="95698f9f-1000-46e4-ae9d-a4080732abdc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Blow clean dry Air Source-Compressed,Regulated,100 psi or Air Source - Nitrogen, Regulated, 100 psi (no more than 200 psi ( 1379 kPa )) in the PS3 sense line [ 2 ] for a minimum of 3 minutes. Continue until no moisture comes out from the PS3 sense line [ 2 ] weep hole located at the 4:00 o'clock position in the aft location of the fan compartment. Refer to<internalRef xyid="155c21bd-4dce-4db7-acf5-0a63b9748b86" internalRefTargetType="irtt01" internalRefId="fig-3ucc9opu"> Refer to Fig.4 Location of Sense Line Weep Holes </internalRef>.</en>
+										<ch>向PS3传感管[<inlineSignificantData xyid="4541328d-80f9-40b3-b2f8-3b09fc5303be" significantParaDataType="psd58">2</inlineSignificantData>]中吹清洁、干燥的100psi可调压缩空气源或100 psi可调氮气源(不超过 200 psi (1379 kPa ))至少3分钟。继续直到没有水汽从位于风扇舱后部4:00点钟位置的PS3传感管[<inlineSignificantData xyid="8988b3c0-b9a6-4ec3-bb49-c8534e3da2c5" significantParaDataType="psd58">2</inlineSignificantData>]渗水孔流出。参考图4.传感管渗水孔位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="b50d089a-3e8e-4577-9168-8028e5378f71" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="34a74f48-f9ff-4f0a-a3d3-9564dc73feda" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the<acronymTerm xyid="6474cb88-ba99-4cd6-9fe2-59f68d41160c"> PS3 </acronymTerm>sense line [<inlineSignificantData xyid="eaddb77a-0706-4270-94ca-e57d5425bac0" significantParaDataType="psd58">2</inlineSignificantData>] weep hole is not blocked because of ice formation, damage, or contamination, and that there is a free flow of air from the<acronymTerm xyid="ce8a13b8-a0d4-4c5c-9161-9477922ffc16"> PS3 </acronymTerm>sense line [<inlineSignificantData xyid="48620ab0-d446-4c59-a309-74b00dd91790" significantParaDataType="psd58">2</inlineSignificantData>] weep hole.</en>
+										<ch>确保PS3传感管[<inlineSignificantData xyid="b2ce4978-426c-4cc4-96cc-caf244b8b0dc" significantParaDataType="psd58">2</inlineSignificantData>]渗水孔没有因结冰、损伤或污染而堵塞，并且有空气从PS3传感管[<inlineSignificantData xyid="c465b05d-ee5a-494a-8ca3-ec4f2b22e0d4" significantParaDataType="psd58">2</inlineSignificantData>]的渗水孔自由流出。</ch>
+									</para>
+									<note xyid="ba85dc19-b649-4771-be86-98ec2c7e66e0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="7470dcd6-b6e4-48c8-9b82-c50226329b34">
+											<en>For best results, compressed<internalRef xyid="c78bdd3f-97da-4073-9b5a-cf1afbcdffc7" internalRefTargetType="irtt05" internalRefId="seq-0005" xlink:title=" Air Source - Nitrogen, Regulated, 100 psi "> Air Source - Nitrogen, Regulated, 100 psi </internalRef>is recommended.</en>
+											<ch>为了获得最佳效果，建议使用100 psi可调氮气源。</ch>
+										</notePara>
+									</note>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="710c3b0d-934a-46d3-b16f-5713d716be2a" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="a315eac3-3c7e-4b37-84e0-76357b66f8c7" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the preparation for the removal of the moisture from the<acronymTerm xyid="7af3270a-e471-48de-8ef8-42f336b4a2b6"> P3B </acronymTerm>[<inlineSignificantData xyid="be60afb7-186f-4f7c-bb8c-2c1953a7c3c7" significantParaDataType="psd58">5</inlineSignificantData>] (without optional parts) as follows:</en>
+									<ch>按以下步骤，执行P3B[<inlineSignificantData xyid="31493a5f-9ffd-4434-ac0b-701634045855" significantParaDataType="psd58">5</inlineSignificantData>](无选装部件)除水的准备工作：</ch>
+								</para>
+								<proceduralStep xyid="43fece45-4b99-4c63-9913-f2995a9aa92e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="f6e759f6-75d0-498c-a2ba-312d22ec00d3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="12db86d9-300e-4688-b806-c294ca0e35fe">
+											<en>REMOVE AS MUCH STANDING WATER FROM THE P3B PRESSURE PORT AS POSSIBLE BEFORE YOU BEGIN THE VACUUM DRYING PROCEDURE. IF YOU DO NOT REMOVE THE STANDING WATER, IT WILL DEGRADE THE CAPABILITY OF THE VACUUM PUMP AND CAN DAMAGE EQUIPMENT.</en>
+											<ch>在开始真空干燥程序之前，尽可能多地从P3B压力口中去除积水。如果不清除积水，会降低真空泵的性能，并可能损坏设备。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="64219297-4823-444c-9c49-5fb41d88322b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After you get access to the<acronymTerm xyid="9e904bdd-b524-4882-b10f-62dff5291a02"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="e1ff5030-74af-4956-8f73-53fbb805a2e7" significantParaDataType="psd58">14</inlineSignificantData>], put a<internalRef xyid="8c08d590-502b-4183-ae19-02b8c20c4ef8" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Pipette "> Pipette </internalRef>or<internalRef xyid="0af935f9-f9ae-412a-8fbc-19f0d1ead1ae" internalRefTargetType="irtt05" internalRefId="seq-0006" xlink:title=" Syringe "> Syringe </internalRef>into the open port of the of the<acronymTerm xyid="3f41f3bf-b30c-4db9-a40d-0f12d8b70310"> P3B </acronymTerm>[<inlineSignificantData xyid="75c3f09b-af26-47b5-a759-3f1cfe09d68e" significantParaDataType="psd58">5</inlineSignificantData>] transducer and remove the visible standing water that you can see. Continue the water extraction until you cannot extract more water. Refer to<internalRef xyid="d86c4fe5-ad0d-4f66-af89-d334fa4a2b4d" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>接近P3B压力口[<inlineSignificantData xyid="5a7520b5-8d03-484a-bce4-c191f7857ce8" significantParaDataType="psd58">14</inlineSignificantData>]后，将移液器或注射器放入P3B[<inlineSignificantData xyid="f131b960-8357-4bb1-b5ac-f8e60623bb49" significantParaDataType="psd58">5</inlineSignificantData>]传感器的开口中，并清除可见的积水。持续吸水，直到无法吸出更多的水为止。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="4a7db965-033a-4788-839a-85fe60160008" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="4bd2dfe0-1315-46d8-bf23-47b920f2022f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="65255af0-bdca-4719-a7ec-94b2ca2b4131">
+											<en>MAKE SURE THAT YOU CHANGE THE OIL IN THE VACUUM PUMP AFTER 50 USES OR THE VACUUM PUMP EFFECTIVENESS CAN BE COMPROMISED.</en>
+											<ch>确保在使用50次后更换真空泵中的滑油，否则可能会影响真空泵的效率。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="af35da31-12e3-4641-82df-6b2da05424d2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the vacuum hose [<inlineSignificantData xyid="af279d38-cfcf-4388-88ce-67f3223cfa84" significantParaDataType="psd58">12</inlineSignificantData>] end adapter of the vacuum pump [<inlineSignificantData xyid="2892f680-41be-4539-b726-da7edb09c6b2" significantParaDataType="psd58">11</inlineSignificantData>] to the<acronymTerm xyid="c9247d4e-f946-4069-af32-53295aa76df4"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="27139226-32cb-410a-a664-225317b0e0f8" significantParaDataType="psd58">14</inlineSignificantData>] on the<acronymTerm xyid="cdd8692f-3c0e-4f33-ae6f-f559ce036c32"> PSS </acronymTerm>[<inlineSignificantData xyid="4fa02335-de04-440c-b767-de6b9d37f65b" significantParaDataType="psd58">1</inlineSignificantData>]. TORQUE the fitting to<quantity xyid="db0e6ad5-f60e-43a1-9913-36f8f4e95500" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="minimum">
+													<quantityValue>30.5</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="maximum">
+													<quantityValue>33.8</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity xyid="930f3760-9ccb-44b6-ba41-585895f30d61" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="minimum">
+													<quantityValue>270</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="maximum">
+													<quantityValue>300</quantityValue>
+												</quantityGroup>
+											</quantity>).</en>
+										<ch>将真空泵[<inlineSignificantData xyid="43d0a4b2-47f9-476f-af96-e67612a38468" significantParaDataType="psd58">11</inlineSignificantData>]的真空软管[<inlineSignificantData xyid="9d5d95ca-a241-4fc6-a6f1-e03b75e3a0eb" significantParaDataType="psd58">12</inlineSignificantData>]转接头连接到PSS[<inlineSignificantData xyid="6849257c-f503-48f7-870c-92f0fc681d09" significantParaDataType="psd58">1</inlineSignificantData>]上的P3B软管压力口[<inlineSignificantData xyid="bb82fbfa-1bd6-49d6-a002-38b29683b8cb" significantParaDataType="psd58">14</inlineSignificantData>]。磅紧接头 到 30.5 N.m ～ 33.8 N.m ( 270 lbf.in ～ 300 lbf.in )。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="b4adc218-6107-46df-bba0-4fcb386ad627" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="be983c16-719c-4318-8050-ce1b4e6f90ee" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="434a866e-6687-40ae-9443-f0fd78534e60">
+											<en>IF A NON-VARIABLE HEAT GUN IS USED WHEN AMBIENT TEMPERATURE IS BELOW 65 DEGF (18.3 DEGC), IT CAN RESULT IN AN INCOMPLETE DRYOUT.</en>
+											<ch>如果在环境温度低于65华氏度（18.3摄氏度）时使用不可调热风枪，可能会导致干燥不彻底。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="112ec98e-ecaf-4e95-9742-e73d16ab229e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>If the ambient temperature is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="degF">
+													<quantityValue>65</quantityValue>
+												</quantityGroup>
+											</quantity>
+											<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+													<quantityValue>18.3</quantityValue>
+												</quantityGroup>
+											</quantity>), use a<internalRef xyid="4158d082-de5c-4f13-9499-6ad8859be001" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>to heat the<acronymTerm xyid="388c2b2c-0e3c-4764-8a9b-487e162c2cb0"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="3be9fc24-f107-47fb-9fc1-9930d3440da5" significantParaDataType="psd58">14</inlineSignificantData>].</en>
+										<ch>如果环境温度低于 65 ℉(18.3 ℃ )，使用80-260℃(180-500 ℉)热风枪来加热P3B软管压力口[<inlineSignificantData xyid="f4315f79-1b9d-4e0d-acab-363497dd9785" significantParaDataType="psd58">14</inlineSignificantData>]。</ch>
+									</para>
+									<para>
+										<randomList bulltype="BULLET">
+											<listItem>
+												<para xyid="c7fe7468-7b19-4077-bef2-d8012114fd69" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Refer to<internalRef xyid="d65985fd-b004-4da2-bbab-e38bfae16cde" internalRefTargetType="irtt02" internalRefId="tab-3cq91y1o">  </internalRef>to set the<internalRef xyid="2696679b-6a19-4337-a9e2-5c8f59d492c2" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>temperature.</en>
+													<ch>参考表2热风枪温度表来设置80-260℃(180-500℉)热风枪的温度。</ch>
+												</para>
+											</listItem>
+											<listItem>
+												<para xyid="f6d03161-8eba-47f6-a993-f4679a8f5534" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Apply heat to the<acronymTerm xyid="d331f9e4-caae-4a43-b51e-47ff3c7511f3"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="da2b41e8-b425-4fc4-bad3-1eec917f63b1" significantParaDataType="psd58">14</inlineSignificantData>] with the<internalRef xyid="89fba2db-2b0d-416b-8e0a-b6687fec0c18" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>for 4 minutes before you start the vacuum dry-out procedure and apply the<internalRef xyid="e686179e-fc84-4679-9dbb-e4b2544bb9d2" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>until the procedure is completed. Refer to<internalRef xyid="7d444259-a28a-42a7-8e12-b54f5a2eeb35" internalRefTargetType="irtt01" internalRefId="fig-0001"> Refer to Fig.1 PSS , PS3 sense line, and P3B sense line  </internalRef>.</en>
+													<ch>开始真空干燥程序前使用80-260℃(180-500℉)热风枪给P3B软管压力口[<inlineSignificantData xyid="2d7fe2c5-c7f4-4d43-ae34-ca0a1ed21176" significantParaDataType="psd58">14</inlineSignificantData>]加热4分钟，并用80-260℃(180-500℉)热风枪加热直到程序结束。参考图1.PSS、PS3传感管和P3B传感管。</ch>
+												</para>
+											</listItem>
+										</randomList>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="f84aaad8-717a-40a2-ac15-a5354dd8c290" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="8bbb3f88-97e9-4a54-879a-8ce57bef3c31" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the moisture from the<acronymTerm xyid="fa107aa7-b57b-4a29-9190-ee5b62423aae"> P3B </acronymTerm>[<inlineSignificantData xyid="52ef7a06-6c4e-4c90-a3d5-51060acd9351" significantParaDataType="psd58">5</inlineSignificantData>] (without optional parts) as follows:</en>
+									<ch>按以下步骤，执行P3B[<inlineSignificantData xyid="e5c75262-4409-49dc-9bd1-73d1209f5b4f" significantParaDataType="psd58">5</inlineSignificantData>](无选装零件)除水：</ch>
+								</para>
+								<proceduralStep xyid="6af1844a-b946-4176-bcfa-fe0a8e7687b7" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="28f831b2-9f63-4b7d-8f21-3576e1d39c17" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the vacuum relief valve [<inlineSignificantData xyid="8bf0a9bf-c01b-45ae-86db-291c995445e7" significantParaDataType="psd58">9</inlineSignificantData>] and blank-off valve [<inlineSignificantData xyid="2d1be853-9c82-4575-a772-7729adf6fbc7" significantParaDataType="psd58">10</inlineSignificantData>] handles to the open position.</en>
+										<ch>将真空释压活门[<inlineSignificantData xyid="1aa74bc4-35c9-44bb-8f55-c1e532026bd0" significantParaDataType="psd58">9</inlineSignificantData>]和断开活门[<inlineSignificantData xyid="76de0b0f-ba8b-4f15-918d-f9242e04f44b" significantParaDataType="psd58">10</inlineSignificantData>]手柄转动到打开位。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a9b9213b-7566-45e4-9715-9d1a88456cbd" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="de8c8ee1-3251-4308-a05a-cf09262adebe" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="f39c28f7-8640-4da9-9541-109221bed958">
+											<en>DO NOT LET CONTAMINATION BE INGESTED INTO THE VACUUM PUMP RELIEF PORT. IF THE PRESSURE READING IS NOT BELOW THE SPECIFIED THRESHOLD, THE PROCEDURE COULD NOT BE EFFECTIVE.</en>
+											<ch>不要让污染物被吸入到真空泵释压口。如果压力读数不低于规定的阈值，该程序可能无效。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="31dadf11-1f85-49d4-9395-1d44d2a788b0" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Start the vacuum pump [<inlineSignificantData xyid="bf94d17d-c5b0-4ded-954b-e3f9845192b6" significantParaDataType="psd58">11</inlineSignificantData>] and let the pump motor get to the operating speed.</en>
+										<ch>启动真空泵[<inlineSignificantData xyid="a7a78543-4612-4dcf-b318-eae419390f89" significantParaDataType="psd58">11</inlineSignificantData>]并让泵马达达到工作速度。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="e897cb92-78cf-4a4f-954a-385a69cc865c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="1bab3cf1-a23f-49b2-a75c-28daedb2b622" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="ec2743e9-78bb-4c1d-8ce7-dd2bbe86ac75">
+											<en>DO NOT CLOSE THE BLANK-OFF VALVE WHILE YOU REMOVE MOISTURE FROM THE PSS. IF THE BLANK-OFF VALVE IS CLOSED, MOISTURE WILL NOT BE REMOVED.</en>
+											<ch>当从PSS去除水分时不要关闭断开活门。否则，水分将不会被去除。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="b093aede-10c4-44b7-94cb-8c6308f544d3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the valve handle of the vacuum relief valve [<inlineSignificantData xyid="bb07b0c7-da6b-4c13-b90a-f23956b3b55f" significantParaDataType="psd58">9</inlineSignificantData>] to the horizontal position to close it.</en>
+										<ch>转动真空释压活门[<inlineSignificantData xyid="1dd24d8e-ae24-4902-bb79-e51e66deed98" significantParaDataType="psd58">9</inlineSignificantData>]的手柄到水平位置以关闭它。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="6d74b14f-da6a-41ff-af79-24f00fce1991" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="b063f234-7d9a-4d63-afd6-81dd1ea53bab" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that sufficient vacuum is pulled on the<acronymTerm xyid="ed4a68b4-d79c-41a7-a27d-9ef96544c326"> P3B </acronymTerm>[<inlineSignificantData xyid="e7ff174d-690c-454d-af76-5b1ce79bb720" significantParaDataType="psd58">5</inlineSignificantData>] manifold by the vacuum pump [<inlineSignificantData xyid="caa75a68-8b3e-43a9-89e1-64bf70b9cb61" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>确保真空泵[<inlineSignificantData xyid="0da45d72-7607-4f2a-ba6c-52f28470d8e7" significantParaDataType="psd58">11</inlineSignificantData>]在P3B[<inlineSignificantData xyid="4cbc91b2-a3ed-4ebd-9536-034d96c6b2d3" significantParaDataType="psd58">5</inlineSignificantData>]总管上抽到足够的真空。</ch>
+									</para>
+									<note xyid="c2aa2673-ad02-4bea-89db-209c72c34590" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="d49f102a-861b-4487-9503-6c0a002c566d">
+											<en>The vacuum read needs to be corrected based on the pressure altitude at which the pump is used. Refer to<internalRef xyid="cdd8185a-8e64-45de-aa1f-504a3a8c834e" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>.</en>
+											<ch>真空读数需要基于泵在使用的压力海拔高度进行修正。参考图3.真空表海拔高度修正。</ch>
+										</notePara>
+									</note>
+									<para xyid="3411e577-f521-494f-865e-d1471a90395a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), make sure that the vacuum measurement is in the green-colored region on the vacuum pressure indicator.</en>
+										<ch>如果机场海拔低于 5000 ft ( 1524 m )，确保真空测量值在真空压力指示器的绿色区域内。</ch>
+									</para>
+									<para xyid="f8209e89-d15e-4560-83c6-bbd283a16b19" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is above<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), refer to<internalRef xyid="4a24e674-3643-498f-9730-690419dcf341" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>to find the correct vacuum pressure measurement.</en>
+										<ch>-如果机场海拔高于 5000 ft ( 1524 m )，参考图3.真空表海拔高度修正，以找到正确的真空压力测量值。</ch>
+									</para>
+									<para xyid="05dba186-b362-4d97-bb08-9f53ac39720a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the vacuum measurement is not correct, examine for leaks in the vacuum hose, connections, and make sure the pump valves are in the correct position.</en>
+										<ch>-如果真空测量值不正确，检查真空软管、连接是否渗漏，并确保泵活门处于正确位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="44debcc7-2720-41a4-b85f-fbb58619d8e0" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="601f1d84-ce61-4fd6-b63b-9641c522c6b9" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Operate the vacuum pump [<inlineSignificantData xyid="0c1f6af0-f777-4e68-a8b0-7bdc0e487c9e" significantParaDataType="psd58">11</inlineSignificantData>] for a minimum of 20 minutes.</en>
+										<ch>真空泵[<inlineSignificantData xyid="f7f24c27-103d-4077-ab98-7ed848f0ebfe" significantParaDataType="psd58">11</inlineSignificantData>]运行至少20分钟。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="7f358527-c783-466b-9efe-2ecffb92a412" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="c304961e-7179-49d0-b2f4-1b870948fadc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After 20 minutes of operation, open the vacuum relief valve [<inlineSignificantData xyid="0ebbd768-bcea-4cc2-86ec-844d1dacc687" significantParaDataType="psd58">9</inlineSignificantData>] to release the pressure.</en>
+										<ch>运行20分钟后，打开真空释压活门[<inlineSignificantData xyid="a0cf5240-0ac1-4c8d-8316-65c3a50ea1e3" significantParaDataType="psd58">9</inlineSignificantData>]以释放压力。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="46633c49-3dd4-45ab-af68-e852ca3504a5" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="947b280a-23db-4005-812e-da0f1e0f18eb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn OFF the vacuum pump [<inlineSignificantData xyid="af52cf68-5736-44a6-bf76-6d7f5c8790a1" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>关闭真空泵[<inlineSignificantData xyid="9d930879-0fb8-45d6-a9d6-823f940d647e" significantParaDataType="psd58">11</inlineSignificantData>]。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="d798c9f7-9aa5-45f5-bf43-eaea387da31f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="b34dad08-e0ac-457c-bd30-4de02b07c3bb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the vacuum hose [<inlineSignificantData xyid="98f4f0f6-db01-488f-870a-5b5addbc4d82" significantParaDataType="psd58">12</inlineSignificantData>] end adapter from the<acronymTerm xyid="4507070d-f97b-4d9d-b62e-d36fdf138719"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="24fde016-13c3-4794-aeab-0c6c4b3da69f" significantParaDataType="psd58">14</inlineSignificantData>].</en>
+										<ch>从P3B软管压力口[<inlineSignificantData xyid="5cf840d1-8a0d-4f2f-b3b4-98d0ab875070" significantParaDataType="psd58">14</inlineSignificantData>]拆下真空管[<inlineSignificantData xyid="72c1401c-663c-485f-a1c4-b3ddc3d57c90" significantParaDataType="psd58">12</inlineSignificantData>]端转接头。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="774b40c8-f082-4be2-8d72-ab02c64c23b2" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="f75b78fd-746e-404b-95fe-c51b597c9ea1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Blow clean dry Air Source-Compressed,Regulated,100 psi or Air Source - Nitrogen, Regulated, 100 psi (no more than 200 psi ( 1379 kPa )) in the P3B sense line [ 3 ] for a minimum of 3 minutes. Continue until no moisture comes out from the P3B sense line [ 3 ] weep hole located at the 4:00 o'clock position in the aft location of the fan compartment. Refer to<internalRef xyid="f42379f4-9c8c-435a-b2e0-4f6ec2d675b3" internalRefTargetType="irtt01" internalRefId="fig-3ucc9opu"> Refer to Fig.4 Location of Sense Line Weep Holes </internalRef>.</en>
+										<ch>向P3B传感管[<inlineSignificantData xyid="2912245a-2d25-4b2b-bda4-3e17f6e93ea2" significantParaDataType="psd58">3</inlineSignificantData>]中吹清洁、干燥的100psi可调压缩空气源或100 psi可调氮气源(不超过 200 psi(1379 kPa ))至少3分钟。继续直到没有水汽从位于风扇舱后部4:00点钟位置的P3B传感管[<inlineSignificantData xyid="e6c09d3e-6b07-4c8b-a6bd-8f66a7b50b4c" significantParaDataType="psd58">3</inlineSignificantData>]渗水孔流出。参考图4.传感管渗水孔位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="c1e80067-4272-42f4-a5d4-501168feb9e8" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="d6ab6fe0-a8a7-409f-b71d-4cfc5bd62e19" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the<acronymTerm xyid="ca83647b-ab75-4776-9dec-da75fe742109"> P3B </acronymTerm>sense line [<inlineSignificantData xyid="8e947dbe-86ca-48c7-bafa-1d1c69c64fba" significantParaDataType="psd58">3</inlineSignificantData>] weep hole is not blocked because of ice formation, damage, or contamination, and that there is a free flow of air from the<acronymTerm xyid="7d2bf48e-647e-4efb-81a7-85c204ab34f8"> P3B </acronymTerm>sense line [<inlineSignificantData xyid="731aea72-daa9-42b9-ada7-6c22e1b2f05a" significantParaDataType="psd58">3</inlineSignificantData>] weep hole.</en>
+										<ch>确保P3B传感管[<inlineSignificantData xyid="ac12a4b2-e892-40ab-9089-f3fb4d62e1a0" significantParaDataType="psd58">3</inlineSignificantData>]渗水孔没有因结冰、损伤或污染而堵塞，并且有空气从P3B传感管[<inlineSignificantData xyid="491f92b6-f99b-422f-a94b-b0873f8f6aef" significantParaDataType="psd58">3</inlineSignificantData>]的渗水孔自由流出。</ch>
+									</para>
+									<note xyid="9e7bee85-c663-42ad-ae16-823ea2b5ad95" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="7df11d45-a3bb-4ea3-8940-6d2a5f873f57">
+											<en>For best results, compressed<internalRef xyid="059e6807-40f3-4625-bbfd-8bc3793f25e3" internalRefTargetType="irtt05" internalRefId="seq-0005" xlink:title=" Air Source - Nitrogen, Regulated, 100 psi "> Air Source - Nitrogen, Regulated, 100 psi </internalRef>is recommended.</en>
+											<ch>为了获得最佳效果，建议使用100 psi可调氮气源。</ch>
+										</notePara>
+									</note>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="1a6c9e81-f59f-47d2-91fd-0e6620a5fabe" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="1dc78f2e-f496-484a-911a-aa2e7f3246fc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the preparation for the removal of the moisture from the<acronymTerm xyid="9d7b374f-a6dc-4cb9-be90-dc60c67a4905"> PS3 </acronymTerm>[<inlineSignificantData xyid="8093ef5c-5f11-4cb5-b4bf-89f515e64321" significantParaDataType="psd58">4</inlineSignificantData>] and<acronymTerm xyid="36a7560c-dab5-41f6-9cd6-581307e0441e"> P3B </acronymTerm>[<inlineSignificantData xyid="630b303c-801e-4c9d-9045-46cd5301f5e3" significantParaDataType="psd58">5</inlineSignificantData>] (with optional parts) as follows:</en>
+									<ch>按以下步骤，执行PS3[<inlineSignificantData xyid="6ab16dbb-68e0-463d-89c2-738bab791935" significantParaDataType="psd58">4</inlineSignificantData>]和P3B[<inlineSignificantData xyid="1946daa0-9bf2-4141-8f08-65086b9b953f" significantParaDataType="psd58">5</inlineSignificantData>](有选装零件)除水的准备工作：</ch>
+								</para>
+								<proceduralStep xyid="704f8450-4537-4e05-81d9-012a961c2936" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="30ea1150-fb10-44de-a167-7d3d05bd04c9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="d80884eb-d4ca-4cc1-bbeb-579a458c450b">
+											<en>REMOVE AS MUCH STANDING WATER FROM THE PS3 AND P3B PRESSURE PORTS AS POSSIBLE BEFORE YOU BEGIN THE VACUUM DRYING PROCEDURE. IF YOU DO NOT REMOVE THE STANDING WATER, IT WILL DEGRADE THE CAPABILITY OF THE VACUUM PUMP, WHICH COULD CAUSE DAMAGE TO THE EQUIPMENT.</en>
+											<ch>在开始真空干燥程序之前，尽可能多地从PS3和P3B压力口中去除积水。如果不清除积水，会降低真空泵的性能，可能损坏设备。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="71c95561-bde8-4fd9-9a24-2588c75cd125" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After you get access to the<acronymTerm xyid="143e4187-beb1-48f8-9fa0-8449af44c6f3"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="4eb40d14-49a2-4767-ae96-c020c4bd1938" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="f96a54a1-5f6f-4c93-84a7-dbbbea8520c2"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="e52dc037-f095-4d5a-867f-446ff60c43fc" significantParaDataType="psd58">14</inlineSignificantData>], put a<internalRef xyid="2d3946ab-b316-450e-a92d-32d08adac81e" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Pipette "> Pipette </internalRef>or<internalRef xyid="32beee25-99fa-4910-a8b6-4630f58e03a3" internalRefTargetType="irtt05" internalRefId="seq-0006" xlink:title=" Syringe "> Syringe </internalRef>into the open port of the of the<acronymTerm xyid="7b010e42-adf0-4894-88cf-ac9e01890375"> PS3 </acronymTerm>[<inlineSignificantData xyid="1321b5d6-f920-42ab-802b-f89a851ce920" significantParaDataType="psd58">4</inlineSignificantData>] and<acronymTerm xyid="c94a4fb7-196a-4efb-8b69-4592884c448c"> P3B </acronymTerm>[<inlineSignificantData xyid="a8f9bf72-57da-4466-8be5-0bb122e6333f" significantParaDataType="psd58">5</inlineSignificantData>] transducers and remove the visible standing water that you can see. Continue the water extraction until you cannot extract more water. Refer to<internalRef xyid="fa0eb25c-ad8c-47be-a342-4144574321ce" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>接近PS3压力口[<inlineSignificantData xyid="fbe56dd1-8607-4213-b959-cac2c4ec9d62" significantParaDataType="psd58">13</inlineSignificantData>]和P3B软管压力口[<inlineSignificantData xyid="ee2b2209-ab84-44ac-b7f4-e10c0f408190" significantParaDataType="psd58">14</inlineSignificantData>]后，将移液器或注射器放入PS3[<inlineSignificantData xyid="9597e500-e550-4c2c-b6f4-39d8f05ad249" significantParaDataType="psd58">4</inlineSignificantData>]和P3B[<inlineSignificantData xyid="577a7a2d-1958-4e31-9fda-05daa1acd3fc" significantParaDataType="psd58">5</inlineSignificantData>]的传感器的开口中，并清除可见的积水。持续吸水，直到无法吸出更多的水为止。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="e22ee738-bd79-4865-880e-715cf47daaeb" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="a08c6733-64df-4bff-bbd5-910e1e79ea32" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="fa55d302-773f-45a8-8906-2d08efd57dcb">
+											<en>MAKE SURE THAT YOU CHANGE THE OIL IN THE VACUUM PUMP AFTER 50 USES OR THE VACUUM PUMP EFFECTIVENESS CAN BE COMPROMISED.</en>
+											<ch>确保在使用50次后更换真空泵中的滑油，否则可能会影响真空泵的效率。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="9c4edd1e-ae8f-4240-bef5-120591bf4f5d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect one teflon hose [<inlineSignificantData xyid="bbe7a833-5248-48df-baf7-7ad86f332fa4" significantParaDataType="psd58">15</inlineSignificantData>] of the<internalRef xyid="dc4b2c47-f3eb-430f-a85c-aed61d334a32" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>to the<acronymTerm xyid="4423cc46-3157-4331-85e0-8d6d0cbce770"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="602eb740-b8b1-40a2-ad15-0d824481b36a" significantParaDataType="psd58">14</inlineSignificantData>] on the<acronymTerm xyid="db3eaabe-46fb-4c46-9282-3e21aa26aeb2"> PSS </acronymTerm>[<inlineSignificantData xyid="f2827bbb-f4ba-437e-821b-87288b98710d" significantParaDataType="psd58">1</inlineSignificantData>]. Refer to<internalRef xyid="f4020e91-7e3d-4f32-a001-5cc4177e82b1" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>将真空泵(RC331931)的一根特氟龙软管[<inlineSignificantData xyid="cf291c1a-1abc-43a2-a8ad-004ece7f7852" significantParaDataType="psd58">15</inlineSignificantData>]连接到PSS[<inlineSignificantData xyid="9a1491ab-0910-46b8-a613-9dc98638e15f" significantParaDataType="psd58">1</inlineSignificantData>]上的P3B软管压力口[<inlineSignificantData xyid="a7353f64-990e-47ff-a25f-8216709d760e" significantParaDataType="psd58">14</inlineSignificantData>]。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="ff15ebf7-6daf-4866-9aa6-9c1c2225305d" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="e52b4106-f7c5-43e7-8f3c-9ddc9d72a04c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the other teflon hose [<inlineSignificantData xyid="5cada289-e2af-4631-bd5c-bc5b6e77b7f5" significantParaDataType="psd58">15</inlineSignificantData>] of the<internalRef xyid="0316d1b5-9cab-413c-9948-99fe223f5614" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>to the<acronymTerm xyid="3a176e26-1483-4b6d-ade7-5c81357dcddf"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="5296ec36-8b9b-4ba5-8b3f-a1638f476bb5" significantParaDataType="psd58">13</inlineSignificantData>] on the<acronymTerm xyid="a3211b82-74ef-450a-bbe6-e665e440b666"> PSS </acronymTerm>[<inlineSignificantData xyid="c1315a42-9c97-45b4-8dfd-5e42b9d4cc62" significantParaDataType="psd58">1</inlineSignificantData>]. Refer to<internalRef xyid="4bb7b70b-dd16-47dc-97ec-46e5e287bb4b" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>将真空泵(RC331931)的另一根特氟龙软管[<inlineSignificantData xyid="28d48676-fad7-4f1e-9413-6b125203ca04" significantParaDataType="psd58">15</inlineSignificantData>]连接到PSS[<inlineSignificantData xyid="12ebccf3-f677-47a4-9aa7-599b333d800e" significantParaDataType="psd58">1</inlineSignificantData>]上的PS3压力口[<inlineSignificantData xyid="6849b530-b47c-403c-b2dc-6a4b42d95901" significantParaDataType="psd58">13</inlineSignificantData>]。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="752ed9f2-a2ba-4b87-a21b-51b05ef668b7" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="1d145070-218f-4265-b500-52c0ab836bdd" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the loose ends of each teflon hose [<inlineSignificantData xyid="45efae81-7bdc-4f0c-b49f-f4b29f44c2e3" significantParaDataType="psd58">15</inlineSignificantData>] to the two horizontal ports of the union tee [<inlineSignificantData xyid="994e144d-c7be-49dd-b0d2-20f47fb724bf" significantParaDataType="psd58">16</inlineSignificantData>] of the<internalRef xyid="8b0abd59-ed83-4602-b35a-62bbf447f02f" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>. Refer to<internalRef xyid="a283cf1f-b69a-45dc-b379-b2abd8280fe7" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>将每个特氟龙软管[<inlineSignificantData xyid="e7fe0ceb-4945-4e40-8c41-8d6e2e930365" significantParaDataType="psd58">15</inlineSignificantData>]的松端连接到真空泵套件(RC331931)的三通接头[<inlineSignificantData xyid="b63017e1-dea2-4697-aae2-9a6db9c2e3c1" significantParaDataType="psd58">16</inlineSignificantData>]的两个水平管口。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="7df7f71a-9dc6-4ad2-8d30-14a49010bafb" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="69dada21-31c3-4e8e-b1f8-31f15f016eba" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the vacuum hose [<inlineSignificantData xyid="87bbc8a5-d049-4c0e-b131-13bb785454bf" significantParaDataType="psd58">12</inlineSignificantData>] of the<internalRef xyid="7f9d3e0a-1e94-4102-a566-16289ac0459d" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>to the T-end of the union tee [<inlineSignificantData xyid="700d283e-d759-4069-98d2-f215f4d64ebc" significantParaDataType="psd58">16</inlineSignificantData>] of the<internalRef xyid="2b8b56de-ca40-40a7-bac0-b80c469681b4" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>. Refer to<internalRef xyid="971295fb-e478-4b2b-85d6-8625b1d6696b" internalRefTargetType="irtt01" internalRefId="fig-0002"> Refer to Fig.2 Connection of vacuum pump tool </internalRef>.</en>
+										<ch>将真空泵套件(RC331931)的真空软管[<inlineSignificantData xyid="4424625d-4da6-4dd6-8399-bead8eff2163" significantParaDataType="psd58">12</inlineSignificantData>]连接到真空泵套件(RC331931)的三通接头[<inlineSignificantData xyid="2093bf00-6be6-4e5e-ae33-7b3d771230c6" significantParaDataType="psd58">16</inlineSignificantData>]的T字管口。参考图2. 真空泵工具的连接。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="9d11586b-55d3-4352-b581-793e5c44aa30" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="bafd0f84-c2ce-4dd3-b9f1-ca8e493d9bd2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>TORQUE all fittings to<quantity xyid="9767b9a1-499f-416e-ad20-9b2e43e58dbb" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="minimum">
+													<quantityValue>30.5</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="N.m" quantityGroupType="maximum">
+													<quantityValue>33.8</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity xyid="019ee049-3820-44be-b770-c15e7480e744" quantityType="">
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="minimum">
+													<quantityValue>270</quantityValue>
+												</quantityGroup>
+												<quantityGroup quantityUnitOfMeasure="lbf.in" quantityGroupType="maximum">
+													<quantityValue>300</quantityValue>
+												</quantityGroup>
+											</quantity>).</en>
+										<ch>磅紧所有接头 到 30.5 N.m ～ 33.8 N.m ( 270 lbf.in ～ 300 lbf.in )。</ch>
+									</para>
+									<para xyid="495b891e-4d5a-4337-bfed-98d5e3ae3b50" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<en>The torque/力矩：<xinput name="X-INPUT 00001" xyid="028a0d86-c577-4417-9671-2d9c9baf2158" TYPE="NUM" DESC="(f)TORQUE" NOTNULL="false" PRECISION="" MINVALUE="270,30.5" MAXVALUE="300,33.8" UNIT="lbf.in|磅英寸,N.m|牛米" ACTION="" CHARCOUNT="5" UNDERLINE="true" SHOWUNIT="true">
+												<resultText xyid="ea5872a6-7346-4bac-8169-2c89940091c3">____________</resultText>
+											</xinput>   CTC NO./计量器具编号：<xinput name="X-INPUT 00002" xyid="ee9fea27-53e8-474c-85f9-d5430c8f5637" TYPE="TEXT" DESC="计量器具编号" UNDERLINE="false" CHARCOUNT="5" NOTNULL="false">
+												<resultText xyid="d3d4929e-d90a-4c1d-a824-5e03ae7a9df2">____________</resultText>
+											</xinput>
+										</en>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="8cf4f05e-2424-4c46-8b43-edc7ca27f6d8" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="5affb4a0-a39b-4616-8fff-6601e21eb73e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="4aca3569-58ca-4a89-a149-4d4e0fe4092d">
+											<en>IF A NON-VARIABLE HEAT GUN IS USED WHEN AMBIENT TEMPERATURE IS BELOW 65 DEGF (18.3 DEGC), IT CAN RESULT IN AN INCOMPLETE DRYOUT.</en>
+											<ch>如果在环境温度低于65华氏度（18.3摄氏度）时使用不可调热风枪，可能会导致干燥不彻底。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="67e07a81-93c4-4b59-85d2-dbfce4ef91ee" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>If the ambient temperature is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="degF">
+													<quantityValue>65</quantityValue>
+												</quantityGroup>
+											</quantity>
+											<quantity> ( <quantityGroup quantityUnitOfMeasure="degC">
+													<quantityValue>18.3</quantityValue>
+												</quantityGroup>
+											</quantity>), use a<internalRef xyid="ad79558f-f620-4af9-b034-c9880ca380e2" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>to heat the<acronymTerm xyid="52d68bc2-3a42-4a3d-be56-297ff11d8037"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="36dfd618-1e48-4a19-98ae-e79052f57db8" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="008655d7-126f-4fdc-955f-556671a61859"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="e696c9ff-0288-4f47-b64d-c4eaf4468596" significantParaDataType="psd58">14</inlineSignificantData>].</en>
+										<ch>如果环境温度低于 65 ℉(18.3 ℃ )，使用80-260℃(180-500 ℉)热风枪来加热PS3压力口[<inlineSignificantData xyid="2ed386ae-4fb6-47fd-a0da-830152e4f722" significantParaDataType="psd58">13</inlineSignificantData>]和P3B软管压力口[<inlineSignificantData xyid="be634336-1ab6-4c28-8e8e-faf5b862849b" significantParaDataType="psd58">14</inlineSignificantData>]。</ch>
+									</para>
+									<para>
+										<randomList bulltype="BULLET">
+											<listItem>
+												<para xyid="9110dbe1-57dd-4233-b338-64234a6a0260" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Refer to<internalRef xyid="c44e6788-56ff-4b96-ab70-4df28ccb699e" internalRefTargetType="irtt02" internalRefId="tab-3cq91y1o">  </internalRef>to set the<internalRef xyid="89e910b6-132e-4f53-8870-ead1971ba316" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>temperature.</en>
+													<ch>参考表2热风枪温度表来设置80-260℃(180-500℉)热风枪的温度。</ch>
+												</para>
+											</listItem>
+											<listItem>
+												<para xyid="eaedb9ce-8de5-46d5-af96-9599befbae90" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<en>Apply heat to the<acronymTerm xyid="b85f0fd4-d23a-419e-a845-348c49ce8f61"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="f23e12d5-e2de-41f2-a393-e174145106ee" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="f91afdec-8124-4165-a02f-5dc6dfd19068"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="7947ffab-842b-4c02-9d27-df7e4e0ac689" significantParaDataType="psd58">14</inlineSignificantData>] with the<internalRef xyid="b3b8be14-fb47-402d-b60e-7e22ddb3533c" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>for 4 minutes before you start the vacuum dry-out procedure and apply the<internalRef xyid="f0b15d0a-93ba-44f4-96ce-8a50470b5d87" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>until the procedure is completed. Refer to<internalRef xyid="9a507bc0-1526-4763-81c5-633bc7ee2f8c" internalRefTargetType="irtt01" internalRefId="fig-0001"> Refer to Fig.1 PSS , PS3 sense line, and P3B sense line  </internalRef>.</en>
+													<ch>开始真空干燥程序前使用80-260℃(180-500℉)热风枪给PS3压力口 [<inlineSignificantData xyid="16283091-b93c-48b8-a9fb-df485076f1bf" significantParaDataType="psd58">13</inlineSignificantData>]和P3B软管压力口[<inlineSignificantData xyid="9f259233-f2f7-4168-86c5-2fb7867448d4" significantParaDataType="psd58">14</inlineSignificantData>]加热4分钟，并用80-260℃(180-500℉)热风枪加热直到程序结束。参考图1.PSS、PS3传感管和P3B传感管。</ch>
+												</para>
+											</listItem>
+										</randomList>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="5b4fa1b5-3750-4216-ae81-f3b6ddd0438d" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="32906834-ceb9-4eee-a614-96ce618dc28d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the moisture from the<acronymTerm xyid="34637c4f-a0a1-44c6-aacf-f086d8072db4"> PS3 </acronymTerm>[<inlineSignificantData xyid="97d6b594-690a-40ee-bd78-564041c83502" significantParaDataType="psd58">4</inlineSignificantData>] and<acronymTerm xyid="1bb1739f-cbf6-468c-825a-b963ba2a7f87"> P3B </acronymTerm>[<inlineSignificantData xyid="a4aac1ab-9870-4638-b73e-89d3e2f60361" significantParaDataType="psd58">5</inlineSignificantData>] (with optional parts) as follows:</en>
+									<ch>按以下步骤，执行PS3[<inlineSignificantData xyid="c1fac08b-56c0-4951-a610-122503caaf79" significantParaDataType="psd58">4</inlineSignificantData>]和P3B[<inlineSignificantData xyid="40db6def-0b9e-4ca7-b7d9-8b73ac108f7b" significantParaDataType="psd58">5</inlineSignificantData>](有选装零件)除水工作：</ch>
+								</para>
+								<proceduralStep xyid="588192a8-a88c-4b75-b635-0bdceace89c6" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="a4be2ba3-16af-4a3c-87f1-975580ab444f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the vacuum relief valve [<inlineSignificantData xyid="cd028185-2c4c-49e1-a7d1-55556028a7e2" significantParaDataType="psd58">9</inlineSignificantData>] and blank-off valve [<inlineSignificantData xyid="e216a377-c478-40bc-89d2-2c4322c68d87" significantParaDataType="psd58">10</inlineSignificantData>] handles to the open position.</en>
+										<ch>将真空释压活门[<inlineSignificantData xyid="eaec9eaa-63f4-4c20-9308-022041a6985f" significantParaDataType="psd58">9</inlineSignificantData>]和断开活门[<inlineSignificantData xyid="5f9c528a-cade-42cd-bd53-dabc545e9285" significantParaDataType="psd58">10</inlineSignificantData>]手柄转动到打开位。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="48c925a4-b8b0-43f0-997d-544b04a15c99" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="a0dab7cc-0fcb-4790-9dad-fcdd75382f02" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="7420b2fd-3a9f-401b-8901-d7d7956a1501">
+											<en>DO NOT LET CONTAMINATION BE INGESTED INTO THE VACUUM PUMP RELIEF PORT. IF THE PRESSURE READING IS NOT BELOW THE SPECIFIED THRESHOLD, THE PROCEDURE COULD NOT BE EFFECTIVE.</en>
+											<ch>不要让污染物被吸入到真空泵释压口。如果压力读数不低于规定的阈值，该程序可能无效。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="011ddb22-fabc-4335-9a74-b2138196dbe2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Start the vacuum pump [<inlineSignificantData xyid="a6463460-e5fc-4de8-b222-4b00aac05a77" significantParaDataType="psd58">11</inlineSignificantData>] and let the pump motor get to the operating speed.</en>
+										<ch>启动真空泵[<inlineSignificantData xyid="e0e27bfa-b3a8-4d17-9dfe-2db9bdd80e32" significantParaDataType="psd58">11</inlineSignificantData>]并让泵马达达到工作速度。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="5d521cbf-3346-458b-92ee-6eca67f2e0ce" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="384c7391-4c13-4a1d-83a0-85a8338fcd4f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="2665af5d-b54c-47b8-80cd-c3723c6a3145">
+											<en>DO NOT CLOSE THE BLANK-OFF VALVE WHILE YOU REMOVE MOISTURE FROM THE PSS. IF THE BLANK-OFF VALVE IS CLOSED, MOISTURE WILL NOT BE REMOVED.</en>
+											<ch>当从PSS去除水分时不要关闭断开活门。否则，水分将不会被去除。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="8d92f6e9-93ef-47c9-8aba-8df43b209949" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn the valve handle of the vacuum relief valve [<inlineSignificantData xyid="2c7ea385-141b-4dc5-b276-0cab35bbed5d" significantParaDataType="psd58">9</inlineSignificantData>] to the horizontal position to close it.</en>
+										<ch>转动真空释压活门[<inlineSignificantData xyid="2c9e7a61-af86-422a-b6ef-5d9073915be1" significantParaDataType="psd58">9</inlineSignificantData>]的手柄到水平位置以关闭它。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="c3e2d0c9-e871-4d32-9dc3-72008e53f6ed" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="6a12f47a-adff-4808-8085-bfa4f9d01963" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that sufficient vacuum is pulled on the<acronymTerm xyid="6de1cbc8-5533-45a4-a505-28c3dfd1dd6a"> PS3 </acronymTerm>[<inlineSignificantData xyid="bb753a05-de26-438c-86d8-7df024877b3f" significantParaDataType="psd58">4</inlineSignificantData>] and<acronymTerm xyid="95ce8425-2dd0-4b9a-9810-e9d308c388dc"> P3B </acronymTerm>[<inlineSignificantData xyid="292a0f98-2bba-456b-9926-b718fa2da9f5" significantParaDataType="psd58">5</inlineSignificantData>] manifolds by the vacuum pump [<inlineSignificantData xyid="429b766d-049f-46b6-abf1-19516634fdf2" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>确保真空泵[<inlineSignificantData xyid="98f15cc0-5349-4efd-a2b9-6bb0b83e37e8" significantParaDataType="psd58">11</inlineSignificantData>]在PS3[<inlineSignificantData xyid="fd674326-99c9-4ece-a838-5fc41c66f052" significantParaDataType="psd58">4</inlineSignificantData>]和P3B[<inlineSignificantData xyid="4d486cf8-9841-4f6a-b62c-c38201d2c3a3" significantParaDataType="psd58">5</inlineSignificantData>]总管上抽到足够的真空。</ch>
+									</para>
+									<note xyid="f9fdeeaa-cbf4-4521-84e3-53a888d9b6bf" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="f34e8eea-a945-4840-93e1-5d50aa1b9df5">
+											<en>The vacuum read needs to be corrected based on the pressure altitude at which the pump is used. Refer to<internalRef xyid="a7736a12-587f-4c61-9d78-ad4a67ff3a0c" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>.</en>
+											<ch>真空读数需要基于泵在使用的压力海拔高度进行修正。参考图3.真空表海拔高度修正。</ch>
+										</notePara>
+									</note>
+									<para xyid="c4f4ed49-2257-4b41-8daf-6cd614925d29" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is below<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), make sure that the vacuum measurement is in the green-colored region on the vacuum pressure indicator.</en>
+										<ch>如果机场海拔低于 5000 ft ( 1524 m )，确保真空测量值在真空压力指示器的绿色区域内。</ch>
+									</para>
+									<para xyid="b1838e0f-0aad-465e-b6fd-93350b7f45f3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the airport elevation is above<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>5000</quantityValue>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>1524</quantityValue>
+												</quantityGroup>
+											</quantity>), refer to<internalRef xyid="afc603db-f043-4f24-93df-9f706ce66d7e" internalRefTargetType="irtt01" internalRefId="fig-0003"> Refer to Fig.3 Vacuum gauge corrections for altitude </internalRef>to find the correct vacuum pressure measurement.</en>
+										<ch>-如果机场海拔高于 5000 ft ( 1524 m )，参考图3.真空表海拔高度修正，以找到正确的真空压力测量值。</ch>
+									</para>
+									<para xyid="f7f7f5e4-0169-49db-bb36-14a9f81d2ef2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>- If the vacuum measurement is not correct, examine for leaks in the vacuum hose, connections, and make sure the pump valves are in the correct position.</en>
+										<ch>-如果真空测量值不正确，检查真空软管、连接是否渗漏，并确保泵活门处于正确位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a9fada2d-7799-45fc-b1c7-8f4c4ea806fd" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="5b3880c5-6f79-4414-8454-ade672e1e9fe" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Operate the vacuum pump [<inlineSignificantData xyid="3a39220a-d7bc-4101-b0e7-8526bdc0fa68" significantParaDataType="psd58">11</inlineSignificantData>] for a minimum of 20 minutes.</en>
+										<ch>真空泵[<inlineSignificantData xyid="cab2ed2c-9f3a-4864-b971-d6d789fe270b" significantParaDataType="psd58">11</inlineSignificantData>]运行至少20分钟。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="caa95e80-b2c3-4231-8bcb-1dc5257a5671" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="453d5f8b-9c8d-4f21-8156-22b7028c104b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>After 20 minutes of operation, open the vacuum relief valve [<inlineSignificantData xyid="ab0d7710-97aa-42f7-90c7-45c8b49a72b3" significantParaDataType="psd58">9</inlineSignificantData>] to release the pressure.</en>
+										<ch>运行20分钟后，打开真空释压活门[<inlineSignificantData xyid="c37c76dc-d828-4b4e-8d26-fd52307787d4" significantParaDataType="psd58">9</inlineSignificantData>]以释放压力。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="23124b44-bfb1-4f6f-885d-a8279acea920" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="c96b4478-2635-4e50-be7a-5ea8847cd7ad" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Turn OFF the vacuum pump [<inlineSignificantData xyid="83c01f0a-94eb-44c8-b5c4-133920cabf93" significantParaDataType="psd58">11</inlineSignificantData>].</en>
+										<ch>关闭真空泵[<inlineSignificantData xyid="f0ffa3cc-448c-467a-9ef3-192b2bb2c3ea" significantParaDataType="psd58">11</inlineSignificantData>]。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="69f1c016-eb47-465c-9180-81228a9c8117" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="41f620b5-54df-48e9-87ed-10c1b29112d4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the vacuum hose [<inlineSignificantData xyid="dcb3f5b7-fd1c-42f7-8c03-02ab1a07d7fc" significantParaDataType="psd58">12</inlineSignificantData>] end adapter from the<acronymTerm xyid="2f187d09-2518-49b5-a527-cef23ab764d6"> PS3 </acronymTerm>pressure port [<inlineSignificantData xyid="90a8daf4-6308-4790-b542-8819af36d40a" significantParaDataType="psd58">13</inlineSignificantData>] and<acronymTerm xyid="499579fd-fcee-49a6-9772-fb82241329f1"> P3B </acronymTerm>hose pressure port [<inlineSignificantData xyid="6da8966b-37ac-4d25-85d2-d4637ec72c31" significantParaDataType="psd58">14</inlineSignificantData>].</en>
+										<ch>从PS3压力口[<inlineSignificantData xyid="0869aa00-1d9c-470a-9ddf-c2c0a1a72c28" significantParaDataType="psd58">13</inlineSignificantData>]和P3B软管压力口[<inlineSignificantData xyid="8ebf5284-8d1c-4255-a465-f2daa2b98cc6" significantParaDataType="psd58">14</inlineSignificantData>]拆下真空管[<inlineSignificantData xyid="8198bb05-ba04-41f2-9720-c5162b58531e" significantParaDataType="psd58">12</inlineSignificantData>]端转接头。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="bf7d2840-24d2-4441-87a9-a222017769f8" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="03e14b1b-c2b3-46bc-aa2c-38fa0c664eb6" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Blow clean dry Air Source-Compressed,Regulated,100 psi or Air Source - Nitrogen, Regulated, 100 psi (no more than 200 psi ( 1379 kPa )) in the PS3 sense line [ 2 ] and P3B sense line [ 3 ] for a minimum of 3 minutes. Continue until no moisture comes out from the PS3 sense line [ 2 ] and P3B sense line [ 3 ] weep hole located at the 4:00 o'clock position in the aft location of the fan compartment. Refer to<internalRef xyid="c395ce91-7415-44dd-b9e0-ebfff41e2918" internalRefTargetType="irtt01" internalRefId="fig-3ucc9opu"> Refer to Fig.4 Location of Sense Line Weep Holes </internalRef>.</en>
+										<ch>向PS3传感管[<inlineSignificantData xyid="23425f2f-e2e3-49dd-a980-bd459943ef39" significantParaDataType="psd58">2</inlineSignificantData>]和P3B传感管[<inlineSignificantData xyid="1e9efbe2-ff84-4288-a492-3b15a9552f93" significantParaDataType="psd58">3</inlineSignificantData>]中吹清洁、干燥的100psi可调压缩空气源或100 psi可调氮气源(不超过 200 psi  1379 kPa ))至少3分钟。继续直到没有水汽从位于风扇舱后部4:00点钟位置的PS3传感管[<inlineSignificantData xyid="42e96b72-9def-4b8e-851a-b14166c6fcd3" significantParaDataType="psd58">2</inlineSignificantData>]和P3B传感管[<inlineSignificantData xyid="70127844-511c-4fec-a3e8-79ecd55bd1ab" significantParaDataType="psd58">3</inlineSignificantData>]渗水孔流出。参考图4.传感管渗水孔位置。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="22d589c2-005b-4536-b631-a1edaa12dd6f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="cbcfd5f2-20bf-4e16-8da6-dddec129102d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the<acronymTerm xyid="dc595fee-b2a8-4188-8f09-e9ab600881f9"> PS3 </acronymTerm>sense line [<inlineSignificantData xyid="bfd3be16-f9f7-48af-bc5f-186124889234" significantParaDataType="psd58">2</inlineSignificantData>] and<acronymTerm xyid="6db1f08d-b927-47d2-9c52-682eda54586a"> P3B </acronymTerm>sense line [<inlineSignificantData xyid="4e098412-8c3c-48cd-979b-a184276fac97" significantParaDataType="psd58">3</inlineSignificantData>] weep holes are not blocked because of ice formation, damage, or contamination, and that there is a free flow of air from the<acronymTerm xyid="d7731d9a-b517-44f1-baf7-e4084f97f8fa"> PS3 </acronymTerm>sense line [<inlineSignificantData xyid="7d5988e6-8990-4adf-869e-ccb9bdc22143" significantParaDataType="psd58">2</inlineSignificantData>] and<acronymTerm xyid="ae30ee0f-f817-41ac-befb-b27568e87c25"> P3B </acronymTerm>sense line [<inlineSignificantData xyid="9b7fff73-eb58-4263-8962-e839208a0755" significantParaDataType="psd58">3</inlineSignificantData>] weep holes.</en>
+										<ch>确保PS3传感管[<inlineSignificantData xyid="e0a54965-fa2b-4ce7-b2d5-7e1b62c7aaf6" significantParaDataType="psd58">2</inlineSignificantData>]和P3B传感管[<inlineSignificantData xyid="f0f49c71-2cfa-40e4-969d-5667a75ba6d1" significantParaDataType="psd58">3</inlineSignificantData>]渗水孔没有因结冰、损伤或污染而堵塞，并且有空气从PS3传感管[<inlineSignificantData xyid="9caee587-8d6f-481e-96b5-2f23ea55ed1f" significantParaDataType="psd58">2</inlineSignificantData>]和P3B传感管[<inlineSignificantData xyid="f3fd0a11-d020-4bc8-9537-ee0b6aa0c6f5" significantParaDataType="psd58">3</inlineSignificantData>]的渗水孔自由流出。</ch>
+									</para>
+									<note xyid="3cfe6666-10c8-4ce5-9e9a-b98d8d8e824e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<notePara xyid="1bddd327-3018-4365-a8bc-8a9d17946484">
+											<en>For best results, compressed<internalRef xyid="77cd85c4-8409-4b60-b3f7-d9c80093ded7" internalRefTargetType="irtt05" internalRefId="seq-0005" xlink:title=" Air Source - Nitrogen, Regulated, 100 psi "> Air Source - Nitrogen, Regulated, 100 psi </internalRef>is recommended.</en>
+											<ch>为了获得最佳效果，建议使用100 psi可调氮气源。</ch>
+										</notePara>
+									</note>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="8e31df10-99ad-45b9-b995-892ab0eddb8f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="8cb739e2-1657-4792-9f12-c921404e83e0" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>
+										<rev>Recovery the PS3 sense line [ 2 ] connection to PSS [1]. Refer to.</rev>
+										<rev>
+											<rev>
+												<dmRef xlink:title="MPP" showText=" PS3 line-Installation,MPP C919-A-73-21-70-01A-720A-A ">
+													<dmRefIdent>
+														<dmCode assyCode="70" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="73" subSubSystemCode="1" subSystemCode="2" infoCode="720" modelIdentCode="C919" disassyCode="01" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-73-21-70-01A-720A-A">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>PS3 line</techName>
+															<infoName>Installation</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev> .</rev>
+									</en>
+									<ch>
+										<rev>恢复PS3传感管[</rev>
+										<inlineSignificantData xyid="2fdc3d0d-8399-4c51-bc44-c449b5f6a10f" significantParaDataType="psd58">
+											<rev>
+												<rev>2</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]连接到PSS[</rev>
+										<inlineSignificantData xyid="2a9a68c3-2197-4823-9036-17e20ec4ab3b" significantParaDataType="psd58">
+											<rev>
+												<rev>1</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]上。参考：PS3传感管 - 安装,MPP C919-A-73-21-70-01A-720A-A。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="e0f19438-af4a-4907-a408-3b1c1456ec4e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="b5dded7c-69a1-4afd-8532-edd4ee3cd876" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>
+										<rev>Recovery the P3B sense line [ 3 ] connection to PSS [ 1 ]. Refer to</rev>
+										<rev>
+											<rev>
+												<dmRef xlink:title="MPP" showText=" P3B Line-Installation,MPP C919-A-73-21-75-01A-720A-A ">
+													<dmRefIdent>
+														<dmCode assyCode="75" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="73" subSubSystemCode="1" subSystemCode="2" infoCode="720" modelIdentCode="C919" disassyCode="01" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-73-21-75-01A-720A-A">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>P3B Line</techName>
+															<infoName>Installation</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev>.</rev>
+									</en>
+									<ch>
+										<rev>恢复P3B传感管[</rev>
+										<inlineSignificantData xyid="e296fb57-e650-436c-9a82-23ee056136f1" significantParaDataType="psd58">
+											<rev>
+												<rev>3</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]连接到PSS[</rev>
+										<inlineSignificantData xyid="df5a55a7-1b94-4b28-bc12-58a2eb732d49" significantParaDataType="psd58">
+											<rev>
+												<rev>1</rev>
+											</rev>
+										</inlineSignificantData>
+										<rev>]上。参考：P3B传感管 - 安装,MPP C919-A-73-21-75-01A-720A-A。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="db64ae71-687d-41bb-9172-ccb219c3b4c1" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="100d636b-49b9-45de-861f-c46b6221794d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Refer to<rev> </rev>
+										<internalRef xyid="c061b672-be98-4c8f-8888-8b56f2b96cd0" internalRefTargetType="irtt02" internalRefId="tab-3cq91zw3">Table3 Vacuum pump kit details</internalRef>
+										<rev> </rev>for the<internalRef xyid="9b38b11a-6a97-4059-aae4-7587cde3d548" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Vacuum pump kit(RC331931) "> Vacuum pump kit(RC331931) </internalRef>details and refer to<internalRef xyid="369d299f-262b-4760-918b-16a1e21be83e" internalRefTargetType="irtt02" internalRefId="tab-3cq91zx5">Table 4 Heat gun details</internalRef>
+										<rev> </rev>for the<internalRef xyid="95fb79e7-01f2-4e83-88ba-a86f6d789fe5" internalRefTargetType="irtt05" internalRefId="seq-0003" xlink:title=" Gun - Heat, 80-260℃ (180-500 ℉) "> Gun - Heat, 80-260℃ (180-500 ℉) </internalRef>details.</en>
+									<ch>参考表3真空泵套件详情获取真空泵套件(RC331931)详情，并参考<rev>表4</rev>获取80-260℃(180-500℉)热风枪详情。</ch>
+								</para>
+								<table xyid="f3cc229c-b5d1-48d9-9b38-3ad58866b342" id="tab-3cq91zw3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<title xyid="d422d239-b9b0-401a-aa64-36ebc515a414">
+										<en>Table 3  Vacuum pump kit details</en>
+										<ch>表3  真空泵套件详情</ch>
+									</title>
+									<tgroup cols="3">
+										<colspec colname="col1" colwidth="33.33333%"/>
+										<colspec colname="col2" colwidth="15.59454%"/>
+										<colspec colname="col3" colwidth="51.07213%"/>
+										<tbody>
+											<row xyid="265c7bd0-6015-4e95-b8bf-d1bbeeed6e3c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="6d1a9d24-32cf-4524-8e39-81ed23f5ac09">
+													<para xyid="f10a07d7-19e2-4533-915e-543dc4653ce2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>SYSTEM OPERATION</en>
+														<ch>系统操作</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="d93534ba-46e7-4d08-96ee-91e2ffaad4fa">
+													<para xyid="019db5fc-c8ea-4c3b-b2a4-9d993d538b6e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>QUANTITY</en>
+														<ch>数量</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="9029181d-593e-466f-846e-488d74acd555">
+													<para xyid="f29c43fe-1b8e-42f9-9504-d2bddeeada0b" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>DESCRIPTION</en>
+														<ch>描述</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="3d6b5f3f-921b-4b54-bb73-b5e1ad5e2903" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="c3f524d1-e941-4f2a-8a4d-88b3f79acf66">
+													<para xyid="aa9cbabc-77a9-4665-8e79-5ec43c657140" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Vacuum Pump 120V/60Hz.</en>
+														<ch>真空泵120V/60Hz</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="e7315a87-51d0-4b09-9c07-d9b775c507a4">
+													<para xyid="6f456937-cd8b-4e3c-9d91-0d91879c5ccc" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="52d3cf46-6fee-4ea1-9694-8e770939ce9b">
+													<para xyid="acc77e0a-6c59-49f2-a05f-c1aafce3f56e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Vacuum pump capable of 0.1 psi ( 6.8 mbar ) or lower with built-in gauge to 0 in ( 0 mm ) to 30 in ( 762 mm ) of Mercury (Hg).</en>
+														<ch>真空泵压力为 0.1 psi(6.8 mbar)或更低，内置压力计，0in(0mm) - 30in(762mm)汞柱。</ch>
+													</para>
+													<para xyid="baede3d7-4bd2-460c-87dd-0cec31ded13f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>2-stage rotary vane super vac with gauge. (1/4" and 3/8" male flare fitting supplied with pump).</en>
+														<ch>带仪表的2级旋转叶片超级真空吸尘器。（随泵提供的1/4"和3/8"外螺纹扩口接头）。</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="31cd5721-3191-4135-ac43-15293d559859" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="ce103778-0ee5-456e-b131-663e1c4ed271">
+													<para xyid="51246b0f-c407-4a1e-8637-03838b5af611" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Pump oil.</en>
+														<ch>泵滑油</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="d52a5932-3742-4b2f-aa15-f328efdf59c1">
+													<para xyid="9ad865fb-bd9c-4291-996a-212e1feb0c25" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="83816119-046e-4ea0-a409-d69d4e5314f6">
+													<para xyid="d05aefc8-eac4-47ed-b717-773ca6a89fa9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Vacuum oil (12 Qts.).</en>
+														<ch>真空滑油(12夸脱)</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="f79e3168-6ec6-49ca-bc1b-b00d29a3b0a5" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="f96b7cf3-ee5d-4911-9e6b-b5b5fb1c16f9">
+													<para xyid="73b42f19-6dbb-4af0-ba6c-de05878993f1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Start/Bleed Valve.</en>
+														<ch>启动/放气活门</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="988402df-f3fd-41fd-af45-fa303e9fea63">
+													<para xyid="4f909f1a-8acf-423e-ad3a-61bf6fb36e77" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="13eeec40-ab98-4198-b043-5a5aed021909">
+													<para xyid="dd2deb51-af9d-4652-b7d9-fda6a5648538" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Ball Valve 3/8" sea male FI. X female FI.</en>
+														<ch>球阀3/8"外螺纹FI.X内螺纹FI.</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="41baa67c-cad8-4527-8d20-302f74278e15" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="e0cc2187-2f40-43e3-adfd-bf6f006838ad">
+													<para xyid="962cb235-08c6-46d3-9aa4-409a6efb4220" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Breather vent.</en>
+														<ch>通气口</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="f9d21494-7b5f-42f0-bc8b-e0f0e72e7c44">
+													<para xyid="0a451d58-1e7a-4131-b530-4d9e7d489124" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="3d3fcca1-d255-466a-b96b-df6d7623d0c9">
+													<para xyid="9ba2fc42-e79f-4299-8bd0-cd1c0d357a4c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Sintered metal filter 40 microns.</en>
+														<ch>烧结金属过滤器40微米。</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="d9ddd8a6-529b-421f-bebb-3cf63cf04415" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="92df6f2e-eee2-4707-b554-b4328ab5e101">
+													<para xyid="1f86ef2e-0e65-40ec-9e57-8cc8247297eb" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Female NPT to Female NPT coupler.</en>
+														<ch>内螺纹NPT至内螺纹NPT接头。</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="7d745f62-8146-45a2-a56b-81fb245beec2">
+													<para xyid="9ee3eaea-27f1-41f3-81b7-87befc2f91e9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>0.1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="0cd54aba-d487-4de9-8438-9590bce6ffc0">
+													<para xyid="dbf57dfe-672c-4246-9a61-38b9e3637ab3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Brass coupler (package of 10) 3/8" female NPT to 3/8" female NPT.</en>
+														<ch>黄铜耦合器（10件套）3/8"内螺纹NPT转3/8”内螺纹NPT。</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="830c2186-a423-4886-ac74-92067e94b442" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="b0c47565-402e-4802-a98b-35650e6978fc">
+													<para xyid="eac59e6c-ef7a-48fa-a9a9-cfe1e5b5c2f2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Smoke eliminator filter.</en>
+														<ch>烟雾消除过滤器</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="941809a9-54d5-4ec5-81ea-f71923cb1c65">
+													<para xyid="4e61496e-1a7f-4011-b72f-50cc970a9db0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="f5d51d69-0210-41b6-8d3a-e9937f764aeb">
+													<para xyid="8275453b-ec89-4964-88bf-3ef866faa3e2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Smoke eliminator filter for super evac pump.</en>
+														<ch>适用于SuperEvac泵的烟雾消除过滤器。</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="740448c1-478d-44ea-9906-c97e9692c9a5" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="0356a47f-908b-4bdd-a768-d75028f568d8">
+													<para xyid="e467ec4e-eec9-4f53-90fb-74b327f8d735" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Vacuum hose.</en>
+														<ch>真空软管</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="b14548ad-f2b8-45fc-93ce-5d105f484b3a">
+													<para xyid="a9655144-89eb-4065-af73-2eecec0d1b1b" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="57519c79-5614-4ef4-a875-1c7b5a74e4d3">
+													<para xyid="0f58dd2d-9eae-48eb-81be-89ef36afcea9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Swagelok PTFE hose with fiber braid, 12' in length, pump connector is 3/8" Swagelok tube fitting, engine control connector is 3/8" JIC (AN) fitting.</en>
+														<ch>带纤维编织物的Swagelok PTFE软管，长度为12英寸，泵接头为3/8"Swagelok套管接头，发动机控制接头为3/8"JIC（AN）接头。</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="2299312c-e0b0-4b12-a6a8-a314b0b69db8" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="63155da8-1b71-4071-940a-c3d8ae910a9f">
+													<para xyid="cd792d25-fc91-4322-b5c2-7f392ea2a620" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Pump fitting.</en>
+														<ch>泵接头</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="dd34b151-4730-4305-85fd-324e77eee051">
+													<para xyid="9cc6f3f4-b7f1-4907-a841-a1cbc9f276f4" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>1</en>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="d2e726ef-7d84-4a62-88c6-609395427156">
+													<para xyid="7bb02914-d076-4d12-aad9-859ee0cbab20" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Swagelok stainless steel tube fitting, male connector, 3/8 in. Tube OD x 1/8 in. Male NPT. This fitting replaces the 1/4" SAE fitting on the pump.</en>
+														<ch>Swagelok不锈钢卡套管接头，外螺纹接头，3/8 in.卡套管外径x 1/8 in.外螺纹NPT。此接头更换了泵上的1/4"SAE接头。</ch>
+													</para>
+												</entry>
+											</row>
+										</tbody>
+									</tgroup>
+								</table>
+								<table xyid="97b0e1ea-c003-4885-b9a9-99d89380db8f" id="tab-3cq91zx5" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<title xyid="b149b8d0-481e-4e3f-94a1-ef3e4e3d0328">
+										<en>Table 4  Heat gun details</en>
+										<ch>表4  热风枪详情</ch>
+									</title>
+									<tgroup cols="4">
+										<colspec colname="col1" colwidth="15.78947%"/>
+										<colspec colname="col2" colwidth="27.87524%"/>
+										<colspec colname="col3" colwidth="31.18908%"/>
+										<colspec colname="col4" colwidth="25.1462%"/>
+										<tbody>
+											<row xyid="7f74954e-670b-4e28-a006-7f735942a193" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="76f5741a-9e58-4c29-8a4b-c439c62b3eb2">
+													<para xyid="8e1a78c2-5189-4f0a-bdaa-d25bf13f83cf" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Item</en>
+														<ch>项目</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="6f69acf3-19cb-4d64-b064-08aa920d3ce6">
+													<para xyid="4d272992-7029-4294-a937-0b932d0b181f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Description</en>
+														<ch>描述</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="fc9cb4a0-7940-45a4-b96a-e5dc0a2f1b02">
+													<para xyid="2d2808a8-f2c2-4493-a436-5f95a2da40d2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Specification</en>
+														<ch>规范</ch>
+													</para>
+												</entry>
+												<entry colname="col4" xyid="64e8a3ad-cd70-476b-9277-17657b0eb5f7">
+													<para xyid="82d1e091-cb85-48e0-848b-55eae9c505bb" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Optional/Required Accessories</en>
+														<ch>可选/必需配件</ch>
+													</para>
+												</entry>
+											</row>
+											<row xyid="959e4136-2f70-4a4c-8878-897529bd7124" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+												<entry colname="col1" xyid="73a4e2d6-6a9a-44c9-9511-d5c76e688006">
+													<para xyid="ac0e0630-2f2a-4d3a-80df-8d95eb20eac4" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Heat Gun.</en>
+														<ch>热风枪</ch>
+													</para>
+												</entry>
+												<entry colname="col2" xyid="23ae65ee-7f7c-403a-9065-90653480c042">
+													<para xyid="7a8e8d71-1914-4655-accd-a841289efa0f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Steinel HG 2310 LCD three-stage professional heat gun or equivalent.</en>
+														<ch>Steinel HG 2310 LCD三级专业热风枪或同等产品。</ch>
+													</para>
+												</entry>
+												<entry colname="col3" xyid="47cd0eb1-23f1-4097-8150-6e759d524ef8">
+													<para xyid="6f90a11e-056e-4adb-959a-6005febfb72a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Heat gun features LOC lockable override control (trademark) of temperature and airflow output settings. The LCD display enables temperature selection in increments of<quantity>
+																<quantityGroup quantityUnitOfMeasure="F">
+																	<quantityValue>10</quantityValue>
+																</quantityGroup>
+															</quantity>(<quantity>
+																<quantityGroup quantityUnitOfMeasure="degC">
+																	<quantityValue>5.55</quantityValue>
+																</quantityGroup>
+															</quantity>) degrees.</en>
+														<ch>热风枪具有LOC可锁定的温度和气流输出设置超控（商标）功能。LCD显示屏可实现以 10 F ( 5.55 ℃ )为增量的温度选择。</ch>
+													</para>
+												</entry>
+												<entry colname="col4" xyid="25e1bb41-2b87-4efe-af3a-9d2fb9c0d607">
+													<para xyid="990f4059-3ffd-4576-9e3a-df2dcff17db2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+														<en>Two voltage versions, 120V USA and 230V Euro.</en>
+														<ch>两种电压版本，120V USA和230V Euro。</ch>
+													</para>
+												</entry>
+											</row>
+										</tbody>
+									</tgroup>
+								</table>
+							</proceduralStep>
+						</proceduralStep>
+						<proceduralStep name="SUBTASK 42504" xyid="0f253574-8cae-423b-9ccf-45a565135495" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="ae452638-becb-447f-adec-14c331c18c36" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Close-Up</en>
+								<ch>结束</ch>
+							</title>
+							<sign name="SIGN 54393" xyid="dce0ae04-97e3-4d23-ac49-9ea6fcd0c5bf" TYPE="_|X" SKILL="AIRP" QUALI="" MHR="" isNa="" naCode="" naReasonEn="" naReasonCh="" notAllow="">
+								<workName name="td_work" xyid="8ce888c9-2d21-4faf-b4a5-b7a1088b49f6">
+              </workName>
+								<checkName name="td_check" xyid="9caecd2f-28c5-4131-b42a-7ca2351b65c2">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="14fb5741-f5d8-4945-9f9b-a06aff89412e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="f174da3b-96b4-4b15-af50-a0943bc65928" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>
+										<rev>Do the access job close up after maintenance on the fan area. Refer to </rev>
+										<rev>
+											<rev>
+												<dmRef xlink:title="MPP" showText="Power plant (Fan area)-Close after access procedure, MPP C919-A-71-00-00-03A-740A-A">
+													<dmRefIdent>
+														<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="71" subSubSystemCode="0" subSystemCode="0" infoCode="740" modelIdentCode="C919" disassyCode="03" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-71-00-00-03A-740A-A">
+                          </dmCode>
+													</dmRefIdent>
+													<dmRefAddressItems>
+														<dmTitle>
+															<techName>Power plant (Fan area)</techName>
+															<infoName>Close after access procedure</infoName>
+														</dmTitle>
+													</dmRefAddressItems>
+												</dmRef>
+											</rev>
+										</rev>
+										<rev>.</rev>
+									</en>
+									<ch>
+										<rev>维护结束后，执行风扇区域关闭工作。参考：动力装置（风扇区域） - 接近程序后关闭,MPP C919-A-71-00-00-03A-740A-A 。</rev>
+									</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="8d9caed4-2a6f-4c7b-988a-5b370e6767ab" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="978a8771-46b9-4967-9685-70c6c24dc98e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do one of the tests that follow: .</en>
+									<ch>执行下列程序之一：</ch>
+								</para>
+								<note xyid="2251abc8-f5a1-4dac-a9f3-58c9e187b232" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<notePara xyid="2b0f937c-cb0a-46a2-af47-d7efdbef353c">
+										<en>The idle test (<internalRef xyid="760cc849-b682-466a-b52f-87670a07337d" internalRefTargetType="irtt08" internalRefId="proStp-4atm8k9v"> Step C.(2).(a). </internalRef>) will show failed if PS3 or P3B faults are detected during the test. The idle leak test (<internalRef xyid="577f4cb0-657c-4331-b9b1-a52e5c7265e3" internalRefTargetType="irtt08" internalRefId="proStp-4atm8uus"> Step C.(2).(b). </internalRef>) will require to do a check of the fault history.</en>
+										<ch>如果在测试过程中检测到PS3或P3B故障，慢车测试(步骤C.(<rev>2</rev>).(a).)将显示失败。慢车渗漏测试(步骤C.(<rev>2</rev>).(b).)将需要检查故障历史记录。</ch>
+									</notePara>
+								</note>
+								<proceduralStep xyid="d9999eac-e314-4c79-9cd3-1b8b09f23d46" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="0f376910-cbcf-4f52-9fb2-8567d14028ff" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Do the idle test (menu mode). Refer to<dmRef xlink:title="MPP" showText=" Power plant-Idle test,MPP C919-A-71-00-00-01A-345C-A ">
+												<dmRefIdent>
+													<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="71" subSubSystemCode="0" subSystemCode="0" infoCode="345" modelIdentCode="C919" disassyCode="01" infoCodeVariant="C" codeType="C919" codeNumber="C919-A-71-00-00-01A-345C-A"/>
+												</dmRefIdent>
+												<dmRefAddressItems>
+													<dmTitle>
+														<techName>Power plant</techName>
+														<infoName>Idle test</infoName>
+													</dmTitle>
+												</dmRefAddressItems>
+											</dmRef>.</en>
+										<ch>执行慢车测试(菜单模式)。参考：动力装置 - 慢车测试,MPP C919-A-71-00-00-01A-345C-A。</ch>
+									</para>
+									<sign name="SIGN 00002" xyid="cfb9cd06-4198-476e-a956-5a34fe3258a9" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="MINP" QUALI="" MHR="">
+										<workName name="td_work" xyid="ffb1906b-9146-4d64-b732-88b86f764a60">
+                  </workName>
+										<checkName name="td_check" xyid="bf9db6a0-7c14-4fbd-aeb0-4ccdfe5c0fdf">
+                  </checkName>
+									</sign>
+								</proceduralStep>
+								<proceduralStep xyid="0a7e8c63-3dd9-45c1-94c7-95cc2bd1a21c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="5b980f2a-54cc-4d94-8100-2956158a0528" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Do the idle leak test. Refer to<dmRef xlink:title="MPP" showText=" Power plant-Idle leak check,MPP C919-A-71-00-00-01A-364C-A ">
+												<dmRefIdent>
+													<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="71" subSubSystemCode="0" subSystemCode="0" infoCode="364" modelIdentCode="C919" disassyCode="01" infoCodeVariant="C" codeType="C919" codeNumber="C919-A-71-00-00-01A-364C-A"/>
+												</dmRefIdent>
+												<dmRefAddressItems>
+													<dmTitle>
+														<techName>Power plant</techName>
+														<infoName>Idle leak check</infoName>
+													</dmTitle>
+												</dmRefAddressItems>
+											</dmRef>.</en>
+										<ch>执行慢车渗漏测试。参考：动力装置 - 慢车渗漏测试,MPP C919-A-71-00-00-01A-364C-A。</ch>
+									</para>
+									<sign name="SIGN 00003" xyid="0319f535-a9f4-4c2f-9818-e5fc13adbff9" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="MINP" QUALI="" MHR="">
+										<workName name="td_work" xyid="3c04419f-7f45-4407-9fd6-21321787d5a2">
+                  </workName>
+										<checkName name="td_check" xyid="5e9eb430-8138-49d5-a73e-76eb7f041f74">
+                  </checkName>
+									</sign>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="e6969cc6-8410-47f5-a9d3-837ff1539aa5" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="044a314d-3e05-49cc-9d16-a1e258148c90" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove all the WARNING NOTICE(s).</en>
+									<ch>拆下全部警告牌。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="dc9e6ced-a84c-43f4-a8ba-cc51fba2a3bf" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="552c0e1b-a609-4988-9ee9-2799ede05bd9" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove all tools, equipment, and unwanted materials from the work area.</en>
+									<ch>从工作区域移除所有的工具、设备和外来物。</ch>
+								</para>
+							</proceduralStep>
+						</proceduralStep>
+					</mainProcedure>
+				</procedure>
+			</content>
+		</dmodule>
+	</posDesc>
+</jobCard>

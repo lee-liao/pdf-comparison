@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+
+# Local assistant/tooling state
+.claude/
+.wucai/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated output
+output/

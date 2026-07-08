@@ -1,0 +1,2557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobCard xmlns:xlink="http://www.w3.org/1999/xlink">
+	<jcId>1999026262355816450</jcId>
+	<jcNumber>C193405001001-1</jcNumber>
+	<fleet>CSN</fleet>
+	<jcAcType>C919</jcAcType>
+	<jcVersion>R1</jcVersion>
+	<revDate>2025-11-25 00:00:00.000</revDate>
+	<jcType>RT</jcType>
+	<skill>AINP</skill>
+	<threshold/>
+	<interval/>
+	<mhrs>4</mhrs>
+	<labor/>
+	<elapsed/>
+	<mrsNo>34-05-011</mrsNo>
+	<reference>AMM C919-A-34-46-00-02A-340A-A 2025-11-25</reference>
+	<relaCard/>
+	<zone>127 128 130 210 220</zone>
+	<access>821A</access>
+	<titleCh>功能检查 - 应答机(RVSM)</titleCh>
+	<titleEn>FUNCTIONAL CHECK - ATC TRANSPONDER (RVSM)</titleEn>
+	<workAreaCh>驾驶舱</workAreaCh>
+	<workAreaEn>COCKPIT</workAreaEn>
+	<effExp>ALL</effExp>
+	<effRemark/>
+	<acType/>
+	<acReg/>
+	<lineNo/>
+	<mtStation/>
+	<station/>
+	<stringer/>
+	<workOrder/>
+	<workOrderDate/>
+	<printDate/>
+	<seqNo/>
+	<editor>丁立彬</editor>
+	<editDate>2025-12-12 11:01:12.000</editDate>
+	<checker>王书荣</checker>
+	<checkDate>2026-01-06 09:04:36.000</checkDate>
+	<flightNo/>
+	<finishDate/>
+	<regReq>ALI</regReq>
+	<mhrsAct/>
+	<startDate/>
+	<adRela/>
+	<criticalTask/>
+	<signType>Tree</signType>
+	<itemLevel>C</itemLevel>
+	<approver>陈世华</approver>
+	<approveDate>2026-01-06 10:52:07.000</approveDate>
+	<accList>
+		<accItem>
+			<accessNo>821A</accessNo>
+			<accessType>820-1</accessType>
+			<accessDescCh>前电子舱后门</accessDescCh>
+			<accessDescEn>Fwd E/E compartment back door</accessDescEn>
+			<openMhrs/>
+			<closeMhrs/>
+		</accItem>
+	</accList>
+	<refList>
+		<refItem>
+			<refType>AMM</refType>
+			<itemNo>C919-A-34-46-00-02A-340A-A</itemNo>
+			<subNo/>
+			<version/>
+			<revDate>2025-11-25 00:00:00.000</revDate>
+		</refItem>
+		<refItem>
+			<refType>MRS</refType>
+			<itemNo>34-05-011</itemNo>
+			<subNo/>
+			<version/>
+			<revDate/>
+		</refItem>
+	</refList>
+	<toolList>
+		<toolItem>
+			<orders>1</orders>
+			<partNo>TR-220</partNo>
+			<partNameCh>ISS测试设备测距仪</partNameCh>
+			<partNameEn>Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>2</orders>
+			<partNo>TC-201</partNo>
+			<partNameCh>天线耦合器</partNameCh>
+			<partNameEn>Antenna Coupler</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>For TC-201, TC-201A and TC-201B are available. Opt: ZDC-02</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>3</orders>
+			<partNo>QJSPQ-C9</partNo>
+			<partNameCh>大气数据系统测试套装转接头</partNameCh>
+			<partNameEn>Kit, Adapter - Air Data System Test</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>4</orders>
+			<partNo>AGE19021</partNo>
+			<partNameCh>RAT收上锁定销</partNameCh>
+			<partNameEn>RAT stow lock pins</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>5</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>跳开关锁定夹</partNameCh>
+			<partNameEn>Lock - Circuit Breaker</partNameEn>
+			<qty>As Req/按需</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>6</orders>
+			<partNo>6341C02-A</partNo>
+			<partNameCh>大气数据探头地面防加温工具</partNameCh>
+			<partNameEn>Tool - Ground Anti heating, Air Data probe</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark/>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+		<toolItem>
+			<orders>7</orders>
+			<partNo>No Specific/无特殊要求</partNo>
+			<partNameCh>大气数据系统测试设备</partNameCh>
+			<partNameEn>Test Set - Test, Air Data System</partNameEn>
+			<qty>1</qty>
+			<unit/>
+			<remark>Parameter requirements/参数要求:
+1. Height range: -2000 ft~ 39800ft;
+2. Height accuracy range: 15 ft~80 ft;
+3. Airspeed range: Maximum 350 kts;
+4. Airspeed accuracy range: ±1~±5 kts;
+5. Operating temperature: -10~50 ℃;
+REC P/N推荐件号:
+Model 6300;
+ADTS505;
+ADTS552F;
+ADSE743;
+MPS45.</remark>
+			<sn/>
+			<ipcNo/>
+			<refFrom>C919-A-34-46-00-02A-340A-A</refFrom>
+			<effExp>ALL</effExp>
+			<effRemark/>
+		</toolItem>
+	</toolList>
+	<matList/>
+	<picList>
+		<picItem>
+			<blobId>1964889904937795586</blobId>
+			<picNoteFlag>0</picNoteFlag>
+			<svgOssId>1964889904937795586</svgOssId>
+			<orders>1</orders>
+			<picNameCh>(第1页/共1页) ISS(XPDR) - 功能测试</picNameCh>
+			<picNameEn>ICN-C919-A-344600-A-SVV19-23358-A-001-01 (1/1) Integrated surveillance system (XPDR) - Functional test</picNameEn>
+			<figNo/>
+			<effExp>ON A/C MSN ALL</effExp>
+			<effRemark/>
+			<sheetNo>1</sheetNo>
+			<isSelf/>
+		</picItem>
+	</picList>
+	<posDesc DBID="1999026262515200003">
+		<para xyid="b72ea9cf-8b43-403a-be3e-b21e29629ce0">
+			<en>INSPECTION ITEM: ATC TRANSPONDER</en>
+			<ch>检查项目：ATC应答机</ch>
+		</para>
+		<para xyid="0808b920-74b2-434d-abb4-f57ce85874ed">
+			<en>DESCRIPTION: FUNCTIONAL CHECK OF ATC TRANSPONDER (RVSM).</en>
+			<ch>描述：对应答机进行功能检查(RVSM)。</ch>
+		</para>
+		<dmodule name="DMODULE C919-A-34-46-00-02A-340A-A" xyid="d44ba0e1-55ab-4a72-af30-92994448cbe0" effexp="ON A/C MSN 00001-99999" efftext="ALL" xmlns:dc="http://www.purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-1/xml_schema_flat/proced.xsd">
+			<identAndStatusSection name="tr_identAndStatusSection" xyid="10f42e83-b175-455c-a568-d1a7cd834055">
+				<dmAddress xyid="d9bc8e65-6c14-4619-94e5-c39788cfff78">
+					<dmIdent name="tr_taskno" xyid="3c41dbe4-d645-4fb9-86d6-9aa97fbb0cef">
+						<dmCode name="para_taskno" xyid="4d82b1f5-0c13-4979-ab9a-96539affc23e" modelIdentCode="C919" systemDiffCode="A" systemCode="34" subSystemCode="4" subSubSystemCode="6" assyCode="00" disassyCode="02" disassyCodeVariant="A" infoCode="340" infoCodeVariant="A" itemLocationCode="A">TASK C919-A-34-46-00-02A-340A-A</dmCode>
+					</dmIdent>
+					<dmAddressItems name="tr_tasktitle" xyid="292bea51-6f30-4d1e-932c-35a9a9ee3e35">
+						<dmTitle xyid="4932298e-2773-44c8-baf7-1d8d023cf009">
+							<techName name="para_techname" xyid="ca72355f-c6ad-4533-bef0-31136291ebd1">
+								<en>Integrated surveillance system (ATC transponder)</en>
+								<ch>综合监视系统(ATC应答机)</ch>
+							</techName>
+							<infoName name="para_infoname" xyid="a2744516-8c89-47b1-a7a7-de1a06f8806d">
+								<en>Functional test</en>
+								<ch>功能测试 </ch>
+							</infoName>
+						</dmTitle>
+					</dmAddressItems>
+				</dmAddress>
+			</identAndStatusSection>
+			<content name="CONTENTC919-A-34-46-00-02A-340A-A" xyid="9047bbb1-8876-4bd0-bba5-224ddb9f5860" id="">
+				<procedure name="procedure" xyid="8a4121c9-5d5f-499e-8e1a-0e0a847421a8">
+					<preliminaryRqmts name="tr_taskwarning" xyid="123b3435-10e7-4bbf-84dc-b1b2a436d520">
+						<reqSafety name="td_taskwarning" xyid="420e2c07-e1b1-4336-a263-bf9d7452d433">
+							<warning name="WARNING 00001" xyid="35f5ad87-d41d-45dc-af20-01fa8fc15afe" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<warningAndCautionPara xyid="50e51d21-73af-4702-b826-0108dee6f9e1">
+									<en>PUT SAFETY DEVICES AND WARNING NOTICES NEAR THE RAT DOOR. OTHERWISE, ACCIDENTAL DEPLOYMENT OF THE RAT CAN CAUSE INJURY TO PERSONNEL.</en>
+									<ch>在RAT舱门附近放置安全装置和警告牌。否则，RAT意外放出可能会造成人员受伤。</ch>
+								</warningAndCautionPara>
+							</warning>
+						</reqSafety>
+					</preliminaryRqmts>
+					<mainProcedure name="mainProcedure" xyid="900f8c72-7705-4a9a-9765-92efb57f7446">
+						<proceduralStep name="SUBTASK 14732" xyid="31df2ccf-25df-43c5-866c-f879eb7bf7fa" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="a18b5b56-ba16-4197-8b03-98baee63d82a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Job Set-Up</en>
+								<ch>工作准备</ch>
+							</title>
+							<sign name="SIGN 20171" xyid="ed26ad5f-cdd4-41f8-8beb-24abf72e6ca6" isNa=" xattr:notAllow=" naCode="" naReasonEn="" naReasonCh="" TYPE="_|X" SKILL="AIRP" QUALI="" MHR="" notAllow="">
+								<workName name="td_work" xyid="8a529525-1b0e-4b16-ba31-f8a97a415e21">
+              </workName>
+								<checkName name="td_check" xyid="383a7354-db60-4abb-9d48-bc366b9f1742">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="11dd0782-a24f-41b9-b519-adddef3df095" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="555dc174-f822-4518-8e13-0ec9f7589024" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the protective covers of pitot probe, static port, pitot-static probe,Total Air Temperature (TAT) sensor and the Angle of Attack (AOA) sensor.</en>
+									<ch>拆下皮托管、静压口、全静压管、TAT总温探头和AOA迎角传感器的保护套。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="d7f57e88-4355-453c-9301-5653fe642403" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="c9e05c8d-e182-4743-919a-c0c9ac6cd11a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Disconnect the electrical connectors of three Air Data Heating Controller <acronym xyid="da2e207f-3051-4ffa-8543-d0f776a9a920">
+											<acronymTerm>ADHC</acronymTerm>
+											<acronymDefinttion/>
+										</acronym>s.</en>
+									<ch>脱开三个ADHC大气数据加热控制器的电插头。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="dd98f72a-c9b5-424a-9c18-1c79e3538338" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="d245640a-84c8-4ba3-b8f5-9b8e23a7cb28" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Connect the<internalRef xyid="076829c0-7e6a-409b-be75-c2b74815f885" internalRefTargetType="irtt05" internalRefId="seq-3s0c1mo7" xlink:title=" Tool - Ground Anti heating, Air Data probe(6341C02-A) "> Tool - Ground Anti heating, Air Data probe(6341C02-A) </internalRef>to the electrical connectors of three<acronymTerm xyid="fc9c842a-e771-4388-93de-65149d9324d2"> ADHC </acronymTerm>s and set all the switches of the<internalRef xyid="54be16a0-91e9-49f0-b1a2-29dabf47fd70" internalRefTargetType="irtt05" internalRefId="seq-3s0c1mo7" xlink:title=" Tool - Ground Anti heating, Air Data probe(6341C02-A) "> Tool - Ground Anti heating, Air Data probe(6341C02-A) </internalRef>to ON.</en>
+									<ch>将大气数据探头地面防加温工具(6341C02-A)连接到三个ADHC的电插头上，并将大气数据探头地面防加温工具(6341C02-A)的所有电门设置为ON。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="ccea5dfb-4a3b-43e6-8c94-9091d6edbf79" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="c5f0933e-e909-487a-accc-30b83d4c46ae" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that the<internalRef xyid="e0323187-9c96-48eb-9922-558f839a4417" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>is fully charged and operates normally by doing the built-in test.</en>
+									<ch>通过执行自检，确保ISS测试设备测距仪(TR-220)充满电并正常工作。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="ea5a9a54-eb38-462b-b0dd-ecc202e9b876" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="409daeff-5d1d-421e-8410-e4a83175e2be" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that the directional antenna of the<internalRef xyid="b85e2539-8631-4deb-9610-78e64b72bbf6" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>and the<acronym xyid="7c07bd66-dae6-478c-b2a4-073d70e80f5f">
+											<acronymTerm>TSA</acronymTerm>
+											<acronymDefinttion/>
+										</acronym>are in a line within visual range.</en>
+									<ch>确保ISS测试设备测距仪(TR-220)的定向天线和TSA交通监视天线在目视范围内成一条直线。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="52cee123-3f1f-408f-ab57-f8bb5469fc2c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="c83455a6-8356-4e70-9228-22e0c281d4b7" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that the unwanted materials, especially metal obstacle are removed from the work area. Otherwise,test result may be affected by multi-path effect.</en>
+									<ch>确保从工作区域清除多余的材料，尤其是金属障碍物。否则，测试结果可能会受到多路径效应的影响。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="e812c87c-74a1-4b48-940b-cbd4ae12a909" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="e05375e0-a734-46cd-9bdd-ec8df998c667" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Open the<internalRef xyid="8afcfb47-d9a7-48ea-9c41-035e7aab3af4" internalRefTargetType="irtt16" internalRefId="acp-2xhem7g8"> Fwd E/E compartment back door 821A </internalRef>. Refer to<dmRef xlink:title="MPP" showText=" Fwd E/E equipment compartment back door-Open from outside for access procedure,MPP C919-A-52-43-00-00A-540B-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="52" subSubSystemCode="3" subSystemCode="4" infoCode="540" modelIdentCode="C919" disassyCode="00" infoCodeVariant="B" codeType="C919" codeNumber="C919-A-52-43-00-00A-540B-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>Fwd E/E equipment compartment back door</techName>
+													<infoName>Open from outside for access procedure</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>打开前E/E舱后门821A。参考前E/E舱后门 - 从外部打开接近程序,MPP C919-A-52-43-00-00A-540B-A</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="bd7f653c-36ec-483a-83ad-ed9be9775b63" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="9e57399c-ba09-48a5-b79a-e57f06a12d9b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Energize the aircraft electrical circuits. Refer to<dmRef xlink:title="MPP" showText=" Energize the aircraft electrical circuits (Task Selection)-Energize electrical network,MPP C919-A-24-00-00-00A-761A-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="24" subSubSystemCode="0" subSystemCode="0" infoCode="761" modelIdentCode="C919" disassyCode="00" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-24-00-00-00A-761A-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>Energize the aircraft electrical circuits (Task Selection)</techName>
+													<infoName>Energize electrical network</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>给飞机电网通电。 参考给飞机电网通电(任务选择) - 飞机通电,MPP C919-A-24-00-00-00A-761A-A。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="7a3b300e-e731-42d3-a92d-092ce5125884" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="574304e3-f7e4-4878-bd3e-850a3584f6e6" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Open, safety/lock and tag this(these) circuit breaker(s):</en>
+									<ch>拔出、保险/锁定并挂标签以下跳开关：</ch>
+								</para>
+								<circuitBreakerDescrGroup xyid="2f369a3d-0463-4704-ac3b-0493e3bd9f24" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<circuitBreakerDescrSubGroup xyid="63fa7f07-2e0e-4eac-b6fb-abe07a3a20e1">
+										<circuitBreakerDescr name="meta_cbdesc" xyid="bca006e8-61e7-4a9f-898f-7f77e3130e20" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="18e0fd8c-f2bc-4e86-9e0d-dd433b641893" accessPointTypeValue="" accessPointNumber="RICBP">RICBP</accessPointRef>
+											<name xyid="4d47e8b1-3e68-452e-a0a1-452bb8a1e73f">D-ISS-PU</name>
+											<circuitBreakerRef xyid="71165f4f-a972-4a10-9a88-9c6aedf52883" circuitBreakerType="cbt02" circuitBreakerNumber="R-ICBP-B-15">R-ICBP-B-15</circuitBreakerRef>
+											<circuitBreakerLocation xyid="b172557d-3ca1-4f40-bea9-b5387311af9d">B-15</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="48e8b065-e41b-4d40-aa20-c65964f18c1c" applicRefId="cb-app-0001">
+											<accessPointRef xyid="44528512-7ca3-414b-a2c1-f9264040694f" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+											<name xyid="461bf4b7-6e2c-45f8-81db-7b21ffbcff77">EDP-EMPC-A-LRM</name>
+											<circuitBreakerRef xyid="61da046a-b264-44bc-be8c-47102fdd90b3" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-A-2">EDP-A-2</circuitBreakerRef>
+											<circuitBreakerLocation xyid="cc4e33f1-de0c-4830-bc6c-91a8e6f2aa2b">A-2</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="252716cb-8127-4328-babe-5485f5610291" applicRefId="cb-app-0001">
+											<accessPointRef xyid="5db00fa4-cabc-473e-96e5-189d8a25bc44" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+											<name xyid="52950aab-be3a-4b01-b98c-68572889c750">RIGHT-PITOT-STATIC</name>
+											<circuitBreakerRef xyid="98be83c8-0342-499e-bc9e-0492e86e44f9" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-G-1">EDP-G-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="7596d259-7319-4f90-8060-cf914ead58d8">G-1</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="e7b18a46-d19c-4c2f-8092-38704d49b603" applicRefId="cb-app-0001">
+											<accessPointRef xyid="e82638d1-7c3e-4e1d-a53a-f988fb1d64c7" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+											<name xyid="e7315758-f125-4914-9377-a145e12763bf">AOA-LEFT1</name>
+											<circuitBreakerRef xyid="0731b6bd-ab80-4cff-a73e-0dbeb3de0519" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-G-2">EDP-G-2</circuitBreakerRef>
+											<circuitBreakerLocation xyid="7ef559c0-9fab-4fcc-9fc8-64c2738ae6c1">G-2</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="c0070648-77e6-4e1c-abad-9fc77f4bd96f" applicRefId="cb-app-0001">
+											<accessPointRef xyid="0e50a577-a7d6-4633-9556-88f2506ed7af" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+											<name xyid="5404515f-6c04-4105-8285-2139b7296123">LEFT-PITOT-STATIC</name>
+											<circuitBreakerRef xyid="f3d11478-12a3-4102-95b7-ed74fab9a6e1" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-H-1">EDP-H-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="23b704c3-4eb8-41b1-ba48-fc3090d32683">H-1</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="5cce97ee-f2ec-4113-ac04-8b7b94cf0da1" applicRefId="applicRef-3nrpgxgx">
+											<accessPointRef xyid="5cd9bedb-0df6-4973-9ce0-e2aef3190ff2" accessPointTypeValue="" accessPointNumber="LDP">LDP</accessPointRef>
+											<name xyid="5e532360-b6a0-41c4-a651-89230b3c41ac">EDP-EMPC-C-LRM</name>
+											<circuitBreakerRef xyid="29870956-086f-452a-aa1f-def0e5a6bb4b" circuitBreakerType="cbt02" circuitBreakerNumber="LDP-Q-2">LDP-Q-2</circuitBreakerRef>
+											<circuitBreakerLocation xyid="edb790d3-4634-4e03-828e-8f311c88dbb9">Q-2</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="1545d211-e5de-42ae-90bb-948bc7b93722" applicRefId="cb-app-0001">
+											<accessPointRef xyid="76fec72e-be10-45cb-a503-3170e1077c6b" accessPointTypeValue="" accessPointNumber="RDP">RDP</accessPointRef>
+											<name xyid="259431d7-b5e7-48ea-be8d-31b1811f0ab4">EDP-EMPC-B-LRM</name>
+											<circuitBreakerRef xyid="7f9567ba-a73b-42d6-8154-a9647c4a2b84" circuitBreakerType="cbt02" circuitBreakerNumber="RDP-K-3">RDP-K-3</circuitBreakerRef>
+											<circuitBreakerLocation xyid="521c0347-fc2f-4fd3-afb5-390fa4cc18f3">K-3</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="23c43059-85b1-4a9e-9997-d43e6af9256c" applicRefId="cb-app-0002">
+											<accessPointRef xyid="bdd6b044-6118-4590-85d3-a54b0b5dabe4" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="be41afb5-709d-4610-a777-a311e285ac19">OET1</name>
+											<circuitBreakerRef xyid="014979e9-072e-47c2-80d8-ecd4f1102dd6" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU11-8-6">RPDU11-8-6</circuitBreakerRef>
+											<circuitBreakerLocation xyid="6599daff-4551-49c0-b631-99a1bd18a6c1">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="0e57af7a-89cd-495a-9bf3-e00f7e10779e" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="713bea24-af32-4474-95ad-c57554f19fd2" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="e6c5a9f0-690f-4ceb-96bb-084e1e58799d">LEFT-STATIC1</name>
+											<circuitBreakerRef xyid="3c1188a3-79a0-43de-8066-57d1bc3ae9a1" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-3-7">RPDU21-3-7</circuitBreakerRef>
+											<circuitBreakerLocation xyid="432f3063-38f5-4f23-a437-cb9061cb5bed">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="93fd1c57-dc0f-4901-9b51-15921d12485a" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="a0a56325-952a-40cb-b319-fa27fdd3ee38" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="cce1b4a5-33e2-4c46-b035-ee3f15237fe5">RIGHT-STATIC1</name>
+											<circuitBreakerRef xyid="9c94c841-c0fb-4a4c-9542-7fdd6516f008" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-4-5">RPDU21-4-5</circuitBreakerRef>
+											<circuitBreakerLocation xyid="58977653-dff0-43a1-acc4-754820d6139d">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="f3a14a68-0f5b-41d3-8ee3-0b94ac4163d8" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="fd01d1e9-ddcd-49c4-ac25-6900b774e73f" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="8208984d-21f7-4c98-9692-0eab5d38b5b2">LEFT-PITOT-PROBE</name>
+											<circuitBreakerRef xyid="7d8c8dd8-71cd-417c-bc8b-72ad442868da" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-7-5">RPDU21-7-5</circuitBreakerRef>
+											<circuitBreakerLocation xyid="63a8ae63-a1fe-4598-afe2-8159dd8fab45">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="6bfa012a-9840-4b76-be62-8a2df64a4058" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="5c0f779a-fb52-48ea-b3fe-7c88800e2939" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="6a587817-e24c-4d8c-b599-41cce0056a74">RIGHT-PITOT-PROBE</name>
+											<circuitBreakerRef xyid="3706a7db-1133-4b34-8967-ef3372898677" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU22-7-1">RPDU22-7-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="6a0f70f2-57ba-4eef-a5b8-943bfca491f0">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="16eb7a42-44ff-4986-bae1-c72944f1d7db" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="4b7065c8-6778-43b7-b358-d437765ea9af" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="0407edc3-1c7c-4d83-bd7f-6b72800277bb">TAT-RIGHT</name>
+											<circuitBreakerRef xyid="99e4ea9c-a077-4c1c-9f7f-c7f5bd25ec51" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU22-8-3">RPDU22-8-3</circuitBreakerRef>
+											<circuitBreakerLocation xyid="26f4b075-88ca-4161-9c1e-cf1516b04d7c">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="732e39bc-dd61-4f9c-a2a9-b55429d8dcf3" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="faedef15-e7a7-4a57-bee5-ccb7c1b7f169" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="07477a39-0b37-4b26-90d9-1132f0767b75">AOA-RIGHT1</name>
+											<circuitBreakerRef xyid="e66aa61c-6ea5-4a4e-a50f-f4f4be5f5e56" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU23-8-1">RPDU23-8-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="9de5d0bc-cea8-4846-a3e0-f7fd80149ffc">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="f5647eb1-0873-48d4-8df2-50dbc8f3f051" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="d39923e3-1620-482d-bf86-925ea0a4b6a8" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="f4563864-978f-4d43-be6b-4ac7f61959a4">TAT-LEFT</name>
+											<circuitBreakerRef xyid="190723d1-2ad2-492e-96d4-384b0409413b" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU23-8-3">RPDU23-8-3</circuitBreakerRef>
+											<circuitBreakerLocation xyid="5f49baae-3463-4b1a-8234-7dc7e5d6450f">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="4e729925-0577-4f82-a023-59adf3c74ccb" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="ce9c643c-7eb2-45d6-8feb-7fcc7fa60b87" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="ea450ef9-85a5-4f06-bbd7-d7c25aa7fb6a">LEFT-STATIC3</name>
+											<circuitBreakerRef xyid="59b96ca9-5fc9-4003-8ccd-5cda02fb4363" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU24-3-3">RPDU24-3-3</circuitBreakerRef>
+											<circuitBreakerLocation xyid="ff7cafbf-83cc-4165-b037-e7f2981b0323">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="c17416aa-ec35-4c0d-a5ac-d37a25b99273" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="87c34ada-8116-4bd9-84d5-88cffcc7df47" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="65932207-c7ac-4c19-9bbc-ba1fe7f5f43f">AOA-LEFT2</name>
+											<circuitBreakerRef xyid="c369861f-7fdf-4da2-b5ae-83acc5a322f8" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU24-7-1">RPDU24-7-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="4e4919b0-3288-46d1-abea-d099dac3eb93">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="bd5b3cd9-8f2a-497b-84f7-fb27ffbcbfaa" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="72f805e6-00f6-4da6-aba0-e781f0360368" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="c95578eb-619d-477f-b1e0-7e6deff30cf6">RIGHT-STATIC3</name>
+											<circuitBreakerRef xyid="54cdcc6a-ab38-473b-86e0-6657c9a89d2b" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-3-2">RPDU26-3-2</circuitBreakerRef>
+											<circuitBreakerLocation xyid="df45cbfe-54e9-4401-8617-72e8846bd410">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="d1ad60bb-99e8-40d4-a47d-924b7efce32b" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="1403487f-706d-41ff-8bb8-6d86f7af089f" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="81eb3d0f-3a9c-4b18-bd6b-96f8dc94c0f3">TSA-RELAYS-POWER</name>
+											<circuitBreakerRef xyid="605d76ac-9ef3-47f4-a06f-351a3dc10ae9" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-10">RPDU26-4-10</circuitBreakerRef>
+											<circuitBreakerLocation xyid="88b613f8-6481-4443-a4cc-8d9974036c6c">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="bfb9a6f5-20ad-4e69-92b1-4ea7d1c8b577" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="0ee6ceaa-ba5e-436c-94bd-86172ab1e7f2" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="496934b5-3027-4d4e-9d03-2de69242eb0f">ISS-PU</name>
+											<circuitBreakerRef xyid="25852f33-6b30-4617-83ca-46a86d786022" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-7-1">RPDU26-7-1</circuitBreakerRef>
+											<circuitBreakerLocation xyid="b9e125ac-5a26-4b48-a90f-62e3095546b8">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="860ecf94-4306-4ab9-a42d-dfdba0212776" applicRefId="applicRef-3mq05vg4">
+											<accessPointRef xyid="43162b5a-03e3-4588-a70f-2bcbe6e7fa2c" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="37fd12ee-9126-4e28-8df4-b47d5c1d3cf1">AOA-RIGHT2</name>
+											<circuitBreakerRef xyid="cec7464b-2729-4605-8c60-08d9cd652cdc" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-7-3">RPDU26-7-3</circuitBreakerRef>
+											<circuitBreakerLocation xyid="6fc12164-0695-4376-bcac-e0ce3ea66777">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+									</circuitBreakerDescrSubGroup>
+								</circuitBreakerDescrGroup>
+							</proceduralStep>
+							<proceduralStep xyid="40b156d7-dd7c-4564-937b-a0c350af638c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<caution xyid="b56332a6-2053-4464-9ec7-b3c1802432f1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<warningAndCautionPara xyid="f45a7f7e-799c-4ead-b5db-140a6475acaa">
+										<en>WHEN THE ADHCS IS POWER OFF, THE SENSORS WILL BE HEATED AUTOMATICALLY. IN ORDER TO PREVENT THE EQUIPMENT FROM BEING BURNT OUT, THE CIRCUIT BREAKERS OF THE ADHCS SHOULD BE OPENED AT LAST DURING THE OPERATION OF OPENING CIRCUIT BREAKERS.</en>
+										<ch>当ADHC断电时，传感器将自动加温。为了防止设备被烧坏，在断开跳开关的操作过程中，应最后断开ADHC的跳开关。</ch>
+									</warningAndCautionPara>
+								</caution>
+								<para xyid="650163d1-5201-4c18-854a-be8a2029cdcf" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Open, safety/lock and tag this(these) circuit breaker(s):</en>
+									<ch>拔出、保险/锁定并挂标签以下跳开关：</ch>
+								</para>
+								<circuitBreakerDescrGroup xyid="7ccdaf26-6710-410e-b842-55316685dddb" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<circuitBreakerDescrSubGroup xyid="fa60b0d7-0809-4893-be11-884c593909e5">
+										<circuitBreakerDescr name="meta_cbdesc" xyid="01872520-fd25-47ac-bcb1-55b4bc2485bf" applicRefId="cb-app-0002">
+											<accessPointRef xyid="57989fc1-bac2-4a32-946d-f51f19b89d4c" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+											<name xyid="c8b541d5-35dd-4ab5-828e-961fa8d387a8">ADHC2</name>
+											<circuitBreakerRef xyid="17472100-c5eb-4901-b1fc-80d70491afb2" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-B-4">EDP-B-4</circuitBreakerRef>
+											<circuitBreakerLocation xyid="7a215983-1033-4392-b407-c54701659e5e">B-4</circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="5bfe807c-c324-4d66-9422-0b681f9b5f96" applicRefId="cb-app-0002">
+											<accessPointRef xyid="45fa5e92-7193-4059-a391-8ea216d72370" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="012bc02b-a08e-4cff-81b8-9134317e9fb0">ADHC1</name>
+											<circuitBreakerRef xyid="9a19a8f5-ea9e-4aa5-a85f-1770a06b7a86" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU25-3-11">RPDU25-3-11</circuitBreakerRef>
+											<circuitBreakerLocation xyid="a48282e8-ef26-4acd-b0e2-4e275f70675e">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="4865e906-769c-4917-a6e8-72b04f015d5f" applicRefId="cb-app-0002">
+											<accessPointRef xyid="dfa78e35-e901-4df7-9f8d-6c271a6cd1f4" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="65a9440c-6bcd-44a2-8099-082365c63d3d">ADHC3</name>
+											<circuitBreakerRef xyid="e966a01d-94f5-42a5-b1a6-39fa12e4a903" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-9">RPDU26-4-9</circuitBreakerRef>
+											<circuitBreakerLocation xyid="cdcfb2df-cb0b-4c4c-a545-fe71e2e657a8">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+									</circuitBreakerDescrSubGroup>
+								</circuitBreakerDescrGroup>
+							</proceduralStep>
+							<proceduralStep xyid="8d2d9166-8782-4b7e-9a7c-3741776ecf6f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="6a3262f8-98a4-4fc9-b8bf-f63168a30dae" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that this(these) circuit breaker(s) is(are) closed:</en>
+									<ch>确保以下跳开关闭合：</ch>
+								</para>
+								<para>
+									<randomList bulltype="BULLET">
+										<listItem>
+											<para xyid="d294f77c-cbf0-4ad5-b9e8-0d1bac1208e1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>BATT INTLK at the front panel of the PCM1, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM1前面板上的BATT INTLK。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="d6f3a595-59ad-4bae-9a4b-178104c2a4ef" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>BATT INTLK at the front panel of the PCM2, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM2前面板上的BATT INTLK。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="45b25ab4-60e4-4308-9fa3-dd91ece12993" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>BATT INTLK at the front panel of the PCM3, in the mid E/E compartment.</en>
+												<ch>中E/E舱中，PCM3前面板上的BATT INTLK。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="19290c4c-6127-4ae7-8137-723308e2794f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>BATT INTLK at the front panel of the PCM4, in the mid E/E compartment.</en>
+												<ch>中E/E舱中，PCM4前面板上的BATT INTLK。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="713dd1a4-3c83-4be7-8d38-4e55e9f8c00f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>ACE at the front panel of the PCM1, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM1前面板上的ACE。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="ec15f6db-7c26-4fe4-8d0a-5eb561a4b7ff" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>ACE at the front panel of the PCM2, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM2前面板上的ACE。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="e4421b58-f131-40b4-b4ad-9e5276828164" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>ACE at the front panel of the PCM3, in the mid E/E compartment.</en>
+												<ch>中E/E舱中，PCM3前面板上的ACE。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="308d8f17-47f2-4a4d-a956-323d4bb2dd6e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>ACE at the front panel of the PCM4, in the mid E/E compartment.</en>
+												<ch>中E/E舱中，PCM4前面板上的ACE。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="5db15ca2-50e3-4fb4-a9fd-31d6e72fed6a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>FCM at the front panel of the PCM1, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM1前面板上的FCM。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="5763610d-ac9f-4236-b243-ce317d2e3a0f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>FCM at the front panel of the PCM2, in the fwd E/E compartment.</en>
+												<ch>前E/E舱中，PCM2前面板上的FCM。</ch>
+											</para>
+										</listItem>
+										<listItem>
+											<para xyid="3b50b525-0413-44ec-aa72-4f33530a59c7" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+												<en>FCM at the front panel of the PCM3, in the mid E/E compartment.</en>
+												<ch>中E/E舱中，PCM3前面板上的FCM。</ch>
+											</para>
+										</listItem>
+									</randomList>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="90ddfe2f-b055-4962-9862-117334c7a717" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<warning name="WARNING 00002" xyid="36078d45-38e7-4b8e-8aea-448e2ebfd7d9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<warningAndCautionPara name="para_desc" xyid="4b5fef1d-1c57-43e5-8581-92fcd679e090">
+										<en>MAKE SURE THAT PERSONS AND EQUIPMENT ARE FAR AWAY FROM THE PATH OF THE RAT DEPLOYMENT AND RAT COMPARTMENT DOOR OPENING. BECAUSE FAST DEPLOYMENT OF THE RAT AND OPENING OF THE RAT COMPARTMENT DOOR CAN CAUSE INJURY TO PERSONS AND DAMAGE TO EQUIPMENT.</en>
+										<ch>确保人员和设备远离RAT放出和RAT舱门打开的路径，因为RAT的快速放出和RAT舱门的打开会造成人员受伤和设备损坏。</ch>
+									</warningAndCautionPara>
+								</warning>
+								<para xyid="b9eb552d-d4f7-412d-8f10-87a5f774dcd4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Instal the<internalRef xyid="1a20d507-b538-4f67-a08a-6bc55cfa9fb1" internalRefTargetType="irtt05" internalRefId="seq-0009" xlink:title=" RAT stow lock pins(AGE19021) "> RAT stow lock pins(AGE19021) </internalRef>. Refer to<dmRef xlink:title="MPP" showText=" RAT stow lock pin-Installation,MPP C919-A-24-23-00-00A-720A-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="24" subSubSystemCode="3" subSystemCode="2" infoCode="720" modelIdentCode="C919" disassyCode="00" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-24-23-00-00A-720A-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>RAT stow lock pin</techName>
+													<infoName>Installation</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>安装RAT收上锁定销(AGE19021)。参考RAT收上锁定销 - 安装,MPP C919-A-24-23-00-00A-720A-A。</ch>
+								</para>
+							</proceduralStep>
+						</proceduralStep>
+						<proceduralStep name="SUBTASK 62491" xyid="5b9df3fb-ecf3-4788-9bae-536c4329f785" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="6cfe9dad-7817-4137-9260-ba38ceac1c7a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Procedure</en>
+								<ch>程序</ch>
+							</title>
+							<sign name="SIGN 68840" xyid="a52b16e2-428b-422c-8191-cc93289c17e1" isNa=" xattr:notAllow=" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="AINP" QUALI="" MHR="" notAllow="">
+								<workName name="td_work" xyid="bf7debd5-3492-4014-b419-a3441194f0c5">
+              </workName>
+								<checkName name="td_check" xyid="7d8945cd-6185-4bcc-9344-03d46d4f5ad1">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="1fb086d3-a47c-4951-b5b5-31cd7d53e05f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="b1d13c66-9772-459f-8954-c44822d80ddb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the<acronymTerm xyid="f4a867a0-3a93-4733-98e9-6723034e8b6e"> ISS </acronymTerm>self-test:</en>
+									<ch>执行ISS自检：</ch>
+								</para>
+								<note xyid="c2afd0c9-cde8-476d-96a3-6d2a5fe0379c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<notePara xyid="d44b92f4-d442-46e6-a31c-6d30ce3f7e70">
+										<en>Two persons are necessary to do the task. One person operates this(these) circuit breaker(s), the other observes the ISS self-test.</en>
+										<ch>需要两人来执行此任务。一人操作跳开关，另一人观察ISS自检。</ch>
+									</notePara>
+								</note>
+								<proceduralStep xyid="57921c28-caa7-4fd0-a65b-8bb37bbc5954" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="d0ef4ff6-d566-4c4c-be5b-0397a9cc15ed" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the tag(s) and/or the safety clip(s) and close/unlock this(these) circuit breaker(s):</en>
+										<ch>拆下标签和/或保险夹并闭合/解锁以下跳开关：</ch>
+									</para>
+									<circuitBreakerDescrGroup xyid="64b1fbeb-70bb-445d-96e4-9c3f93f39dcd" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<circuitBreakerDescrSubGroup xyid="a5259a40-0747-48d6-9cfb-fdb006122abd">
+											<circuitBreakerDescr name="meta_cbdesc" xyid="fff5f92b-10d8-4ce3-9a60-c25bf8795e67" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="46d09aef-7b9c-4567-a87e-8faec40fe2d9" accessPointTypeValue="" accessPointNumber="RICBP">RICBP</accessPointRef>
+												<name xyid="2f4da8fc-fc43-42f1-9eb1-aa3c4010c4ce">D-ISS-PU</name>
+												<circuitBreakerRef xyid="72ce2a60-a86e-405f-80ce-5e9ba806cfb7" circuitBreakerType="cbt02" circuitBreakerNumber="R-ICBP-B-15">R-ICBP-B-15</circuitBreakerRef>
+												<circuitBreakerLocation xyid="c7cd3a40-eaf8-4b53-8ff3-2cd3be433fa7">B-15</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="cd22e870-5cad-4fdc-9963-f6536ce23e33" applicRefId="cb-app-0002">
+												<accessPointRef xyid="6e5bd2ec-8f66-43b3-b433-40acf3a09bbc" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="5b1a7c4f-3f22-4bb7-aca5-1fcddca796e5">OET1</name>
+												<circuitBreakerRef xyid="bfaa62ff-c0cb-49ee-9cd5-b7bb2bb344f4" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU11-8-6">RPDU11-8-6</circuitBreakerRef>
+												<circuitBreakerLocation xyid="68c48173-bc91-446f-bc98-fc669a2b7fda">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="4b181fb8-177a-43be-93ab-ceee0f48098c" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="6fe1ec2d-5866-48bb-b9f9-eca772530386" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="d6a55550-9205-4ef4-998a-0a57df704044">TSA-RELAYS-POWER</name>
+												<circuitBreakerRef xyid="40529d2d-2c71-462e-9c20-7dd496b33052" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-10">RPDU26-4-10</circuitBreakerRef>
+												<circuitBreakerLocation xyid="49a5dbe8-547a-4f0a-bf51-bbe6997119b5">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="42064e70-e82c-4dbd-8e6f-ad3e5b5b50a9" applicRefId="cb-app-0002">
+												<accessPointRef xyid="570c9a64-73fb-4041-9939-161e377b40fd" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="bcd5d6f9-1a26-4998-9b58-87378c2f3236">OET2</name>
+												<circuitBreakerRef xyid="95754b07-a3cc-4e1c-ae50-bafd4c517564" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-15">RPDU26-4-15</circuitBreakerRef>
+												<circuitBreakerLocation xyid="f934421c-a84f-4a3f-ac85-8f73a815e73f">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="ab5cf793-ff3e-4f64-93b4-5a5198a44c88" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="6570c419-79b0-426e-9e90-e652e7b33bf1" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="a287a2b0-58ca-4984-9041-497fc9c0ab16">ISS-PU</name>
+												<circuitBreakerRef xyid="84c0d244-aa31-4bdc-a3bc-254bc76a505c" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-7-1">RPDU26-7-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="21451b08-6939-45cd-b0f7-5ee3e6f5551a">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+										</circuitBreakerDescrSubGroup>
+									</circuitBreakerDescrGroup>
+								</proceduralStep>
+								<proceduralStep xyid="c342afec-7fd3-4527-afb2-e1f30ac083a1" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="14bcd506-a9c7-4280-ac4d-99594ed9e5ae" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Do these steps:</en>
+										<ch>执行以下步骤：</ch>
+									</para>
+									<table xyid="dcc0593f-5411-4fd7-80be-57608c678467" id="tab-3i1q071c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<tgroup cols="2">
+											<colspec colname="col1" colwidth="49.89858%"/>
+											<colspec colname="col2" colwidth="50.10142%"/>
+											<tbody>
+												<row xyid="1ecd0af4-e04e-41fc-bb94-209e6f58acf0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="ab49a943-4871-4a31-b963-34bfb157159e">
+														<para xyid="5186f1ff-d164-4357-b14a-e2d3d2c9be0d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>ACTION</en>
+															<ch>动作</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="13a72f36-148f-4d5a-a846-62da2cff2812">
+														<para xyid="36a5185d-303d-45bc-b104-66bd03b7401b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>RESULT</en>
+															<ch>结果</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="100196d6-2904-4a58-8bce-f34d12324871" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="043eb11a-5174-4b36-a5a4-9f6594fddcc7">
+														<para xyid="1ecc8f3c-dec9-46a0-a78c-b88b956e415b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>1.On the left side of the aft equipment rack in the forward<acronym xyid="7b524c1e-4560-44a4-a0e8-70fe324a1268">
+																	<acronymTerm>EE</acronymTerm>
+																	<acronymDefinttion/>
+																</acronym>compartment.</en>
+															<ch>1.在前EE电子设备舱中的后设备架的左侧。</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="52bb7820-6cf9-4993-8177-3570c1a737f7">
+														<para xyid="c35531a3-a3b5-41f7-8bbc-e2fe3d151b9f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the left<acronymTerm xyid="274544b1-5654-4f34-835f-0afe5d723860"> ISS </acronymTerm>computer:</en>
+															<ch>在左ISS计算机上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="0447f710-28c9-40c8-ae73-17a7bf1c02cb" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="cbac7f0b-c3a5-4a21-9456-4d3f3f6a5af5">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="a91a061a-4245-4d84-9ba9-0558b0841ab2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Check the lights indication on the front panel of left<acronymTerm xyid="e817a9ee-6254-4863-a4d6-15b911026b4c"> ISS </acronymTerm>:</en>
+																		<ch>检查左ISS前面板上的灯指示：</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="65bddb53-c7a9-4ad8-92ce-a91b4f85a2d6">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="2e57d64b-9367-4e84-a952-bc7e9ae83674" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The LRU STATUS light indicates red, then goes off.</en>
+																		<ch>LRU STATUS灯指示红色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="fb6a3fb9-84b8-421f-a81c-734b27fed20a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The lights of LRU STATUS,UPPER ANT FAIL and LOWER ANT FAIL indicate red, then go off.</en>
+																		<ch>LRU STATUS、UPPER ANT FAIL和LOWER ANT FAIL灯指示红色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="873b94a9-00fb-4fe8-a8ac-f7ad762c88c8" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The LRU STATUS light flashes in green.</en>
+																		<ch>LRU STATUS灯以绿色闪烁。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="fe206d5f-98cd-4f8a-8beb-98616d923d97" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The LRU STATUS light indicates green, then goes off.</en>
+																		<ch>LRU STATUS灯指示绿色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="30769551-221e-4754-bed2-abf14fbe9d5b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Make sure there is no bright red light on the panel.</en>
+																		<ch>确保面板上没有明亮的红灯。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="06dc68ff-aa83-41d1-978c-d234155756e9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="4eddf64e-9561-4335-b845-411a3f28e78b">
+														<para xyid="3030d478-a0ea-49ef-bc75-e39814f2c5b7" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>2.On the right side of the aft equipment rack in the forward<acronymTerm xyid="418f658e-38a9-4818-90af-ec4a0a869610"> EE </acronymTerm>compartment.</en>
+															<ch>2.在前EE舱后设备架的右侧。</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="0661f80f-3e8c-414d-8cba-08e2989449b6">
+														<para xyid="b63e1c29-64a4-4eee-9039-43f44060dd83" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the right<acronymTerm xyid="6edbff12-5afe-4da4-ab3b-6c2c968e3911"> ISS </acronymTerm>computer:</en>
+															<ch>在右ISS计算机上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="4f70288f-4b2e-44dd-8581-95cf32a368c7" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="e3fcfc83-d862-408a-babd-c02c51f7726b">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="09de74da-70d5-4dc0-aa43-2903bf46464a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Check the lights indication on the front panel of right<acronymTerm xyid="cc5ea1bb-6b06-4061-b241-7dcf9ca3a54f"> ISS </acronymTerm>:</en>
+																		<ch>检查右ISS前面板上的灯指示：</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="4f034c83-3348-45a5-99bb-35bd720ae721">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="d2ef65a2-9d8b-4b1b-9dd4-91430eb16d50" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The ACAS/ATC STATUS light indicates red, then goes off.</en>
+																		<ch>ACAS/ATC STATUS灯指示红色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="4f235125-06f9-4ee4-b426-38faf74d5837" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The lights of ACAS/ATC STATUS,UPPER ANT FAIL and LOWER ANT FAIL indicate red, then go off.</en>
+																		<ch>ACAS/ATC STATUS、UPPER ANT FAIL和LOWER ANT FAIL灯指示红色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="f052d1cc-3d55-495c-b406-dfd5b2291c54" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The ACAS/ATC STATUS light flashes in green.</en>
+																		<ch>ACAS/ATC STATUS灯以绿色闪烁。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="0f83dfbb-cdb9-48ca-8018-390db1545e6a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The ACAS/ATC STATUS light indicates green, then goes off.</en>
+																		<ch>ACAS/ATC STATUS灯指示绿色，然后熄灭。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="fe23b9a3-1129-4d8f-9f1f-495df8c79c8b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Make sure there is no bright red light on the panel.</en>
+																		<ch>确保面板上没有明亮的红灯。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+											</tbody>
+										</tgroup>
+									</table>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="41fdc63b-c8f9-4c7c-aceb-fc7463342f98" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="b3d86690-f0ac-45fc-ae25-ed6b2443e5ce" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Connect the<internalRef xyid="97bb991c-8674-49a3-8f9b-c80e1f074f79" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Test Set - Test, Air Data System "> Test Set - Test, Air Data System </internalRef>to the pitot probes, pitot-static probes and static ports of the air data system using<internalRef xyid="0aa7db9f-ff70-4ced-9c68-ce74b09f2f7c" internalRefTargetType="irtt05" internalRefId="seq-0006" xlink:title=" Kit, Adapter - Air Data System Test(QJSPQ-C9) "> Kit, Adapter - Air Data System Test(QJSPQ-C9) </internalRef>.</en>
+									<ch>使用大气数据系统测试套装转接头(QJSPQ-C9)将大气数据系统测试设备连接到大气数据系统的皮托管，全静压管和静压孔。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="89e6fc05-5ee3-4479-a2f8-6b75c226be90" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="11fb767f-863d-4b0b-9b34-49c52b029929" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the leak check of the air data system. Refer to<dmRef xlink:title="MPP" showText=" Air Data System-Leak check,MPP C919-A-34-11-00-00A-364A-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="34" subSubSystemCode="1" subSystemCode="1" infoCode="364" modelIdentCode="C919" disassyCode="00" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-34-11-00-00A-364A-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>Air Data System</techName>
+													<infoName>Leak check</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>执行大气数据系统的渗漏检查。参考大气数据系统 - 渗漏检查,MPP C919-A-34-11-00-00A-364A-A。</ch>
+								</para>
+								<sign name="SIGN 00001" xyid="ea2e5188-8072-4639-a115-c63ee5d2ec25" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="AINP" QUALI="" MHR="">
+									<workName name="td_work" xyid="6edafe27-af33-4145-919f-bac5877c6ae1">
+                </workName>
+									<checkName name="td_check" xyid="bc45aaa0-ae57-4e89-b2d5-7622a5facfe8">
+                </checkName>
+								</sign>
+								<note xyid="318b6404-337d-4962-a90c-07f2157d974e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<notePara xyid="7f13de30-ad6b-456a-b3ed-6bd1a9b8c1ee">
+										<en>Do not remove the test equipment after leak check.</en>
+										<ch>渗漏检查后不要拆下测试设备。</ch>
+									</notePara>
+								</note>
+							</proceduralStep>
+							<proceduralStep xyid="f82826bd-a8ec-4bae-a4f0-a636cc962658" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="95dfd7c1-7d55-462e-8425-08a13aedabf7" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that the aircraft is on the ground.</en>
+									<ch>确保飞机在地面。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="fac55958-b810-4feb-a1c7-32064c33ea29" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="238fba27-c834-45e8-b97d-7f2bdd2b8c54" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do these steps to test the bottom<acronymTerm xyid="4286adae-570e-49cd-a636-6654afddde1d"> TSA </acronymTerm>:</en>
+									<ch>执行以下步骤测试下TSA：</ch>
+								</para>
+								<sign name="SIGN 00003" xyid="3bd46b9b-e16d-4924-b1fb-83f9cf5ee86e" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="AINP" QUALI="" MHR="">
+									<workName name="td_work" xyid="be0958a6-399a-44aa-90e9-900a9f02d447">
+                </workName>
+									<checkName name="td_check" xyid="b53d9d9f-924e-4097-92c8-51f26f9dada8">
+                </checkName>
+								</sign>
+								<proceduralStep xyid="3678a575-6874-428a-a134-05f2f978409a" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<warning xyid="bd73f309-3a1c-4cb9-b0cd-63aa887dd256" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="4b43514e-a9a9-4185-b8a1-ff94608af967">
+											<en>MAKE SURE THAT THE TRANSPONDER IS IN THE STANDBY MODE WHEN YOU SIMULATE ALTITUDE. OTHERWISE YOU CAN ACCIDENTALLY CAUSE TCAS TARGETS. AIR TRAFFIC IN THE AREA WILL CHANGE DIRECTION QUICKLY TO GO AWAY FROM THESE TARGETS. THIS CAN CAUSE INJURIES TO PERSONNEL AND DAMAGE TO EQUIPMENT.</en>
+											<ch>当模拟高度时，确保应答机处于备用模式。否则可能会意外导致TCAS目标。该区域的空中交通将快速改变方向以远离这些目标。这可能会造成人员受伤和设备受损。</ch>
+										</warningAndCautionPara>
+									</warning>
+									<para xyid="9a52bff8-0bd8-4ace-8897-79e028c7e215" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Set the TR-220:</en>
+										<ch>设置TR-220：</ch>
+									</para>
+									<table xyid="c4af2e2f-71fa-4325-9235-fb9d22c53667" id="tab-3i1qzptb" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<tgroup cols="2">
+											<colspec colname="col1" colwidth="49.89858%"/>
+											<colspec colname="col2" colwidth="50.10142%"/>
+											<tbody>
+												<row xyid="5e4ed6fc-d2f4-4219-ac5c-6e58c73d8fdc" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="32d9dc74-80c7-4f76-98a8-3b4ce30e5d12">
+														<para xyid="ed1cf615-49d8-4af1-8e2c-d3fb412d9f22" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>ACTION</en>
+															<ch>动作</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="b2d2a930-f603-4279-a1b3-32cbce802501">
+														<para xyid="d83fdfd8-4f2d-4d18-b2ae-17205b94f52f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>RESULT</en>
+															<ch>结果</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="71a068d2-d669-4680-a85e-1cdec3fe426c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="58dac15e-a895-4b57-a571-af0d6070fc21">
+														<para xyid="0108e4d8-202d-4845-9900-ef4ade424b3d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>1.Put the<rev> Antenna Coupler(TC-201) or Antenna Coupler(ZDC-02) </rev>on the top<acronymTerm xyid="689c13df-758d-4b04-b20b-bd9d6cb400b0"> TSA </acronymTerm>to shield the antenna.</en>
+															<ch>1.将天线耦合器(TC-201)<rev>或(ZDC-02) </rev>放在上TSA上以屏蔽天线。</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="87f28810-83bd-4d5a-ac0c-d469e1e7d343">
+                        </entry>
+												</row>
+												<row xyid="f9e01280-5768-4177-ac68-756d7c725633" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="9544accc-0f22-47ac-b131-6fa1a5a00515">
+														<para xyid="92e69fae-9075-454e-9c81-5e388982d940" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>2.On the<internalRef xyid="0713a319-b1a9-469b-aa58-dbc4723dd785" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Test Set - Test, Air Data System "> Test Set - Test, Air Data System </internalRef>:</en>
+															<ch>2.在大气数据系统测试设备上：</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="531c41e0-a813-40c7-85d1-02a2e0d2c104">
+														<para xyid="9e92a88a-62c8-486b-9314-a6adcbff2380" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the<rev> Primary Flight Display</rev>
+																<acronym xyid="6795120f-3596-49d6-935a-01787394833a">
+																	<acronymTerm>PFD</acronymTerm>
+																	<acronymDefinttion/>
+																</acronym>:</en>
+															<ch>在PFD主飞行显示上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="9d180c52-f541-447b-bf00-d8a1d95f230a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="d56a8f07-bdc7-46f3-9814-dcca29784e55">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="f69b2a8b-897c-4469-8804-a0cd56a73e62" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Set the altitude to<quantity>
+																				<quantityGroup quantityUnitOfMeasure="ft">
+																					<quantityValue>43000</quantityValue>
+																				</quantityGroup>
+																			</quantity>and airspeed to<quantity>
+																				<quantityGroup quantityUnitOfMeasure="kts">
+																					<quantityValue>120</quantityValue>
+																				</quantityGroup>
+																			</quantity>.</en>
+																		<ch>设置高度为 43000 ft ，空速为 120 kts。</ch>
+																	</para>
+																	<note xyid="2cf73dbc-a2e3-4394-b613-5935fccd1bd2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="e7de46e7-c4ac-4721-9db7-6308b342e161">
+																			<en>The altitude value is recommended and you can set the altitude according to the requirements of air traffic control tower. When you set the altitude, make sure that the STBY for XPDR MODE is green on TRAFFIC page of<acronym xyid="e25f8340-d12b-4533-a288-bd98ebd2dbf1">
+																					<acronymTerm>TCP</acronymTerm>
+																					<acronymDefinttion/>
+																				</acronym>.</en>
+																			<ch>高度值是推荐的，可以根据空中交通管制塔台的要求设置高度。当设置高度时，确保(TCP)的TRAFFIC页面上的XPDR MODE的STBY为绿色。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="859bb3b4-f819-41f8-b953-2febf4a86e2e">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="5e19a14f-fa6e-4665-a833-a29978bc91b0" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The barometric altitude shown is 43000ft. The air speed is 120kts.</en>
+																		<ch>气压高度显示43000ft。空速120kts。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="da928865-d1b8-49a1-9e43-66f892b4c0d5" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="f59858a1-ed3b-4b1c-9396-9ba8e610fe79">
+														<para xyid="0574b26a-4b8a-4e79-aec0-d6de97ebbd77" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>3.Connect the directional antenna coaxial cable of the<internalRef xyid="a9b5404b-3c54-4e40-99f1-731cdc32ba17" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to the ANTENNA SUM&amp;DIFF connector in the front panel of the<internalRef xyid="3108d74d-5b22-4c2e-992f-b44cc5c6551e" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>.</en>
+															<ch>3.将综合ISS测试设备测距仪(TR-220)的定向天线同轴电缆连接到ISS测试设备测距仪(TR-220)前面板的ANTENNA SUM&amp;DIFF插头上。</ch>
+														</para>
+														<note xyid="0eaa72b0-b337-47c6-8597-51aa12673637" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<notePara xyid="d3dffc72-3242-444c-a60d-6e644fdbe85a">
+																<en>Make sure that the white cable is connected to the SUM end and the yellow cable is connected to the DIFF end.</en>
+																<ch>确保白色电缆连接到SUM端，黄色电缆连接到DIFF端。</ch>
+															</notePara>
+														</note>
+													</entry>
+													<entry colname="col2" xyid="daa00d90-a121-43bd-ae39-0bbfa08981fa">
+                        </entry>
+												</row>
+												<row xyid="b51915b4-baea-4639-a81b-ea5d23a53da8" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="5b67a808-78bb-4f17-92aa-706233db10d6">
+														<para xyid="76ed5752-4d00-4c5d-be0b-f2502cb47c1a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>4.Put the<internalRef xyid="d7d08a53-086a-4dbb-b6a5-a938585497e2" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>
+																<quantity>
+																	<quantityGroup quantityUnitOfMeasure="ft">
+																		<quantityValue>20</quantityValue>
+																		<quantityTolerance>1</quantityTolerance>
+																	</quantityGroup>
+																</quantity>(<quantity>
+																	<quantityGroup quantityUnitOfMeasure="m">
+																		<quantityValue>6.1</quantityValue>
+																		<quantityTolerance>0.305</quantityTolerance>
+																	</quantityGroup>
+																</quantity>) away from the left-front screw hole in the heading direction of the bottom TSA base.</en>
+															<ch>4.将ISS测试设备测距仪(TR-220)放在距离下TSA天线的左前螺孔航向前 20 ft  ± 1ft( 6.1 m  ± 0.305m)处。</ch>
+														</para>
+														<note name="NOTE 00001" xyid="a5fe73d3-be36-4432-9c3a-72ba7fc70493" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+															<notePara name="para_descen" xyid="c0681ac2-cf94-4ad0-a03c-71b50ffdf114">
+																<en>Heading direction is defined as the angle between the direction and the heading is within 9 ℃ .</en>
+																<ch>航向方向定义为方向和航向之间的角度在9℃以内。</ch>
+															</notePara>
+														</note>
+													</entry>
+													<entry colname="col2" xyid="36deebd7-523a-4c98-8e87-12e47fa2006c">
+														<para xyid="8922ab39-a7cf-4623-a4eb-a2f353fb64c1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>Make sure that the directional antenna of the<internalRef xyid="e7fe8b9c-6e43-4d00-9c7e-d16716fa67d7" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>points to the bottom<acronymTerm xyid="25f4eeda-c472-40d1-9052-8f1f33b2083f"> TSA  </acronymTerm>and there is no obstruction between the two antennas.</en>
+															<ch>确保ISS测试设备测距仪(TR-220)的定向天线指向下TSA，并且两个天线之间没有障碍物。</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="2da16184-a497-4aa3-a6a0-82f8648547ad" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="4b9b9548-eef9-47b3-8b6e-caf705b9afc8">
+														<para xyid="37e07b6b-563e-44d4-8417-f70852ab5318" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>5.Do these steps on the right<acronymTerm xyid="d7a33c25-08eb-4a41-b103-055342353134"> TCP </acronymTerm>:</en>
+															<ch>5.在右TCP上执行以下步骤：</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="1cde471f-c113-4274-8afd-f59de6cd7da5">
+														<para xyid="5c70768e-968d-4814-9005-00e0c334650c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the right<acronymTerm xyid="0003300d-4997-40ef-a13f-dc100e48bb6d"> TCP </acronymTerm>:</en>
+															<ch>在右TCP上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="9dc7b43f-4059-4033-89e0-f3a35a51a9c3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="fe78e069-270f-44d2-b58f-fd3db5ebf578">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="c973fe2a-5bda-433b-a40f-4fba25eb54ca" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Push the TFC key on the<acronymTerm xyid="b3020276-db70-41e9-b7c1-54fa0f4c3606"> TCP </acronymTerm>to enter the TRAFFIC page.</en>
+																		<ch>按压TCP上的TFC键进入TRAFFIC页。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="ef633f75-4da9-4d52-b966-bc62f38145c5" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Push the R-LSK-6 to select L for TFC SYS.</en>
+																		<ch>按压R-LSK-6以选择TFC SYS的L。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="da953d43-c260-44db-bfe0-e334d9ba649c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Push the L-LSK-3 to select XPDR for XPDR MODE.</en>
+																		<ch>按压L-LSK-3以选择XPDR的XPDR MODE。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="301bca7a-bad0-4937-b58e-2ae843a6c11c">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="33c9da55-2198-4ba3-94be-e565b6029dfc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>XPDR is shown on the display.</en>
+																		<ch>显示屏上显示XPDR。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="1646ba23-0cd5-4efa-bfb0-fff6b058a259" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="adeb6c5c-666e-4dd1-86e2-92b1a15d1536">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="ed81aaa5-50cb-4a39-be5b-0e1a59b76c5e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Input the XPDR CODE: 1234 on the digital keyboard of the<acronymTerm xyid="1cb973bb-306f-4213-b6f2-4cd783761142"> TCP </acronymTerm>.</en>
+																		<ch>在TCP的数字键盘上输入XPDR代码：1234。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="502620cd-6e35-4b55-9734-d5df671c2ebe" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Push the L-LSK-6 to enter XPDR CODE.</en>
+																		<ch>按压L-LSK-6以输入XPDR CODE。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="a2b4eea9-9658-4f27-b4fa-7a820a89e251">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="61101d69-cd0f-4222-9992-6c104fca707d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>1234 is shown on the display.</en>
+																		<ch>1234显示在显示屏上。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="c53ba52e-f216-4143-9820-e34dd5912762" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="feb85366-08bf-465e-b8bb-f31b8ea34386">
+														<para xyid="3fada82c-8117-445e-b019-38bd2e18c7d5" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>6.On the<internalRef xyid="642ae0d2-bf4b-44c1-90db-39c677245d63" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>:</en>
+															<ch>6.在ISS测试设备测距仪(TR-220)上：</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="f2e549ad-2266-48c2-a5c7-71d9f5919703">
+														<para xyid="6906b0ed-2526-4b8e-92e4-2e80c474b865" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the TR-220:</en>
+															<ch>在TR-220上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="1df9b497-3837-4dbf-9ff6-9125a96a71f3" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="5e7f40f1-47dd-4dd5-a07c-b10a52d8946b">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="f9d9a67b-6671-406d-a2ac-03eb804b2d80" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Set the TEST SET toggle switch to ON position.</en>
+																		<ch>设置TEST SET拨动电门到ON位。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="89d29ecc-6f6c-4677-8ceb-a302b6afc7ea">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="88745480-8701-4e59-bb17-a4eba7997109" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Make sure that the green indication light near the TEST SET toggle switch turns on and the screen of the<internalRef xyid="9802c731-f628-4428-bd5c-683b6c7730ed" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows PASS after built-in test.</en>
+																		<ch>确保自检后，TEST SET拨动电门附近的绿色指示灯点亮，并且ISS测试设备测距仪(TR-220)的屏幕显示PASS。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="2f45605d-f896-41e1-9d7a-e860d57f4259" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="7acc6f3e-e6ca-401b-b1a5-98aac0881c60">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="de3cfb5b-6e0a-40e2-9335-99493b2fec41" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Turn the UUT FUNCTION switch on the<internalRef xyid="520d1d2c-ea4c-4142-a83c-5b7e2cd3164b" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to SETUP position.</en>
+																		<ch>将ISS测试设备测距仪(TR-220)上的UUT FUNCTION电门转到SETUP位。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="10783195-8655-4775-93c1-678c235ba31f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Set the AUTO/TEST/MANUAL switch to AUTO on the<internalRef xyid="56c2be0e-d010-4c20-bc05-2abd503b6643" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to select the T/S Distance menu.</en>
+																		<ch>将ISS测试设备测距仪(TR-220)上的AUTO/TEST/MANUAL电门设置到AUTO以选择T/S距离菜单。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="4c39b9ad-df6b-4783-92db-464f0c46653d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Set the T/S Distance on the<internalRef xyid="6f8dada3-d8a4-4210-80eb-a8261b1c0186" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to<quantity>
+																				<quantityGroup quantityUnitOfMeasure="ft">
+																					<quantityValue>20</quantityValue>
+																				</quantityGroup>
+																			</quantity>using UP/FWD-DOWN/REV key.</en>
+																		<ch>使用UP/FWD-DOWN/REV键将ISS测试设备测距仪(TR-220)的T/S距离设置为 20 ft 。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="3d22c45f-cc51-4607-b499-9f042b9d24ea">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="4829c194-01dc-41d6-a59d-af9b0ce876c1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>
+																			<quantity>
+																				<quantityGroup quantityUnitOfMeasure="ft">
+																					<quantityValue>20</quantityValue>
+																				</quantityGroup>
+																			</quantity>is shown on the display.</en>
+																		<ch> 20 ft 显示在显示屏上。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="68db7250-7b69-4993-b65f-2bc36effa904" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="fc1f4ef5-2c14-487e-9ed5-da89cfd51494">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="b7437f9d-016f-4f29-8634-0e30998007b9" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Turn the AUTO/TEST/MANUAL switch on the<internalRef xyid="0f6a1211-a982-4ce0-9f43-e5604dad40d9" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to select ANT GAIN menu.</en>
+																		<ch>转动ISS测试设备测距仪(TR-220)上的AUTO/TEST/MANUAL电门，选择ANT GAIN菜单。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="2919740f-b310-444b-8b76-e204e0ba6a89" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Use the UP/FWD-DOWN/REV key to input<quantity>
+																				<quantityGroup quantityUnitOfMeasure="dB">
+																					<quantityValue>-3</quantityValue>
+																				</quantityGroup>
+																			</quantity>at Ant Gain 1030 and<quantity>
+																				<quantityGroup quantityUnitOfMeasure="dB">
+																					<quantityValue>+4</quantityValue>
+																				</quantityGroup>
+																			</quantity>at Ant Gain 1090.</en>
+																		<ch>使用UP/FWD-DOWN/REV键输入 -3 dB 在天线增益1030和 +4 dB 在天线增益1090。</ch>
+																	</para>
+																	<note xyid="b0bf7cb3-2eb9-41fb-aced-7009d9fd23b0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="35389c10-fd74-4762-8fad-01fb656c8446">
+																			<en>Different test equipment has different antenna gains,<quantity>
+																					<quantityGroup quantityUnitOfMeasure="dB">
+																						<quantityValue>-3</quantityValue>
+																					</quantityGroup>
+																				</quantity>and<quantity>
+																					<quantityGroup quantityUnitOfMeasure="dB">
+																						<quantityValue>+4</quantityValue>
+																					</quantityGroup>
+																				</quantity>are only for reference. The input antenna gain should be changed according to the actual value on the label of test equipment antenna.</en>
+																			<ch>不同的测试设备有不同的天线增益， -3 dB 和 +4 dB 仅供参考。输入天线增益应根据测试设备天线标签上的实际值进行更改。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="f2cada53-591a-4409-9449-ceef1b60b397">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="394be5c1-9c85-40ff-b06d-3ffb884b7c8a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>
+																			<quantity>
+																				<quantityGroup quantityUnitOfMeasure="dB">
+																					<quantityValue>-3</quantityValue>
+																				</quantityGroup>
+																			</quantity>is shown at the Ant Gain 1030.</en>
+																		<ch> -3 dB 显示在天线增益1030处。</ch>
+																	</para>
+																</listItem>
+																<listItem>
+																	<para xyid="a33c914d-f9a7-4117-8c48-af8c744e6152" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>
+																			<quantity>
+																				<quantityGroup quantityUnitOfMeasure="dB">
+																					<quantityValue>+4</quantityValue>
+																				</quantityGroup>
+																			</quantity>is shown at the Ant Gain 1090.</en>
+																		<ch> +4 dB 显示在天线增益1090处。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="41f29b3f-70bf-41a6-a800-45a75f933b8f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="6d3cdfe1-0b7b-420f-b2bb-244cb74af5bb">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="a3766e9f-88a0-445a-92ae-e737d846bebc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Turn the UUT FUNCTION switch of<internalRef xyid="31664e84-9506-4ea1-a2ca-d71eba61495f" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>to XPDR position.</en>
+																		<ch>将ISS测试设备测距仪(TR-220)的UUT FUNCTION电门转到XPDR位。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="016fd05d-5124-4e75-be1a-31bb95635a66">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="7d4ac20b-a29d-404d-b0c1-6fed7b3bafb1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>COMM AB and Press A/M (or Press Auto/Manual) is shown.</en>
+																		<ch>显示COMM AB和Press A/M(或Press Auto/Manual)。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+											</tbody>
+										</tgroup>
+									</table>
+								</proceduralStep>
+								<proceduralStep xyid="0a972160-e843-4e4f-89f1-c30d77b1daf0" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="c31e177c-c78c-40ac-8d19-6c27e8771b70" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Do the transponder functional test:</en>
+										<ch>执行应答机功能测试：</ch>
+									</para>
+									<table xyid="3d6b0b71-71dd-4357-a203-046333c8d25c" id="tab-3i2yxre4" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<tgroup cols="2">
+											<colspec colname="col1" colwidth="49.89858%"/>
+											<colspec colname="col2" colwidth="50.10142%"/>
+											<tbody>
+												<row xyid="48d565cd-9122-47b2-a460-82caf72c1135" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="8c3ea0ff-416e-40c1-8074-b77a43665e5c">
+														<para xyid="cbdd3038-6001-441e-983b-14086d3126c3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>ACTION</en>
+															<ch>动作</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="144238db-b59b-48b4-b204-69c6c33b0bdc">
+														<para xyid="3c95f48f-65e8-4d1e-907e-e4efc48feccf" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>RESULT</en>
+															<ch>结果</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="1a5e77c7-bf3b-4e88-bddd-631af30179d1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="ed5ad835-0b66-4194-83d4-266a0fd622b1">
+														<para xyid="55da91be-a088-4aae-ae8f-32c3407ad7cb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>1.On the TR-220:</en>
+															<ch>1.在TR-220上：</ch>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="07232868-ec18-4284-b023-2b6ec3a9a016">
+														<para xyid="2746835c-5f68-424b-b634-36fa4b7e513a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+															<en>On the TR-220:</en>
+															<ch>在TR-220上：</ch>
+														</para>
+													</entry>
+												</row>
+												<row xyid="aa98a3c2-5b53-4496-9ca9-c710195ece97" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="88239879-7789-4ba3-8d3c-e240d2714eff">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="ba88a59e-9838-4a1f-ae18-82922140b395" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the Mode A test.</en>
+																		<ch>将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动模式A测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="c044ca27-34f7-4bcc-886d-e986311cb0a5">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="8fc96934-5fef-434a-a490-94330c126bb4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="8fbbd45f-5a27-4e9a-9c14-9cb9e89d0bac" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows two result pages alternately, refer to figure 1-1 and figure 1-2.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕交替显示两个结果页面，参考图1-1和图1-2。</ch>
+																	</para>
+																	<note xyid="2b61fbdf-d0a6-4672-97d6-4bb447afb1a0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="bc24dad3-f197-4589-81ba-c925437c2967">
+																			<en>The display is only for reference. As long as the mode A code (1234) in figure 1-1 is in accordance with the present setting on the aircraft, and the screen shows PASS, the test is passed.</en>
+																			<ch>显示仅供参考。只要图1-1中的方式A代码(1234)与飞机上的当前设置一致，并且屏幕显示PASS，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="cf55252b-07c4-432d-83cf-786c0f35cc12" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="2a1fc98d-e68e-4539-843b-e1da15dcbe9d">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="22bca1fa-4890-493e-ab23-ea910268ebe4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Push the IDENT button on the<acronymTerm xyid="65a03a67-9bfd-420e-9476-e6f4eca53ae1"> TCP </acronymTerm>.</en>
+																		<ch>按压TCP上的IDENT按钮。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="52200bcf-d460-4c10-b56a-c831e9f28a24">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="5bf33d24-1754-427a-b47e-0771e15c6dc2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Make sure that IDENT shows on the screen of the<internalRef xyid="772fd82e-1de8-49a0-8b6f-1c50d6d8c102" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>for about<quantity>
+																				<quantityGroup quantityUnitOfMeasure="s">
+																					<quantityValue>20</quantityValue>
+																				</quantityGroup>
+																			</quantity>to check the SPI pulse from the<acronymTerm xyid="cbe82511-da6f-4fac-8f38-83b884eb5859"> XPDR </acronymTerm>, refer to figure 1-3.</en>
+																		<ch>确保ISS测试设备测距仪(TR-220)的屏幕上显示IDENT约 20 s ，以检查来自XPDR的SPI脉冲，参考图1-3。</ch>
+																	</para>
+																	<note xyid="d879c499-05ab-4ab1-80b5-38b72e351840" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="ab091853-bdcf-48ec-b649-33f2502ad403">
+																			<en>If the result is not the same as the display in figure 1-3, it will not affect the test result. As long as PASS shows on the screen, the test is passed.</en>
+																			<ch>如果结果与图1-3中的显示不同，则不会影响测试结果。只要PASS显示在屏幕上，测试就通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="a159fe39-a200-4543-b6a9-b99349288e11" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="4235c5d9-a349-43cb-b2f3-7fe170e9402a">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="c614ee0f-e31f-4a1f-a91a-a230df3e9833" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the Mode C test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动模式C测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="05115879-4935-4f28-ada8-0b4ba5168a44">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="2e6f9ba0-3445-494c-ba82-86350731ff0c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="2c5699bd-47e3-424d-8dfe-485cffd031b6" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows two result pages alternately, refer to figure 1-4 and 1-5.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕交替显示两个结果页面，参考图1-4和1-5。</ch>
+																	</para>
+																	<note xyid="3dfd98bc-b922-47a2-8194-79e8d46df0dc" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="5bb8b837-b260-401a-98d9-e76dbae6d668">
+																			<en>The 6520 in figure 1-4 is the mode C code of the undertest equipment, which indicates the altitude is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="ft">
+																						<quantityValue>10000</quantityValue>
+																					</quantityGroup>
+																				</quantity>.</en>
+																			<ch>图1-4中的6520是被测设备的模式C代码，指示高度为 10000 ft 。</ch>
+																		</notePara>
+																	</note>
+																	<note xyid="6eced79e-d8dc-40ea-b074-a003cb1edb71" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="92f32d4d-876a-4150-aeb9-a47e832cfd88">
+																			<en>Figure 1-4 and figure 1-5 are only for reference. As long as the mode C altitude is in accordance with the altitude on the<acronymTerm xyid="677f4b97-5ab4-435e-a5c6-1a0be5121e7b"> PFD </acronymTerm>, and the screen shows PASS, the test is passed.</en>
+																			<ch>图1-4和图1-5仅供参考。只要模式C高度与 PFD 上的高度一致，并且屏幕显示PASS，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="2040bbc9-c1d5-4293-b5f2-adf1d7feb38c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="e2e93869-ebd0-46f4-aad6-47c23aea7009">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="ce7c1f28-5613-417c-ad69-b2307e0ef299" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the Side Lobe Suppression<acronym xyid="8dced7c6-74e9-4667-8caa-8dfbabf3479a">
+																				<acronymTerm>SLS</acronymTerm>
+																				<acronymDefinttion/>
+																			</acronym>test of Mode A.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式A的SLS旁瓣抑制测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="2f95d294-2a24-4c66-bb34-4af1ea38a8f6">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="7668038a-f158-444c-bea3-a6f3fdfa8612" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="2ba3ff40-db03-4d5b-a832-738413df4a24" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-6.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-6。</ch>
+																	</para>
+																	<note xyid="619f1e52-b385-4e36-a399-28ebb3cc1d1c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="31e9cf34-4f31-43a6-8f6d-3c181d945020">
+																			<en>When the two lines in figure 1-6 both show PASS, the test is passed. When P1 is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="dB">
+																						<quantityValue>9</quantityValue>
+																					</quantityGroup>
+																				</quantity>bigger than P2, the reply rate of the XPDR is greater than 99%. When P1= P2, the reply rate of the XPDR is less than 1%.</en>
+																			<ch>当图1-6中的两行都显示PASS时，测试通过。当P1大于P2 9 dB 时，XPDR的应答率大于99%。当P1=P2时，XPDR的应答率小于1%。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="a77e4c7e-fa1f-47f0-996b-717da197555a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="a287c7b6-94ec-42ac-a5c6-9649db401102">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="738e307c-aea2-4305-9ff8-a34864a706de" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the only call test of Mode A.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动模式A的仅呼测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="5ee9d16d-29c8-476a-ad83-7062c1362b6c">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="9bcc9048-f8c6-4e40-82b5-8b8756a1d280" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="ce95bbf8-2584-49c1-80d4-3ee943826d2c" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-9.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-9。</ch>
+																	</para>
+																	<note xyid="fd2d37ba-4477-43f6-9ade-b8c78768fe7f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="99ba54a8-7c39-49c3-8f5a-e656a439427f">
+																			<en>When PASS shows in figure 1-9, the test is passed.</en>
+																			<ch>当PASS显示在图1-9中时，测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="7b515b59-14d1-45a3-ab15-d321a0aae78f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="75628c7c-ff92-4772-8060-9deff659d335">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="d7ce5a3b-1651-44a3-b038-9b17518df529" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the only call test of Mode C.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式C的仅呼测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="a177870a-2550-4534-94aa-080e31c338ea">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="9c629b5d-5a98-46ba-8d22-fbf9c156a857" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="7924114e-8c0d-4874-b0d8-95f1996dca4f" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-10.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-10。</ch>
+																	</para>
+																	<note xyid="d02321a6-faf0-4fc6-915b-1bbcf07deae9" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="b00fe2e3-ec99-4c72-8679-e9fe49aec5e6">
+																			<en>When PASS shows in figure 1-10, the test is passed.</en>
+																			<ch>当PASS显示在图1-10中时，测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="2d5acfb9-0d8c-4dda-a1a3-756451267894" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="3ef2b84b-5dea-44f5-879a-57ae64e4a24b">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="0f76ae05-b778-4d1c-9718-47154572d036" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the SI LOCKOUT test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动SI LOCKOUT锁定测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="94dfb81c-6568-48cd-b612-a84cee673d85">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="c6ac7241-12d5-4cbc-a3db-bb15f45f76d3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="c13980c3-8d90-42ce-bc6c-690240e6e6ed" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-11.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-11。</ch>
+																	</para>
+																	<note xyid="e534096d-ecae-4a08-a36c-0c0945810f3a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="1f111cab-2061-4c9a-b2d4-29ca8d3f48fa">
+																			<en>The value in figure 1-11 is only for reference. As long as PASS shows on the screen, the test is passed.</en>
+																			<ch>图1-11中的值仅供参考。只要PASS显示在屏幕上，测试就通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="da2fa948-2048-41da-86ee-fc0d2fa95c63" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="beda5889-cc66-495e-b3de-d607e5f9dc80">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="4137d4d8-af6d-4500-b78c-435e86d37761" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the surveillance ID test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式S的监视ID测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="e146ac14-c305-4853-bdb9-cbb9fcc56a55">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="1e63cd6d-a844-4dd7-8b23-f6de4eb0d72c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="a6c66aad-7876-4b39-91c3-8e0a2a029008" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-12.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-12。</ch>
+																	</para>
+																	<note xyid="75f994c5-3a83-4e5f-9d7e-253687f3aa03" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="c4c7ec83-58c7-4363-903a-72008fda7b84">
+																			<en>The value in figure 1-12 is only for reference. As long as the mode A code (1234) is in accordance with the present setting on the<acronymTerm xyid="861949dd-ac95-4cb5-bcfb-a32d59f899f9"> TCP </acronymTerm>, the test is passed.</en>
+																			<ch>图1-12中的值仅供参考。只要模式A代码(1234)与 TCP 上的当前设置一致，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="56add924-948e-46ef-81f7-2f06db1d75f1" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="6e506d4f-9244-4d5d-88dd-5852ba59fcbf">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="0ed3b9a6-d3b0-4a5a-8c0a-a8e16f7d780e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the surveillance altitude test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式S的监视高度测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="f73c3716-517a-45a0-9f16-4a3a36900472">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="76457323-66eb-4211-afcf-55c417058e34" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="c5b097ac-b782-4f73-ab32-95cc9a704971" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-13.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-13。</ch>
+																	</para>
+																	<note xyid="9e9eb747-257a-4f5f-bfb5-4d42ed037603" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="c7c7dac2-3ded-4f29-a888-c18cbe17bb48">
+																			<en>10000 in figure 1-13 means the surveillance aircraft altitude is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="ft">
+																						<quantityValue>10000</quantityValue>
+																					</quantityGroup>
+																				</quantity>and this value is only for reference. As long as the surveillance altitude is in accordance with the altitude on the<acronymTerm xyid="e59a3d6e-b5ef-4ee8-954d-d69bb400fc74"> PFD </acronymTerm>, the test is passed.</en>
+																			<ch>图1-13中的10000表示监视飞机高度为 10000 ft ，该值仅供参考。只要监视高度与 PFD 上的高度一致，测试就通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="6ef11a86-4f6e-4922-929c-8824e877111a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="c13fec9a-7f35-442d-9a8c-1902b3f25cec">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="baea8f8d-22d9-42dc-b758-239595966dad" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the short range air surveillance test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式S的短程空中监视测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="8a2b839a-edc6-4126-8866-b27c29c0fa6f">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="0238210a-2435-4c85-ae8a-d62028b8fd42" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="81591b5b-92c3-4e03-8cdf-c4f28abe1ff6" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows two result pages alternately, refer to figure 1-14 and figure 1-15.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕交替显示两个结果页面，参见图1-14和图1-15。</ch>
+																	</para>
+																	<note xyid="dfb72918-656d-417d-8d9e-c8d4d7cb6c4a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="96140467-bf8d-4d00-b846-0c2cb894b68d">
+																			<en>In figure 1-14 and figure 1-15, 10000 means the aircraft altitude is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="ft">
+																						<quantityValue>10000</quantityValue>
+																					</quantityGroup>
+																				</quantity>, 800000 is the hexadecimal aircraft address code and 40000000 is the octal aircraft address code. As long as the address code is in accordance with the present aircraft address code, the test is passed.</en>
+																			<ch>在图1-14和图1-15中，10000表示飞机高度为 10000 ft ，800000是十六进制飞机地址代码，40000000是八进制飞机地址代码。只要地址代码与当前飞机地址代码一致，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="df0fa15e-a014-4d39-b5a4-1e3e529fb93f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="e0270d4c-1c05-44d2-a9da-b3327e2be741">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="b4e28841-c916-4840-a916-50cdc79dcb06" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the communication ID test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动模式S的通信ID测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="9703b840-77a0-43fe-807f-fbdf21c368bd">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="25134724-c819-4104-a073-e127f2ea7f1b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="9b0219b8-80ae-4531-8923-6e3f6a5dbcba" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-16.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-16。</ch>
+																	</para>
+																	<note xyid="ea16ce8b-2782-4bb0-a37e-05fc22e3fc6f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="ece5a2da-fc7b-46e0-b27e-e17dd3a1326a">
+																			<en>1234 in figure 1-16 is the mode A code of the aircraft and the value is only for reference. As long as the mode A code is in accordance with the present setting on the<acronymTerm xyid="0916e4c3-443a-4e49-a059-af0d574eba7f"> TCP </acronymTerm>, the test is passed.</en>
+																			<ch>图1-16中的1234是飞机的模式A代码，该值仅供参考。只要模式A代码与 TCP 上的当前设置一致，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="da45be41-3203-49d1-bd0a-1d06c5accb4a" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="35ee342f-4d11-449d-bc8f-594b2a91c4b5">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="e09b2972-3821-42db-bf64-d55b5ee63f49" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the communication altitude test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式S的通信高度测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="39f4765e-d445-44b0-b6f5-afcb4e26d64b">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="a733fff8-7cef-409f-aba4-244ed81bfafd" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="c382cfbc-fe1b-4427-8030-8351ad2d355e" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-17.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-17。</ch>
+																	</para>
+																	<note xyid="2dbf32d2-df9f-41a2-9a23-fff950af474f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="baa1b572-124f-44ef-a1ba-421ee70b89b7">
+																			<en>10000 in figure 1-17 means the aircraft altitude is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="ft">
+																						<quantityValue>10000</quantityValue>
+																					</quantityGroup>
+																				</quantity>and the value is only for reference. As long as the altitude on the screen is in accordance with the altitude on the<acronymTerm xyid="700a3a11-238e-4822-ba63-6af3a9107392"> PFD </acronymTerm>, the test is passed.</en>
+																			<ch>图1-17中的10000表示飞机高度为 10000 ft ，该值仅供参考。只要屏幕上的高度与 PFD 上的高度一致，测试就通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="e247bce3-c1a8-4169-893d-51233adac32f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="e03802b6-c825-461b-b6ed-1c7e84c8c550">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="cdde34c7-9b42-40a6-82fb-630c605c8633" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the long air surveillance test of mode S.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动模式S的远程空中监视测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="abd53d5d-e3ef-4361-941a-cfa3060e8fff">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="c3bd9e1f-35fd-4b5a-b812-3c93001d9424" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="4b5f9e58-8a37-4320-9e61-86a5c94811a1" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-18.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-18。</ch>
+																	</para>
+																	<note xyid="75b61277-c873-4d97-ad35-d0e530da93ea" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="709a6074-23ce-44eb-b4c1-07666f9ddef4">
+																			<en>43000 in figure 1-18 means the aircraft altitude is<quantity>
+																					<quantityGroup quantityUnitOfMeasure="ft">
+																						<quantityValue>43000</quantityValue>
+																					</quantityGroup>
+																				</quantity>, 7800CB is the hexadecimal aircraft address code, and the value is only for reference. As long as the aircraft altitude is in accordance with the altitude on the<acronymTerm xyid="c6f18114-4772-4f5d-91eb-092e7976833e"> PFD </acronymTerm>, and the hexadecimal address code is in accordance with the present aircraft address code, the test is passed.</en>
+																			<ch>图1-18中的43000表示飞机高度为 43000 ft ，7800CB是十六进制飞机地址代码，该值仅供参考。只要飞机高度与 PFD 上的高度一致，并且十六进制地址代码与当前飞机地址代码一致，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="bfbbe98c-e55f-4c2c-821a-3d036cfcca87" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="b223a616-2570-420b-a039-f7df61b2630f">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="953dd640-778c-4064-9a61-87dd22b3d28b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the undesired reply test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动非预期应答测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="5b8d487d-77d6-4d7a-a585-17c657eb0adf">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="9331c451-88cc-4834-8a08-af371f406ecd" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="71ab9f57-d33b-48d0-bfa2-253ad400c651" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-19.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-19。</ch>
+																	</para>
+																	<note xyid="495a360f-2028-47c5-a617-1a182fff9828" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="a8c08687-5b3a-4029-a078-f9a57c12e042">
+																			<en>PASS in the figure 1-19 means the test is passed.</en>
+																			<ch>图1-19中的PASS表示测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="8e07c7d3-cf70-4a9a-83f8-f541a4529623" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="56c4cce3-6781-46b9-99f3-85c4039c96c6">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="4607db20-1205-4aee-b183-d3785136fc7a" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the squitter test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动信号测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="d5159ee0-990d-4d23-b03a-1f72bd991287">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="2c69c697-6e61-4a47-9eb1-61f1a47b0afa" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="223e3bf9-4ad6-40ea-9026-7497cd3fe6b7" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows two result pages alternately, refer to figure 1-20 and figure 1-21.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕交替显示两个结果页面，参考图1-20和图1-21。</ch>
+																	</para>
+																	<note xyid="8a35dfa0-692f-4c3c-8421-d61770d6413f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="8244694a-ba69-4ebe-86dc-bf315e9878af">
+																			<en>As long as PASS shows in figure 1-20, the test is passed.</en>
+																			<ch>只要PASS显示在图1-20中，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="945583d3-50b0-4b53-883c-ef341af48f0d" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="a40a669b-822d-4743-8411-4148a25e39e1">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="b1785fe4-3c32-4d63-a039-2225e646a102" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the maximum cruise speed test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动最大巡航速度测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="f936596a-1fa5-489f-a155-94ac4f926c83">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="d2ab5e0c-ea5e-4c9f-a6f4-f681d94eee13" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="72a13502-c203-4c28-a1b4-e62eea7549b4" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-22.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-22。</ch>
+																	</para>
+																	<note xyid="a53ae507-a6b4-43fe-8214-a1d346b2888c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="49310176-e6af-49be-bef1-b7712157c980">
+																			<en>Figure 1-22 means that the maximum cruise speed is between<quantity>
+																					<quantityGroup quantityUnitOfMeasure=" kts">
+																						<quantityValue>300</quantityValue>
+																					</quantityGroup>
+																				</quantity> and<quantity>
+																					<quantityGroup quantityUnitOfMeasure=" kts">
+																						<quantityValue>600</quantityValue>
+																					</quantityGroup>
+																				</quantity>.</en>
+																			<ch>图1-22表示最大巡航速度在 300 kts 和 600 kts之间。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="4cdf7401-fc25-405f-a15b-d18784880d11" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="38241d80-be47-469d-9112-b1ee2e5f8ff5">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="e17a27d4-b40b-4522-a284-b3db9cfd65f2" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the diversity test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位以启动分集测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="54bb196e-7b2a-4188-ba93-8d941eb85f1f">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="ea2d39b8-3ea0-4c67-9b9d-6533790b42be" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="586414aa-e06c-44f9-80d6-dc227008f3dd" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-23.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-23。</ch>
+																	</para>
+																	<note xyid="2c06aa97-ab8a-43b9-a145-15ec91ea683c" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="50a20b98-3f9e-4c5f-beee-816fc3ffeb09">
+																			<en>The value in figure 1-23 is only for reference. As long as PASS shows in figure 1-23, the test is passed.</en>
+																			<ch>图1-23中的值仅供参考。只要PASS显示在图1-23中，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="629ac268-c1a7-4c48-9ff4-6ad8ca7359ef" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="dc48da7e-7e31-4732-973e-bdfecd43b846">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="bbe1283f-5cd6-4b1b-8085-19c381633627" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the sensitivity test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位以启动灵敏度测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="70e62d93-62a4-4358-91d0-82b5e43150a4">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="420be65d-c676-4998-b85b-f81296e9f912" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="72112e8a-8e74-47e8-b4ab-e0bc2f81b72c" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page after<quantity xyid="07407ca0-d0b0-4b25-ba4b-96ca7921efa6" quantityType="">
+																				<quantityGroup quantityUnitOfMeasure="min" quantityGroupType="minimum">
+																					<quantityValue>2</quantityValue>
+																				</quantityGroup>
+																				<quantityGroup quantityUnitOfMeasure="min" quantityGroupType="maximum">
+																					<quantityValue>4</quantityValue>
+																				</quantityGroup>
+																			</quantity>, refer to figure 1-24.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕在 2 min ～ 4 min 后显示结果页面，参考图1-24。</ch>
+																	</para>
+																	<note xyid="5c8bffa3-853d-455e-a3a5-6ab77f4a64b7" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="a87e0c12-dddc-49c4-88cb-9ba0c428affc">
+																			<en>The display in figure 1-24 is only for reference. As long as PASS shows on the page, the test is passed.</en>
+																			<ch>图1-24中的显示仅供参考。只要页面上显示PASS，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="9d47fda2-2387-4706-a54e-5355c23b6d13" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="57548bd3-5724-406f-9526-29f262e327d6">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="441229dc-6aec-4840-b889-475211a17768" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the width/ amplitude test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位置，以启动宽度/振幅测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="dcd3c890-a708-4456-a8d4-fa7baef0e8ab">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="35939125-a64d-42e7-9e8d-c54efa159032" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="fddefc0a-c212-4174-943f-8c54589170ed" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows two result pages alternately, refer to figure 1-25 and figure 1-26.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕交替显示两个结果页面，参见图1-25和图1-26。</ch>
+																	</para>
+																	<note xyid="2fc1a8d8-c994-4c12-a160-5675ab11b36d" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="20f450f6-99d8-47e2-af37-f549dd180286">
+																			<en>The value in figure 1-25 and figure 1-26 are only for reference. As long as P and PASS shows on the two pages, the test is passed.</en>
+																			<ch>图1-25和图1-26中的值仅供参考。只要PASS显示在两个页面上，则测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+												<row xyid="8c83c0dd-cec5-4461-9ac9-953250347db0" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+													<entry colname="col1" xyid="3a594656-67b0-401e-b561-5d11b09e09a8">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="2ac8b684-07e4-46cd-8a98-c230c1b860eb" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>Continue to set the AUTO/TEST/MANUAL switch to MANUAL position in order to activate the power/frequency test.</en>
+																		<ch>继续将AUTO/TEST/MANUAL电门设置到MANUAL位，以启动功率/频率测试。</ch>
+																	</para>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+													<entry colname="col2" xyid="005a91e5-486d-4c85-9bc2-6456cd4870e4">
+														<para>
+															<randomList bulltype="BULLET">
+																<listItem>
+																	<para xyid="8fc63227-8fc6-436c-a482-eba002c7a571" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+																		<en>The screen of the<internalRef xyid="1a238a66-8c73-4325-ab13-41b3ccc3b540" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>shows result page, refer to figure 1-27.</en>
+																		<ch>ISS测试设备测距仪(TR-220)的屏幕显示结果页面，参考图1-27。</ch>
+																	</para>
+																	<note xyid="4f07840d-0b43-4acf-b6d4-840419cf6e86" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+																		<notePara xyid="64195e15-d003-49b7-81a1-760a4e33d970">
+																			<en>In figure 1-27, 54dBm is the emissive power and 1090MHz is the transmitting frequency. When the emissive power is within 53~55 dBm and the transmitting frequency is within<quantity xyid="38f493c8-cc27-4f0e-8539-703a79b31409" quantityType="">
+																					<quantityGroup quantityUnitOfMeasure="MHz" quantityGroupType="minimum">
+																						<quantityValue>1089</quantityValue>
+																					</quantityGroup>
+																					<quantityGroup quantityUnitOfMeasure="MHz" quantityGroupType="maximum">
+																						<quantityValue>1091</quantityValue>
+																					</quantityGroup>
+																				</quantity>, the test is passed.</en>
+																			<ch>在图1-27中，54dBm是发射功率，1090MHz是发射频率。当发射功率在53~55 dBm范围内且发射频率在 1089 MHz ～ 1091 MHz 范围内时，测试通过。</ch>
+																		</notePara>
+																	</note>
+																</listItem>
+															</randomList>
+														</para>
+													</entry>
+												</row>
+											</tbody>
+										</tgroup>
+									</table>
+								</proceduralStep>
+								<proceduralStep xyid="96ca2f71-6c24-4439-adfa-9f2fa4cbd709" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="b33770b1-b56b-4f88-82f5-1d720ecfa6f4" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the<internalRef xyid="bd4c452b-afcd-41c0-ae91-8e1388eeb9e3" internalRefTargetType="irtt05" internalRefId="seq-0004" xlink:title=" Antenna Coupler(TC-201) "> Antenna Coupler(TC-201) </internalRef>
+											<rev> or Antenna Coupler(ZDC-02) </rev>from the top<acronymTerm xyid="a3bd5a06-0831-4c49-9119-62e9248071d1"> TSA </acronymTerm>.</en>
+										<ch>从上TSA拆下天线耦合器(TC-201)<rev>或(ZDC-02)</rev>。</ch>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="ad69636c-f095-4163-8c04-d8372b0dfa87" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="28794b0a-348b-43d5-b787-2d36f1553970" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do these steps to do the functional test of the top<acronymTerm xyid="e31d408b-bf00-4f04-8370-7b3235ca15e1"> TSA </acronymTerm>.</en>
+									<ch>执行以下步骤对上TSA进行功能测试。</ch>
+								</para>
+								<sign name="SIGN 00004" xyid="1c434100-e4b1-4a50-9ff1-f2d58964f6c2" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="AINP" QUALI="" MHR="">
+									<workName name="td_work" xyid="05179324-3438-4578-a383-cef544479c72">
+                </workName>
+									<checkName name="td_check" xyid="380c2154-c020-4194-8e98-50d500c00523">
+                </checkName>
+								</sign>
+								<proceduralStep xyid="44590c50-9c36-467d-b3b6-f97c5615b36f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="d9e59c8c-460f-4829-b7a4-874e1106c1b0" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put the<internalRef xyid="a4eddb15-cd3f-4f3d-86bf-b659381eb88d" internalRefTargetType="irtt05" internalRefId="seq-0004" xlink:title=" Antenna Coupler(TC-201) "> Antenna Coupler(TC-201) </internalRef>
+											<rev> or Antenna Coupler(ZDC-02) </rev>on the bottom<acronymTerm xyid="a16e5925-3f45-4b34-b0b0-1c78f18edb22"> TSA </acronymTerm>to shield the antenna.</en>
+										<ch>将天线耦合器(TC-201)<rev>或(ZDC-02)</rev>放在下TSA上以屏蔽天线。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="842e911d-013f-4e9b-8ab1-45c1945e1436" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="c0f8ae44-498c-4747-aa2b-8b5bd4626e0d" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put the<internalRef xyid="e8f88654-1e1e-46b9-9095-16dc993b6143" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>
+											<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>20</quantityValue>
+													<quantityTolerance>1</quantityTolerance>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>6.1</quantityValue>
+													<quantityTolerance>0.305</quantityTolerance>
+												</quantityGroup>
+											</quantity>) away from the left-front screw hole in the heading direction of the top TSA base..</en>
+										<ch>将ISS测试设备测距仪(TR-220)放在距离上TSA天线的左前螺孔航向前 20 ft  ± 1ft( 6.1 m  ± 0.305m)处。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="2237acd5-f731-4c04-9a31-f1dfce7f1245" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="7e0f1f16-9027-4049-9aea-fa969179e052" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the directional antenna of the<internalRef xyid="7c8c000f-f026-4c85-a274-86935b64987b" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>points to the top<acronymTerm xyid="a04a284b-716c-4fdb-8bd6-a9a8ce27a3ce"> TSA </acronymTerm>of the aircraft and there is no obstruction between the two antennas.</en>
+										<ch>确保ISS测试设备测距仪(TR-220)的定向天线指向上TSA，并且两个天线之间没有障碍物。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="239ca225-4ec3-4214-a9e5-c2ff6a1dad1c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="f5e86263-5de9-4764-a2f8-50bb4030a081" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Repeat<internalRef xyid="26d3bab4-2a6b-4012-bac5-cd7a4673b3f6" internalRefTargetType="irtt08" internalRefId="proStp-3i2z1p9l"> Step B.(5).(b). </internalRef>.</en>
+										<ch>重复步骤B.(5).(b).。</ch>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="31a5ea25-a770-4a12-81eb-3aef48a39dcf" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="730f97d6-16a2-4e72-b756-62343ba456d3" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the transponder functional test of right<acronymTerm xyid="0ccb86dd-8302-449b-b08e-adfda52a0ece"> ISS </acronymTerm>:</en>
+									<ch>执行右ISS的应答机功能测试：</ch>
+								</para>
+								<proceduralStep xyid="2a3f49f6-0b84-452e-a95e-c9c83645ec00" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="22c7f06e-d89f-436e-9c18-bb7cf071f2e5" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Push the TFC key on the right<acronymTerm xyid="1e231a89-0f4d-4f8f-9221-928a8d86c9e8"> TCP </acronymTerm>to enter the TRAFFIC page.</en>
+										<ch>按压右TCP上的TFC键进入TRAFFIC页。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="a86088c8-479a-4cd7-bb37-8494236530f3" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="9dac7af1-29fa-4cb4-88af-01fd0e84b787" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Push the R-LSK-6 to select R for TFC SYS.</en>
+										<ch>按压R-LSK-6以选择TFC SYS的R。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="9978b682-27c9-44a0-b332-be7797df14e7" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="32de9960-b9e8-473e-ba7e-8e155cc12d05" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>R is highlighted in green on the right TCP.</en>
+										<ch>R在右TCP上以绿色高亮显示。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="3cfc296b-b7b4-4d23-aa12-73b18d837c71" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="87df0dc4-acc0-4b29-b1ef-208bf41faf43" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Repeat<internalRef xyid="390f8180-cb28-463a-b106-e11d8936bd2a" internalRefTargetType="irtt08" internalRefId="proStp-3i2z1p9l"> Step B.(5).(b). </internalRef>.</en>
+										<ch>重复步骤B.(5).(b).。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="971c2179-5660-4228-9308-bd020faca286" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="02cd5651-b1d5-4ab3-a02d-b32635b9290e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the<internalRef xyid="7e26e1e7-c9e7-4545-b06d-8fe549db5697" internalRefTargetType="irtt05" internalRefId="seq-0004" xlink:title=" Antenna Coupler(TC-201) "> Antenna Coupler(TC-201) </internalRef>
+											<rev> or Antenna Coupler(ZDC-02) </rev>from the bottom<acronymTerm xyid="75e07e93-aa10-4617-9451-12e807730439"> TSA </acronymTerm>.</en>
+										<ch>从下TSA上拆下天线耦合器(TC-201)<rev>或(ZDC-02)</rev>。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="1fd6d703-9074-4b8e-899a-44f15298512f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="ce16656d-b78b-41bf-83ce-b092b698e09b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put the<internalRef xyid="dd0beaef-fad3-4ab2-85a7-016d438f075f" internalRefTargetType="irtt05" internalRefId="seq-0004" xlink:title=" Antenna Coupler(TC-201) "> Antenna Coupler(TC-201) </internalRef>
+											<rev> or Antenna Coupler(ZDC-02) </rev>on the top<acronymTerm xyid="23778e82-1131-4da1-b3bf-c5341f6d21d5"> TSA </acronymTerm>to shield the antenna.</en>
+										<ch>将天线耦合器(TC-201)<rev>或(ZDC-02)</rev>放在上TSA上以屏蔽天线。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="3197e070-6de1-4ac1-9775-613b1ed45ec9" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="4dc82ddf-1f20-4199-a92b-968e25e8ab80" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Put the<internalRef xyid="d12b6f48-bbef-4526-9eba-db64c767c422" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>
+											<quantity>
+												<quantityGroup quantityUnitOfMeasure="ft">
+													<quantityValue>20</quantityValue>
+													<quantityTolerance>1</quantityTolerance>
+												</quantityGroup>
+											</quantity>(<quantity>
+												<quantityGroup quantityUnitOfMeasure="m">
+													<quantityValue>6.1</quantityValue>
+													<quantityTolerance>0.305</quantityTolerance>
+												</quantityGroup>
+											</quantity>) away from the left-front screw hole in the heading direction of the bottom TSA base.</en>
+										<ch>将ISS测试设备测距仪(TR-220)放在距离下TSA天线的左前螺孔航向前 20 ft± 1ft( 6.1 m  ± 0.305m) 处。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="b1178407-96e1-4f89-8792-caa159f4b81f" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="fe996b59-ba29-4232-81bd-6e3bc075d1e1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Make sure that the directional antenna of the<internalRef xyid="c9309b41-f749-4b51-886a-80b730229d2e" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>points to the bottom<acronymTerm xyid="1dcdd24d-faf6-4584-9549-6337fa5fb6f4"> TSA </acronymTerm>of the aircraft and there is no obstruction between the two antennas.</en>
+										<ch>确保ISS测试设备测距仪(TR-220)的定向天线指向下TSA，并且两个天线之间没有障碍物。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="15656bfe-54a6-4f8e-b3da-e2950150ce04" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="2e426e86-41b1-4539-a2f8-aa8bb2f09ab1" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Repeat<internalRef xyid="c5831ed1-9a15-4acc-8633-0352fafd9b18" internalRefTargetType="irtt08" internalRefId="proStp-3i2z1p9l"> Step B.(5).(b). </internalRef>.</en>
+										<ch>重复步骤B.(5).(b).。</ch>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+							<proceduralStep xyid="7f9a5244-d160-45ff-8cdf-2185afe4dcb6" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="4bb13afb-4159-4dab-8d0c-0ecf053dfe14" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Open, safety/lock and tag this(these) circuit breaker(s):</en>
+									<ch>拔出、保险/锁定并挂标签以下跳开关：</ch>
+								</para>
+								<circuitBreakerDescrGroup xyid="9bf0de18-b0c6-4176-989f-902910b82130" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<circuitBreakerDescrSubGroup xyid="42c76416-bd37-4305-bdc0-488c10ae46ab">
+										<circuitBreakerDescr name="meta_cbdesc" xyid="ee673938-0172-4d0e-b1b4-088274f7a3df" applicRefId="cb-app-0002">
+											<accessPointRef xyid="3c969a7f-588b-4e91-a669-d8994b55ddbb" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="5cb2efbc-bb83-40e9-92e1-a08134ca8875">OET1</name>
+											<circuitBreakerRef xyid="9a5c4333-f268-4b45-80b0-04ab5a647773" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU11-8-6">RPDU11-8-6</circuitBreakerRef>
+											<circuitBreakerLocation xyid="c0314a64-d473-4938-998f-9d7ae250c36a">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+										<circuitBreakerDescr name="meta_cbdesc" xyid="0bc8c67e-9353-4f92-960c-aa53b74b0671" applicRefId="cb-app-0002">
+											<accessPointRef xyid="12540479-7e28-4201-88e0-0ec3cc2ed812" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+											<name xyid="85984da7-8b4c-41d7-84ef-85f5d95159ea">OET2</name>
+											<circuitBreakerRef xyid="50d38d0b-c29e-4490-8bab-b37d0e124049" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-15">RPDU26-4-15</circuitBreakerRef>
+											<circuitBreakerLocation xyid="502475ae-d2d7-45b6-aab7-cbd454bfb590">
+                    </circuitBreakerLocation>
+										</circuitBreakerDescr>
+									</circuitBreakerDescrSubGroup>
+								</circuitBreakerDescrGroup>
+							</proceduralStep>
+							<proceduralStep xyid="6420fdf1-2fec-415c-9664-8ed5874beaed" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="143782ae-9405-4eff-80f5-2305ea5cc889" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that XPDR L+R FAULT shows on the EICAS page.</en>
+									<ch>确保EICAS页面上显示XPDR L+R FAULT。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="55e56102-9a9a-4657-a59d-e6705dbca720" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="fa570962-78d6-46c0-a22d-624c484dac4b" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Do the restoration test:</en>
+									<ch>执行恢复测试：</ch>
+								</para>
+								<sign name="SIGN 00002" xyid="a05401cc-6889-4fdd-84fa-d5d7b326bb98" isNa="" notAllow="" naCode="" naReasonEn="" naReasonCh="" TYPE="_|C_" SKILL="AINP" QUALI="" MHR="">
+									<workName name="td_work" xyid="34a39130-7366-4d08-8f4b-ba60aeee2c76">
+                </workName>
+									<checkName name="td_check" xyid="76f749b5-1c50-4311-9b0c-8b599042f3f0">
+                </checkName>
+								</sign>
+								<proceduralStep xyid="6696027b-7165-4474-81d4-368cb2acf848" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="167ac4b2-0d3b-4ef1-9be2-0ad562b57909" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Slowly decrease the altitude on the Test Set - Test, Air Data System to the local altitude.</en>
+										<ch>将大气数据系统测试设备上的高度缓慢降低到当地高度。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="991ed3ec-62d5-4ddc-bfcf-9d2433b3a240" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="0b5ad34f-c8f0-40f4-9607-553295cab6d2" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<en>Slowly decrease the airspeed to 0 kts on Test Set - Test, Air Data System .</en>
+										<ch>在大气数据系统测试设备上，将空速缓慢降至0节。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="0f85d7fe-569b-4e62-b936-978434f213af" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="630d9b78-035f-4781-93c9-9e225a57d055" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<en>Remove the<internalRef xyid="c5cd2f78-8403-4eb5-a9b1-9968d89965b4" internalRefTargetType="irtt05" internalRefId="seq-0001" xlink:title=" Test Set - Test, Air Data System "> Test Set - Test, Air Data System </internalRef>and<internalRef xyid="57d7503e-785f-4379-8125-21c117f05ed8" internalRefTargetType="irtt05" internalRefId="seq-0006" xlink:title=" Kit, Adapter - Air Data System Test(QJSPQ-C9) "> Kit, Adapter - Air Data System Test(QJSPQ-C9) </internalRef>from the air data system.</en>
+										<ch>从大气数据系统上拆下大气数据系统测试设备和大气数据系统测试套装转接头(QJSPQ-C9)。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="b041fbee-7486-450f-aa27-25ba69bd3860" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="d95809b5-45d8-4d86-8df9-8f25287b61ce" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Disconnect the<internalRef xyid="cb70248d-3757-444d-8ce4-a9dffa621122" internalRefTargetType="irtt05" internalRefId="seq-3s0c1mo7" xlink:title=" Tool - Ground Anti heating, Air Data probe(6341C02-A) "> Tool - Ground Anti heating, Air Data probe(6341C02-A) </internalRef>from the electrical connectors of three<acronymTerm xyid="35c76631-68ba-4545-be1f-43cf7bce39d5"> ADHC </acronymTerm>s.</en>
+										<ch>从三个ADHC的电插头上脱开大气数据探头地面防加温工具(6341C02-A)。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="f72f28ab-1e63-4406-8353-5c47be301dd8" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="4b13ba73-8610-444c-87b8-23776faf040f" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Connect the electrical connectors of three<acronymTerm xyid="db607466-0751-48ed-a6d9-d643379c04a6"> ADHC </acronymTerm>s.</en>
+										<ch>连接三个ADHC的电插头。</ch>
+									</para>
+								</proceduralStep>
+								<proceduralStep xyid="1d6691b0-2267-46af-a9a4-aa6a645b7e76" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<caution xyid="41fa323d-cd54-4bd9-8948-ce4085b895cc" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<warningAndCautionPara xyid="178fe180-10a1-4458-92d1-35a4db04caad">
+											<en>WHEN THE ADHCS IS POWER OFF, THE SENSORS WILL BE HEATED AUTOMATICALLY. IN ORDER TO PREVENT THE EQUIPMENT FROM BEING BURNT OUT, THE CIRCUIT BREAKERS OF THE ADHCS SHOULD BE CLOSED FIRST DURING THE OPERATION OF CLOSING CIRCUIT BREAKERS.</en>
+											<ch>当ADHC断电时，传感器将自动加温。为了防止设备被烧坏，在闭合跳开关的操作过程中，应首先闭合ADHC的跳开关。</ch>
+										</warningAndCautionPara>
+									</caution>
+									<para xyid="d10a5d5e-e1bb-4dd0-9ad9-4623804ee21c" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the tag(s) and/or the safety clip(s) and close/unlock this(these) circuit breaker(s):</en>
+										<ch>拆下标签和/或保险夹并闭合/解锁以下跳开关：</ch>
+									</para>
+									<circuitBreakerDescrGroup xyid="5ede5bc2-1853-4664-a7d5-b91983321168" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<circuitBreakerDescrSubGroup xyid="1f94f2cc-2b19-4b46-b594-0dc9c93f4c06">
+											<circuitBreakerDescr name="meta_cbdesc" xyid="6df4c317-1249-48c3-a82f-650015b60fae" applicRefId="cb-app-0002">
+												<accessPointRef xyid="fe96813f-7416-4c10-b6ef-4c0359adf9b2" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+												<name xyid="02f9fcba-ec98-4247-9742-24a510dcbad9">ADHC2</name>
+												<circuitBreakerRef xyid="60ccf353-a86c-43fe-8ead-4ef51daf51fd" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-B-4">EDP-B-4</circuitBreakerRef>
+												<circuitBreakerLocation xyid="e9e6f853-9163-4f8f-953e-bb5914d59168">B-4</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="71e3b7fc-c3db-422f-8277-af1dc2800e1a" applicRefId="cb-app-0002">
+												<accessPointRef xyid="acb2fa0d-8ed6-4cc6-93e1-656e440955bf" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="ba9482b0-c5d0-4924-8ada-903f23825a87">ADHC1</name>
+												<circuitBreakerRef xyid="9a6942cb-2e0d-482b-8a1f-9a4af7a3cb40" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU25-3-11">RPDU25-3-11</circuitBreakerRef>
+												<circuitBreakerLocation xyid="e17ef4ae-fa97-496f-9ef4-0d65625fb67d">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="61c1ef11-cf92-453f-883e-5daaa49391a4" applicRefId="cb-app-0002">
+												<accessPointRef xyid="d774fc7f-12e6-4df2-9fa7-bd39979c2bde" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="a20fb8f9-2a54-47a8-8c9e-7efd57cbc730">ADHC3</name>
+												<circuitBreakerRef xyid="4786cc5f-ffdc-4424-9814-5e20015fd731" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-9">RPDU26-4-9</circuitBreakerRef>
+												<circuitBreakerLocation xyid="f5b42c9a-35fe-4050-b6ea-6ab022edc435">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+										</circuitBreakerDescrSubGroup>
+									</circuitBreakerDescrGroup>
+								</proceduralStep>
+								<proceduralStep xyid="52050562-9853-48a2-a126-11d68d519b26" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="cc33cc28-4737-440c-8199-539233630e21" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Remove the tag(s) and/or the safety clip(s) and close/unlock this(these) circuit breaker(s):</en>
+										<ch>拆下标签和/或保险夹并闭合/解锁以下跳开关：</ch>
+									</para>
+									<circuitBreakerDescrGroup xyid="80e954ae-f5cf-404f-a4dd-7a2985cc8c83" checkSum="" circuitBreakerAction="" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+										<circuitBreakerDescrSubGroup xyid="84acb963-d796-4fb4-a6b1-6b7302e03cbc">
+											<circuitBreakerDescr name="meta_cbdesc" xyid="65eec4fd-ca69-4569-8010-f7a8329bddd4" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="f3c77dd5-e6a3-4a75-bf30-0817f77ce964" accessPointTypeValue="" accessPointNumber="RICBP">RICBP</accessPointRef>
+												<name xyid="2924fe5c-783c-4ac8-ac93-0da24977c390">D-ISS-PU</name>
+												<circuitBreakerRef xyid="7aec4a27-3993-42f7-9f15-c6f014f59ad8" circuitBreakerType="cbt02" circuitBreakerNumber="R-ICBP-B-15">R-ICBP-B-15</circuitBreakerRef>
+												<circuitBreakerLocation xyid="7bbad063-3930-4242-b77b-b72b173e2f54">B-15</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="5372f626-6629-489d-9fa0-9c1b9c4e58c9" applicRefId="cb-app-0001">
+												<accessPointRef xyid="58b1a7ce-f305-47e3-b46f-4fa413f55d5f" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+												<name xyid="caa1457d-89fd-4a39-9a86-58c27e558a8a">EDP-EMPC-A-LRM</name>
+												<circuitBreakerRef xyid="7d759a4c-8b88-44c2-ad63-e148eff051c6" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-A-2">EDP-A-2</circuitBreakerRef>
+												<circuitBreakerLocation xyid="66bc1f3c-3252-4bb4-9416-2fe63da0ecb4">A-2</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="0bfadf7e-9b31-44f0-a018-cf6657ee4e6f" applicRefId="cb-app-0001">
+												<accessPointRef xyid="62f6127f-8118-4114-8749-d35e9288d5e1" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+												<name xyid="9c9607ae-3dbc-4760-bcb2-4cb62c8069f8">RIGHT-PITOT-STATIC</name>
+												<circuitBreakerRef xyid="6acc37f5-738d-4d81-a4b4-1c8a9bcecbdb" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-G-1">EDP-G-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="06e03099-0b38-40da-bb6c-3b90dab30f17">G-1</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="c6f7c2a1-b1b8-4c84-a87e-7df3873ebcd3" applicRefId="cb-app-0001">
+												<accessPointRef xyid="e49bdf7d-09fe-4805-9103-395d3b526587" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+												<name xyid="1fe90f93-feb4-4fd7-b8d1-d59d5d7c8917">AOA-LEFT1</name>
+												<circuitBreakerRef xyid="5557166e-bade-429c-9f89-9d1fe48b2bd7" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-G-2">EDP-G-2</circuitBreakerRef>
+												<circuitBreakerLocation xyid="0cc78ccc-ecad-4541-8b7d-a2aa7d2efdf7">G-2</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="3b773961-9eb3-4b40-85ae-1975c3db1838" applicRefId="cb-app-0001">
+												<accessPointRef xyid="dc0a9718-860d-423b-bd77-8e5da326fe1d" accessPointTypeValue="" accessPointNumber="EDP">EDP</accessPointRef>
+												<name xyid="0bb018c9-6b39-4fb3-b2b3-9fd28306dd80">LEFT-PITOT-STATIC</name>
+												<circuitBreakerRef xyid="49eb69f7-3073-4af4-9206-eece1303186d" circuitBreakerType="cbt02" circuitBreakerNumber="EDP-H-1">EDP-H-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="1ec7c19e-8666-4c3e-a9ab-0c2d6e395d43">H-1</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="da501788-2c30-4eb2-a347-7e95a0882fc1" applicRefId="applicRef-3nrpgxgx">
+												<accessPointRef xyid="7e0c7612-3f3d-43d7-b498-e1055ba1c5f9" accessPointTypeValue="" accessPointNumber="LDP">LDP</accessPointRef>
+												<name xyid="1528a968-dd4e-47e9-9dd0-1622984af153">EDP-EMPC-C-LRM</name>
+												<circuitBreakerRef xyid="ddb07eb5-ea1e-4fb8-aae8-6071bac77357" circuitBreakerType="cbt02" circuitBreakerNumber="LDP-Q-2">LDP-Q-2</circuitBreakerRef>
+												<circuitBreakerLocation xyid="4996ba78-c6f5-46bb-aec2-57d4cced2b77">Q-2</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="f3c71e8e-1148-44f2-beb0-90ed010e9b26" applicRefId="cb-app-0001">
+												<accessPointRef xyid="91990a13-5232-409a-8000-2434bc5b7fc4" accessPointTypeValue="" accessPointNumber="RDP">RDP</accessPointRef>
+												<name xyid="369828e6-21d8-44e4-89df-130f272a65b8">EDP-EMPC-B-LRM</name>
+												<circuitBreakerRef xyid="f6edde20-8dd1-4209-9336-75d8613a2616" circuitBreakerType="cbt02" circuitBreakerNumber="RDP-K-3">RDP-K-3</circuitBreakerRef>
+												<circuitBreakerLocation xyid="0d964637-0218-4504-923d-da5bb5fa84eb">K-3</circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="d0ced602-b144-4893-8854-4daac9b02da9" applicRefId="cb-app-0002">
+												<accessPointRef xyid="659ad81b-6914-47cc-93c1-6a0eb07a8661" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="27828898-801b-4e63-a3b3-5cd8b1306d25">OET1</name>
+												<circuitBreakerRef xyid="efdbd322-e712-4074-a44b-1da7f9ff8d60" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU11-8-6">RPDU11-8-6</circuitBreakerRef>
+												<circuitBreakerLocation xyid="65a2e76e-265c-4009-9d3a-8b6cb3295367">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="a0a31b6e-9c33-4967-8c6d-544621ab3c74" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="cb1825a1-5d0a-4732-9877-eed8cbc95031" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="8b616ee3-8183-4d61-9392-1f356b2c5feb">LEFT-STATIC1</name>
+												<circuitBreakerRef xyid="ee731d0c-50b2-4c64-84f6-fc2c3efc0bd7" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-3-7">RPDU21-3-7</circuitBreakerRef>
+												<circuitBreakerLocation xyid="a41113d2-e57a-4176-8312-3742195fb6b0">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="75f5f5cf-b05d-4bb8-874f-eb4b76abb191" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="a973fa21-662a-4edf-8790-0c1e8fa11042" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="9153b67c-d414-453f-bd47-deb504ce77e2">RIGHT-STATIC1</name>
+												<circuitBreakerRef xyid="0a4c69f0-7e40-4756-bf3b-5a835c84f581" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-4-5">RPDU21-4-5</circuitBreakerRef>
+												<circuitBreakerLocation xyid="9ca6584f-3272-41f3-8de1-7663711024b5">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="49d516ac-2574-44c0-af74-8b9029e92210" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="e64ac16e-cade-4558-9f42-241c70d7a9e8" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="b535b0dd-fa14-4f5a-8019-49f02e0a6722">LEFT-PITOT-PROBE</name>
+												<circuitBreakerRef xyid="dc8e9675-90a9-4919-8262-91a70582b08b" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU21-7-5">RPDU21-7-5</circuitBreakerRef>
+												<circuitBreakerLocation xyid="88024935-b11e-4971-b47a-cfecd5f3601a">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="3584da8f-5440-4a2f-b823-3b464589ef46" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="5193ea51-405e-4988-815e-8b7347d5eba7" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="169b6a8b-8143-4a2d-ac2c-cfadcf0d0d1b">RIGHT-PITOT-PROBE</name>
+												<circuitBreakerRef xyid="4683769f-6f51-4e27-b144-fc33f7895a9a" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU22-7-1">RPDU22-7-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="19ee8626-6ccc-4f13-9a0b-aac8808975fc">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="e3467394-cae0-4a97-9d63-504cb8f4af93" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="57a4333f-ea61-4c29-9287-4e2f4faee3d6" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="d160a006-7f0d-43be-915b-149658d62c88">TAT-RIGHT</name>
+												<circuitBreakerRef xyid="c5f30e79-4162-45fc-9b17-80c67faa34c5" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU22-8-3">RPDU22-8-3</circuitBreakerRef>
+												<circuitBreakerLocation xyid="3ceeb2af-8ace-4898-b70e-526f2e7f6e77">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="d25fc9b8-be98-4af2-a890-20895a4e6cb5" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="06f18fb5-cba5-4316-8dbf-000c377da409" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="6363acf2-4a1d-4d94-8ecf-f58989c78e07">AOA-RIGHT1</name>
+												<circuitBreakerRef xyid="c5ca2ba0-1d18-4cd2-982a-3436bc485781" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU23-8-1">RPDU23-8-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="c2f51047-c2ee-4c2f-8e2f-8e2ae3dd4f99">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="b5b551f6-a5c8-4410-9bc3-33b7f7373e2b" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="dcff6ebb-335e-45f8-929d-05609b8f5726" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="1d6a460c-8f50-4676-85b0-90d4b2c40f35">TAT-LEFT</name>
+												<circuitBreakerRef xyid="ab2fbfd8-7528-4ded-a4b8-6cffed0c1adb" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU23-8-3">RPDU23-8-3</circuitBreakerRef>
+												<circuitBreakerLocation xyid="d5433261-e6c1-42d5-ab1b-b90fd5310fcf">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="574e54bd-26f9-4309-8e7d-09a77138a3d4" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="ca3ffb71-4462-4af1-9296-1288b7acb659" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="0689f66f-73ee-400f-ae4b-826ad4fc21fe">LEFT-STATIC3</name>
+												<circuitBreakerRef xyid="b46b1e70-747a-4404-bdc9-1d29d5b1a410" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU24-3-3">RPDU24-3-3</circuitBreakerRef>
+												<circuitBreakerLocation xyid="882a4fa9-8ef6-42a8-85ca-f29ed26ca8ef">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="2a7cea23-5141-4b6c-975d-71273369d55a" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="56bc2469-9131-4b08-97c4-a07a6826a838" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="d351a559-3281-4139-9d40-0223943b7e4d">AOA-LEFT2</name>
+												<circuitBreakerRef xyid="83f6dcb5-273f-441f-9580-3689d6dcddf6" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU24-7-1">RPDU24-7-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="96321f2b-6a6e-431c-920b-a7f531d54bca">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="70e03993-055e-4726-9867-4db4d8cd7a4b" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="68964e06-2018-468f-9d84-5fefe45c518f" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="6f39454d-95f4-45ca-bc1f-6fe0a3af6617">RIGHT-STATIC3</name>
+												<circuitBreakerRef xyid="3b7ef2e4-9d40-4d0e-987f-92368ec06cdd" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-3-2">RPDU26-3-2</circuitBreakerRef>
+												<circuitBreakerLocation xyid="3573920d-49df-43f4-8fa3-74dd080f8c8e">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="6200a7ed-4ed0-465f-a6d7-a23201ee9daf" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="7d58c5de-4b71-48a3-9741-043fefe90ad2" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="34a48aec-8c1f-4030-8865-084251c7c5ec">TSA-RELAYS-POWER</name>
+												<circuitBreakerRef xyid="73dde058-dfc1-4a48-a185-ab1848d36e11" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-10">RPDU26-4-10</circuitBreakerRef>
+												<circuitBreakerLocation xyid="439ef2d6-482e-410f-8891-bd4405c0008f">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="d62c3447-f039-421d-a5f9-114d8ee776f4" applicRefId="cb-app-0002">
+												<accessPointRef xyid="b7ac0540-b6b2-46d6-949b-e884dc60b6e9" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="c3ba2dac-6954-4d18-a0e6-dd3324c37490">OET2</name>
+												<circuitBreakerRef xyid="d37aab5c-6dda-40ad-9090-b718e6c63936" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-4-15">RPDU26-4-15</circuitBreakerRef>
+												<circuitBreakerLocation xyid="6ccf5ddb-6880-4613-a8ef-6ce77993bb32">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="a3a1bd2b-a25c-48a8-b171-f7f780d075e1" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="39dcb440-179a-478f-b740-46e5c78bdc01" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="bdf3112d-7bdc-4307-bfcc-1a143cb530c6">ISS-PU</name>
+												<circuitBreakerRef xyid="85b3bcaa-f365-4bb9-bd5b-e93cd5254bb8" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-7-1">RPDU26-7-1</circuitBreakerRef>
+												<circuitBreakerLocation xyid="4f76015d-e545-47a2-b20d-5ff115fa8601">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+											<circuitBreakerDescr name="meta_cbdesc" xyid="84cf28f6-d6d3-4f49-b35e-dee639471c72" applicRefId="applicRef-3mq05vg4">
+												<accessPointRef xyid="712c86b6-acd8-4080-a35f-242b5a3b25c0" accessPointTypeValue="" accessPointNumber="CBIC">CBIC</accessPointRef>
+												<name xyid="1877cd8c-a636-4580-b59f-ccc3c9cb160a">AOA-RIGHT2</name>
+												<circuitBreakerRef xyid="03fc1ec6-e72a-4c94-8e11-d34840d31664" circuitBreakerType="cbt01" circuitBreakerNumber="RPDU26-7-3">RPDU26-7-3</circuitBreakerRef>
+												<circuitBreakerLocation xyid="c19d0f1a-ceaf-4985-a320-06742dfc2f88">
+                      </circuitBreakerLocation>
+											</circuitBreakerDescr>
+										</circuitBreakerDescrSubGroup>
+									</circuitBreakerDescrGroup>
+								</proceduralStep>
+								<proceduralStep xyid="0c3bc99b-aba9-4978-b380-30b55d631402" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+									<para xyid="e752d0a6-2237-4f82-b587-83cc832145db" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+										<en>Do the test for the<acronymTerm xyid="45320af5-94c0-4fbc-9e5c-ab53830c25b9"> ADHC </acronymTerm>1, 2, 3. Refer to<dmRef xlink:title="MPP" showText=" Air data probe heating system-Operational test,MPP C919-A-30-31-00-00A-320A-A ">
+												<dmRefIdent>
+													<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="30" subSubSystemCode="1" subSystemCode="3" infoCode="320" modelIdentCode="C919" disassyCode="00" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-30-31-00-00A-320A-A"/>
+												</dmRefIdent>
+												<dmRefAddressItems>
+													<dmTitle>
+														<techName>Air data probe heating system</techName>
+														<infoName>Operational test</infoName>
+													</dmTitle>
+												</dmRefAddressItems>
+											</dmRef>.</en>
+										<ch>执行ADHC1，2，3的测试。参考大气数据探头加热系统 - 操作测试,MPP C919-A-30-31-00-00A-320A-A。</ch>
+									</para>
+								</proceduralStep>
+							</proceduralStep>
+						</proceduralStep>
+						<proceduralStep name="SUBTASK 32264" xyid="6ba9bdfd-2cc0-4d59-883f-7a3d89b64ec4" effexp="ON A/C MSN 00001-99999" efftext="ALL" nrcQty="" nrcOrderNo="" nrcSeq="" nrcImg="" nrcSignInfo="">
+							<title name="para_title" xyid="3dcb1114-f9dd-4060-86f8-bb382625971e" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+								<en>Close-Up</en>
+								<ch>结束</ch>
+							</title>
+							<sign name="SIGN 44042" xyid="123a9cb3-fbb2-4672-ab9a-98f6401d02f9" isNa=" xattr:notAllow=" naCode="" naReasonEn="" naReasonCh="" TYPE="_|X" SKILL="AIRP" QUALI="" MHR="" notAllow="">
+								<workName name="td_work" xyid="d62f61bb-6d3c-4476-8f75-762440cf9fdc">
+              </workName>
+								<checkName name="td_check" xyid="179f49c2-87fb-4091-b578-f68b9c6a1db1">
+              </checkName>
+							</sign>
+							<proceduralStep xyid="6a46f56e-b7fd-4657-82fa-7ad6886aef40" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="8df42e97-a93a-4b2d-a404-ccee057273bc" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the<internalRef xyid="2b1ba5bc-d2ea-4802-b7ac-29f9e0551bd9" internalRefTargetType="irtt05" internalRefId="seq-0004" xlink:title=" Antenna Coupler(TC-201) "> Antenna Coupler(TC-201) </internalRef>
+										<rev> or Antenna Coupler(ZDC-02) </rev>from the top<acronymTerm xyid="ca6c3a00-d6be-45e0-b66c-c43de17bb498"> TSA </acronymTerm>.</en>
+									<ch>从上TSA拆下天线耦合器(TC-201)<rev>或(ZDC-02)</rev>。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="69d98e2e-90f3-4b82-bc58-4d6bce59abf0" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="e88c46be-a5ae-4030-8c92-6dcf6e7ce508" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove the<internalRef xyid="320ab4ce-c352-48e4-bdef-95b30c91583b" internalRefTargetType="irtt05" internalRefId="seq-0002" xlink:title=" Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) "> Test Set - Test, Integrated Surveillance System, Distance Measuring Equipment(TR-220) </internalRef>.</en>
+									<ch>拆下ISS测试设备测距仪(TR-220)。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="5c4b7a38-8085-430e-8ddb-8859cb8ca216" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="73bbd7c3-85b5-484c-940c-deae491d9d3e" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Make sure that the work area is clean and clear of tools and other items.</en>
+									<ch>确保工作区域清洁，没有工具和其他物品。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="50a32749-d8ae-4a64-b574-9fc62b68781d" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="1f5c9de5-2b31-4cc1-9f83-e2e9cbaa7e15" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Close the<internalRef xyid="4ed77d99-7322-41be-aaa0-a3aad3e4adcc" internalRefTargetType="irtt16" internalRefId="acp-2xhem7g8"> Fwd E/E compartment back door 821A </internalRef>. Refer to<dmRef xlink:title="MPP" showText=" Fwd E/E equipment compartment back door-Close from outside after access procedure,MPP C919-A-52-43-00-00A-740B-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="52" subSubSystemCode="3" subSystemCode="4" infoCode="740" modelIdentCode="C919" disassyCode="00" infoCodeVariant="B" codeType="C919" codeNumber="C919-A-52-43-00-00A-740B-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>Fwd E/E equipment compartment back door</techName>
+													<infoName>Close from outside after access procedure</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>关闭前E/E舱后门821A。参考前E/E舱后门 - 结束接近后从外部关闭程序,MPP C919-A-52-43-00-00A-740B-A。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="b2bb15fa-cc1f-4c38-8333-3a00ea73537d" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="c070ed3f-a6ee-4db9-8cd0-ce8b5a5a5164" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Install the protective covers of pitot probe, static port, pitot-static probe,<acronymTerm xyid="f2a66293-4c96-4bfa-854d-9e4613d6f0f9"> TAT </acronymTerm>sensor and the<acronymTerm xyid="c6e37cdf-76ba-4c31-bc5f-238eb69ec6b4"> AOA </acronymTerm>sensor.</en>
+									<ch>安装皮托管，静压孔，全静压管，TAT探头和AOA传感器的保护套。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="20be6564-86fa-4d30-a1ef-87293620783c" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<warning name="WARNING 00003" xyid="62c4a755-8233-4bed-8fe5-5b86d193c70f" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<warningAndCautionPara name="para_desc" xyid="a81d3b1e-d524-4118-9148-485f0de0055e">
+										<en>MAKE SURE THAT PERSONS AND EQUIPMENT ARE FAR AWAY FROM THE PATH OF THE RAT DEPLOYMENT AND RAT COMPARTMENT DOOR OPENING. BECAUSE FAST DEPLOYMENT OF THE RAT AND OPENING OF THE RAT COMPARTMENT DOOR CAN CAUSE INJURY TO PERSONS AND DAMAGE TO EQUIPMENT.</en>
+										<ch>确保人员和设备远离RAT放出和RAT舱门打开的路径，因为RAT的快速放出和RAT舱门的打开会造成人员受伤和设备损坏。</ch>
+									</warningAndCautionPara>
+								</warning>
+								<para xyid="de287b42-f558-405a-b950-451dc8d04eb8" effexp="ON A/C MSN 00001-99999" efftext="ALL">
+									<en>After all maintenance work is completed, remove the RAT stow lock pins(AGE19021) . Refer to RAT stow lock pin - Removal，MPP C919-A-24-23-00-00A-520A-A .</en>
+									<ch>所有维护工作完成后，拆下RAT收上锁销（AGE19021）。参考RAT收上锁销-拆卸,MPP C919-A-24-23-00-00A-520A。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="9181ed53-7330-40f0-9edb-522b6f88294e" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="6eb67a3b-b526-437c-8a1c-8237377c4117" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>De-energize the aircraft electrical circuits. Refer to<dmRef xlink:title="MPP" showText=" De-energize the aircraft electrical circuits (Task Selection)-De-energize electrical network,MPP C919-A-24-00-00-00A-561A-A ">
+											<dmRefIdent>
+												<dmCode assyCode="00" itemLocationCode="A" disassyCodeVariant="A" systemDiffCode="A" systemCode="24" subSubSystemCode="0" subSystemCode="0" infoCode="561" modelIdentCode="C919" disassyCode="00" infoCodeVariant="A" codeType="C919" codeNumber="C919-A-24-00-00-00A-561A-A"/>
+											</dmRefIdent>
+											<dmRefAddressItems>
+												<dmTitle>
+													<techName>De-energize the aircraft electrical circuits (Task Selection)</techName>
+													<infoName>De-energize electrical network</infoName>
+												</dmTitle>
+											</dmRefAddressItems>
+										</dmRef>.</en>
+									<ch>断开飞机电路。参考飞机断电(任务选择) - 电网断电,MPP C919-A-24-00-00-00A-561A-A。</ch>
+								</para>
+							</proceduralStep>
+							<proceduralStep xyid="5e9fb5c0-1f81-4901-9822-316707dc7c46" nrcQty="" nrcSeq="" nrcOrderNo="" nrcImg="" nrcSignInfo="">
+								<para xyid="d32a62c3-704d-48c9-8273-24f9108c6765" efftext="ALL" effexp="ON A/C MSN 00001-99999">
+									<en>Remove all tools, equipment and unwanted materials from the work area.</en>
+									<ch>从工作区域移走所有工具，设备和多余的材料。</ch>
+								</para>
+							</proceduralStep>
+						</proceduralStep>
+					</mainProcedure>
+				</procedure>
+			</content>
+		</dmodule>
+	</posDesc>
+</jobCard>
