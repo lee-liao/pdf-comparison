@@ -52,6 +52,7 @@ body {
   position: sticky; top: 8px; z-index: 10;
 }
 .header h1 { font-size: 16px; font-weight: 600; margin-bottom: 10px; word-break: break-all; }
+.provenance { font-size: 12px; opacity: 0.75; margin-bottom: 10px; }
 .toolbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .stat-item { display: flex; align-items: center; gap: 6px; font-size: 13px; }
 .badge {
@@ -113,6 +114,7 @@ tr.diff-current td.line { outline: 2px solid var(--focus); outline-offset: -2px;
 <div class="container">
   <div class="header">
     <h1>$title</h1>
+    $provenance
     <div class="toolbar">
       <div class="stat-item"><span class="badge added">+$additions</span><span>新增</span></div>
       <div class="stat-item"><span class="badge deleted">-$deletions</span><span>删除</span></div>
@@ -214,8 +216,13 @@ def _row_html(row_type, old_num, old_class, old_content, new_num, new_class, new
 
 
 def generate_html(diff_result: dict, output_file: str, title: str,
-                  old_name: str = "", new_name: str = "", theme: str = "dark") -> None:
-    """生成左右对照 HTML 差异报告"""
+                  old_name: str = "", new_name: str = "", theme: str = "dark",
+                  provenance: str = "") -> None:
+    """生成左右对照 HTML 差异报告
+
+    provenance: 提取引擎与版本等溯源信息，显示在标题下方。
+                差异统计只在同一提取来源下可比，故必须随报告留痕。
+    """
     esc = html_mod.escape
     theme_colors = THEMES.get(theme, THEMES["dark"])
     stats = diff_result["stats"]
@@ -258,6 +265,7 @@ def generate_html(diff_result: dict, output_file: str, title: str,
         unchanged=stats["unchanged"],
         total=len(units),
         diff_count=diff_count,
+        provenance=f'<div class="provenance">{esc(provenance)}</div>' if provenance else "",
         old_name=esc(old_name),
         new_name=esc(new_name),
         rows="\n".join(rows),

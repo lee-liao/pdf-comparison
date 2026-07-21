@@ -13,6 +13,20 @@
 import re
 
 
+def source_info(json_data: dict) -> str:
+    """读取提取引擎与版本，用于报告溯源
+
+    同一份 PDF 在不同引擎/不同 MinerU 服务端版本下的提取结果差异显著
+    （实测 MinerU 2.7.5 与 3.4.0 的差异统计相差近一倍），
+    因此报告必须记录本次结果由谁产出。
+    """
+    backend = json_data.get("_backend") or "unknown"
+    version = json_data.get("_version_name") or "unknown"
+    if backend == "pdfjs":
+        return f"pdf.js {version}"
+    return f"MinerU {version} ({backend})"
+
+
 def _strip_tags(html: str) -> str:
     text = re.sub(r"<[^>]+>", " ", html)
     return re.sub(r"\s+", " ", text).strip()

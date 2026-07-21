@@ -1,0 +1,14 @@
+{
+  "name": "pdf-comparison",
+  "version": "1.0.0",
+  "private": true,
+  "description": "pdf.js 本地提取引擎依赖（供 pdf_compare.py --engine pdfjs 使用）",
+  "type": "module",
+  "license": "ISC",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.1.200"
+  }
+}

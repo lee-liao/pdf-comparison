@@ -9,6 +9,9 @@ venv/
 .claude/
 .wucai/
 
+# Node dependencies (pdf.js 提取引擎)
+node_modules/
+
 # Python cache files
 __pycache__/
 *.py[cod]

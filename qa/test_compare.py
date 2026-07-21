@@ -8,10 +8,12 @@ import json
 import sys
 from pathlib import Path
 
+import fitz
 import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from pdfdiff import coverage, extract  # noqa: E402
 from pdfdiff.compare import compare_texts, normalize  # noqa: E402
 from pdfdiff.extract import extract_text  # noqa: E402
 
@@ -105,7 +107,12 @@ class TestGoldenData:
     """qa/testdata 金标数据回归：统计量不应劣化
 
     基线（2026-07-07）: +35 -29 ~17 未变463
-    参考旧版报告: +53 -59 ~54（配对质量更低）
+
+    重要：金标 JSON 是 **MinerU 2.7.5 (hybrid)** 的产物，见其 `_version_name` 键。
+    MinerU 同版本内确定性，跨版本不确定：同样两份 PDF 在 3.4.0 上是 +49 -47 ~14。
+    服务端已升级且 API 无法指定版本（model_version 只接受 pipeline/vlm/MinerU-HTML），
+    该基线因此不可能由在线调用复现——这些 JSON 是刻意冻结的固定装置，
+    用于回归 compare.py 的算法，不用于衡量 MinerU 当前表现。请勿重新生成。
     """
 
     @pytest.fixture(scope="class")
@@ -128,11 +135,55 @@ class TestGoldenData:
         diff_rows = stats["additions"] + stats["deletions"] + stats["modifications"]
         assert diff_rows <= 85, stats
 
-    def test_known_real_change_present(self, golden_result):
-        """已知真实差异：新文缺失"成"字，必须出现在修改单元中"""
-        modified = [u for u in golden_result["units"] if u["type"] == "modified"]
-        assert any(
-            "会造成人员受伤" in normalize(u["old"] or "")
-            and "会造人员受伤" in normalize(u["new"] or "")
-            for u in modified
-        )
+    # 原 test_known_real_change_present 已删除（2026-07-21）：
+    # 它断言"新文缺失『成』字"是真实差异，实为 MinerU 2.7.5 的提取缺陷——
+    # PyMuPDF 读取两份 PDF 的文字图层，双方都是"会造成人员受伤"，完全一致；
+    # 3.4.0 已能正确提取该字。单字丢失的检出能力由
+    # TestRealChangesDetected::test_single_chinese_char_missing 以合成用例保证，
+    # 不依赖对样本文档的未经证实的断言。
+
+
+class TestCoverage:
+    """提取覆盖率自检：引擎静默丢内容时必须能发现"""
+
+    PDF = TESTDATA / "C19M7324501-1-1_mro-noheader_Page2-17.pdf"
+
+    def test_full_text_layer_scores_high(self):
+        """用 PDF 自身文字图层做提取结果，覆盖率应接近 100%"""
+        truth = coverage.truth_text(self.PDF)
+        recall, missing, total = coverage.coverage(truth, self.PDF)
+        assert total > coverage.MIN_TRUTH_TOKENS
+        assert recall == pytest.approx(1.0), (recall, missing)
+
+    def test_dropped_content_is_detected(self):
+        """丢掉后半段内容时，覆盖率必须显著下降并低于告警阈值"""
+        truth = coverage.truth_text(self.PDF)
+        recall, _, _ = coverage.coverage(truth[: len(truth) // 2], self.PDF)
+        assert recall < coverage.DEFAULT_THRESHOLD
+
+    def test_scanned_pdf_is_skipped(self, tmp_path):
+        """无文字图层（扫描件）无法做基准，应返回 None 而不是误报丢失"""
+        blank = tmp_path / "blank.pdf"
+        doc = fitz.open()
+        doc.new_page()
+        doc.save(blank)
+        doc.close()
+        recall, _, _ = coverage.coverage("任意文本", blank)
+        assert recall is None
+
+
+class TestSourceInfo:
+    """报告溯源：统计量只在同一提取来源下可比"""
+
+    def test_mineru_metadata(self):
+        assert extract.source_info(
+            {"_backend": "hybrid", "_version_name": "3.4.0"}
+        ) == "MinerU 3.4.0 (hybrid)"
+
+    def test_pdfjs_metadata(self):
+        assert extract.source_info(
+            {"_backend": "pdfjs", "_version_name": "6.1.200"}
+        ) == "pdf.js 6.1.200"
+
+    def test_missing_metadata_is_not_fatal(self):
+        assert "unknown" in extract.source_info({})
